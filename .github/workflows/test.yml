@@ -1,0 +1,35 @@
+name: Blog Deploy
+
+on:
+  push:
+    branches:
+      - main  # Set a branch to deploy
+  pull_request:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@v3
+	with:
+	  submodules: true  # Fetch Hugo themes (true OR recursive)
+	  fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+	uses: peaceiris/actions-hugo@v2
+	with:
+	  hugo-version: '0.101.0'
+
+      - name: Build
+	run: hugo
+
+      - name: Sync files
+	uses: SamKirkland/FTP-Deploy-Action@4.0.0
+	with:
+	  server: ${{ secrets.FTP_SERVER }}
+	  username: ${{ secrets.FTP_USERNAME }}
+	  password: ${{ secrets.ftp_password }}
+	  local-dir: ./public/
+	  server-dir: /path/to/www/
