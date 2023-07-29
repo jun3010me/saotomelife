@@ -63,9 +63,9 @@ jobs:
           path: ./public
           
       - name: Sync files
-        uses: SamKirkland/FTP-Deploy-Action@4.3.4
-        with:
-	        server: ${{ secrets.FTP_SERVER }}
+        uses: SamKirkland/FTP-Deploy-Action@4.0.0
+	with:
+	   	server: ${{ secrets.FTP_SERVER }}
 	        username: ${{ secrets.FTP_USERNAME }}
 	        password: ${{ secrets.ftp_password }}
 	        local-dir: ./public/
