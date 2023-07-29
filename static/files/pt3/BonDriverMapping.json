@@ -1,0 +1,179 @@
+﻿/* BonDriverマッピングルール定義ファイル */
+/* 手動で修正した場合はバージョンアップの際に上書きしてしまわないよう気を付けて下さい。 */
+{"BonDriverMappingRules":
+[
+    /* BonDriver_Siro */
+    {
+        "DeviceName": "FriioWhite",
+        "Mapping": {
+            "ISDB_T": "^BonDriver_Siro.*?\\.dll$", /* エスケープはJSON仕様に準じます。 */
+        }
+        /* チューナ種別（デバイス定義ファイルのTunerDefinition要素を参照）と、
+           ファイル名の正規表現（.NET仕様）のペアを記述します。
+           フルパスではなくファイル名のみに対して正規表現が適用されます。 */
+    },
+    /* BonDriver_Kuro */
+    {
+        "DeviceName": "FriioBlack",
+        "Mapping": "^BonDriver_Kuro.*?\\.dll$",
+        /* デバイスのチューナ種別が1種類だけの場合はこう書く事も出来ます。 */
+    },
+
+    /* BonDriver_PT1-ST */
+    {
+        "DeviceName": "PT1",
+        "Mapping": {
+            "ISDB_T": "^BonDriver_PT1-T.*?\\.dll$",
+            "ISDB_S": "^BonDriver_PT1-S.*?\\.dll$",
+            /* チューナ種別ごとにBonDriverがある場合は、それぞれ対応するペアを記述します。 */
+        }
+    },
+    /* BonDriver_PT-ST */
+    {
+        "DeviceName": "PT",
+        "Mapping": {
+            "ISDB_T": "^BonDriver_PT-T.*?\\.dll$",
+            "ISDB_S": "^BonDriver_PT-S.*?\\.dll$",
+        }
+    },
+
+    /* BonDriver_U1ID */
+    {
+        "DeviceName": "DT100",
+        "Mapping": {
+            "ISDB_T": "^BonDriver_U1ID.*?\\.dll$"
+        }
+    },
+    /* BonDriver_U3ID */
+    {
+        "DeviceName": "DT300",
+        "Mapping": {
+            "ISDB_T,ISDB_S": "^BonDriver_U3ID.*?\\.dll$"
+        }
+    },
+    /* BonDriver_D4ID */
+    {
+        "DeviceName": "DT400",
+        "Mapping": {
+            "ISDB_T,ISDB_S": "^BonDriver_D4ID.*?\\.dll$"
+        }
+    },
+
+    /* BonDriver_HDUS */
+    {
+        "DeviceName": "HDUS",
+        "Mapping": {
+            "ISDB_T": "^BonDriver_HDUS.*?\\.dll$"
+        }
+    },
+    /* BonDriver_nnb */
+    {
+        "DeviceName": "HDUS",
+        "Mapping": {
+            "ISDB_T": "^BonDriver_nnb.*?\\.dll$"
+        }
+    },
+
+    /* BonDriver_TV1S */
+    {
+        "DeviceName": "TV1S",
+        "Mapping": {
+            "ISDB_T": "^BonDriver_TV1S.*?\\.dll$"
+        }
+    },
+    /* BonDriver_dyud */
+    {
+        "DeviceName": "DYUD200",
+        "Mapping": {
+            "ISDB_T": "^BonDriver_dyud.*?\\.dll$"
+        }
+    },
+    /* BonDriver_dt7v */
+    {
+        "DeviceName": "DT7V",
+        "Mapping": {
+            "ISDB_T": "^BonDriver_dt7v.*?\\.dll$"
+        }
+    },
+
+    /* BonDriver_DW2104 */
+    {
+        "DeviceName": "DW2104",
+        "Mapping": {
+            "DVB_S,DVB_S2": "^BonDriver_DW2104.*?\\.dll$"
+        }
+    },
+
+    /* BonDriver_KTV */
+    {
+        "DeviceName": "FSUSB2",
+        "Mapping": {
+            "ISDB_T": "^BonDriver_KTV.*?\\.dll$"
+        }
+    },
+    /* BonDriver_FSUSB2 / BonDriver_FSUSB2N */
+    {
+        "DeviceName": "FSUSB2",
+        "Mapping": {
+            "ISDB_T": "^BonDriver_FSUSB2.*?\\.dll$"
+        }
+    },
+
+    /* BonDriver_3WTV_Wrapper / BonDriver_PX_S3U */
+    {
+        "DeviceName": "PXS3U",
+        "Mapping": {
+            "ISDB_T,ISDB_S": "^BonDriver_(PX_)?(S3U|3WTV).*?\\.dll$"
+        }
+    },
+    /* BonDriver_W3PE / BonDriver_PX_W3PE */
+    {
+        "DeviceName": "PXW3PE",
+        "Mapping": {
+            "ISDB_T": "^BonDriver_(PX_)?W3PE_T.*?\\.dll$",
+            "ISDB_S": "^BonDriver_(PX_)?W3PE_S.*?\\.dll$",
+        }
+    },
+
+    /* BonDriver_W3U2 / BonDriver_PX_W3U2 */
+    {
+        "DeviceName": "PXW3U2",
+        "Mapping": {
+            "ISDB_T": "^BonDriver_(PX_)?W3U2_T.*?\\.dll$",
+            "ISDB_S": "^BonDriver_(PX_)?W3U2_S.*?\\.dll$",
+        }
+    },
+
+    /* BonDriver_S3U2 / BonDriver_PX_S3U2 */
+    {
+        "DeviceName": "PXS3U2",
+        "Mapping": {
+            "ISDB_T": "^BonDriver_(PX_)?S3U2_T.*?\\.dll$",
+            "ISDB_S": "^BonDriver_(PX_)?S3U2_S.*?\\.dll$",
+        }
+    },
+
+   /* BonDriver_W3U3 / BonDriver_PX_W3U3 */
+    {
+        "DeviceName": "PXW3U3",
+        "Mapping": {
+            "ISDB_T": "^BonDriver_(PX_)?W3U3_T.*?\\.dll$",
+            "ISDB_S": "^BonDriver_(PX_)?W3U3_S.*?\\.dll$",
+        }
+    },
+    /* BonDriver_Siano */
+    {
+        "DeviceName": "PXS1UD",
+        "Mapping": {
+            "ISDB_T": "^BonDriver_Siano.*?\\.dll$"
+        }
+    },
+    /* BonDriver_PT3-ST */ 
+    { 
+        "DeviceName": "PT3", 
+        "Mapping": { 
+            "ISDB_T": "^BonDriver_PT3-T.*?\\.dll$", 
+            "ISDB_S": "^BonDriver_PT3-S.*?\\.dll$", 
+        }
+    },
+]}

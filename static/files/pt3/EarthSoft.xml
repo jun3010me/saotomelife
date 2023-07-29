@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DeviceDefinitions>
+
+  <!-- DeviceName属性の値はチューナパスに使用されます -->
+  <DeviceDefinition DeviceName="PT1" DisplayName="EarthSoft PT1">
+    <TunerDefinitions>
+      <!-- 搭載チューナの種別分だけTunerDefinition要素を定義します -->
+      <!-- コンボ型チューナの場合はTunerType属性の値をカンマで区切って複数指定します -->
+      <TunerDefinition TunerType="ISDB_T" Count="2">
+        <ChannelCategories>
+          <ChannelCategory>UHF</ChannelCategory>
+          <ChannelCategory>CATV</ChannelCategory>
+          <ChannelCategory>VHF</ChannelCategory>
+        </ChannelCategories>
+      </TunerDefinition>
+      <TunerDefinition TunerType="ISDB_S" Count="2">
+        <ChannelCategories>
+          <ChannelCategory>BS</ChannelCategory>
+          <ChannelCategory>CS110</ChannelCategory>
+        </ChannelCategories>
+      </TunerDefinition>
+    </TunerDefinitions>
+  </DeviceDefinition>
+
+  <DeviceDefinition DeviceName="PT2" DisplayName="EarthSoft PT2">
+    <TunerDefinitions>
+      <TunerDefinition TunerType="ISDB_T" Count="2">
+        <ChannelCategories>
+          <ChannelCategory>UHF</ChannelCategory>
+          <ChannelCategory>CATV</ChannelCategory>
+          <ChannelCategory>VHF</ChannelCategory>
+        </ChannelCategories>
+      </TunerDefinition>
+      <TunerDefinition TunerType="ISDB_S" Count="2">
+        <ChannelCategories>
+          <ChannelCategory>BS</ChannelCategory>
+          <ChannelCategory>CS110</ChannelCategory>
+        </ChannelCategories>
+      </TunerDefinition>
+    </TunerDefinitions>
+  </DeviceDefinition>
+
+  <DeviceDefinition DeviceName="PT" DisplayName="EarthSoft PTx">
+    <TunerDefinitions>
+      <TunerDefinition TunerType="ISDB_T" Count="2">
+        <ChannelCategories>
+          <ChannelCategory>UHF</ChannelCategory>
+          <ChannelCategory>CATV</ChannelCategory>
+          <ChannelCategory>VHF</ChannelCategory>
+        </ChannelCategories>
+      </TunerDefinition>
+      <TunerDefinition TunerType="ISDB_S" Count="2">
+        <ChannelCategories>
+          <ChannelCategory>BS</ChannelCategory>
+          <ChannelCategory>CS110</ChannelCategory>
+        </ChannelCategories>
+      </TunerDefinition>
+    </TunerDefinitions>
+  </DeviceDefinition>
+  <DeviceDefinition DeviceName="PT3" DisplayName="EarthSoft PT3"> 
+   <TunerDefinitions> 
+    <TunerDefinition TunerType="ISDB_T" Count="2"> 
+     <ChannelCategories> 
+      <ChannelCategory>UHF</ChannelCategory> 
+      <ChannelCategory>CATV</ChannelCategory> 
+      <ChannelCategory>VHF</ChannelCategory> 
+     </ChannelCategories> 
+    </TunerDefinition> 
+    <TunerDefinition TunerType="ISDB_S" Count="2"> 
+     <ChannelCategories> 
+      <ChannelCategory>BS</ChannelCategory> 
+      <ChannelCategory>CS110</ChannelCategory> 
+     </ChannelCategories> 
+    </TunerDefinition> 
+   </TunerDefinitions> 
+  </DeviceDefinition> 
+
+</DeviceDefinitions>
