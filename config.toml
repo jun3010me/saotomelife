@@ -1,0 +1,113 @@
+# config.toml
+
+baseURL = 'https://jun3010.me/'
+languageCode = 'ja-JP'
+hasCJKLanguage = "true"
+title = 'さおとめらいふ－魚住惇のブログ'
+theme = "hugo_theme_robust-master"
+summaryLength = 50
+# googleAnalytics = "UA-XXXXXXXX-XX" # Optional Universal Analytics
+# googleAnalytics = "G-XXXXXXX" # Optional Google Analytcs 4
+# disqusShortname = "atooshi-note"
+paginate = 20
+
+[params]
+dateformat = "2006/01/02" # Optional
+googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
+fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
+logofontfamily = "Lobster, cursive" # Optional, Override logo font.
+imageQuality = 80
+dafaultNoimage = "images/default_noimage.png"
+enableRobotsTXT = "true"
+
+# enableHighlight = true # highlight.js option
+
+show_thumb_post = true
+
+[params.author]
+thumbnail = "images/author.jpg"
+name = "魚住惇(うおずみ じゅん)"
+description = "<p>愛知県立高等学校の情報科教諭</p>"
+twitter = "https://twitter.com/jun3010me"
+facebook = "https://www.facebook.com/jun.uozumi/"
+mail = "mailto:jun3010me-at-gmail.com"
+github = "https://github.com/jun3010me"
+
+[outputs]
+page = [ "HTML", "AMP" ] # if you want AMP enable.
+
+[taxonomies]
+  tag = "tags"
+  categories = "categories"
+  archive = "archives"
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.asciidocExt]
+    backend = 'html5'
+    extensions = []
+    failureLevel = 'fatal'
+    noHeaderOrFooter = true
+    preserveTOC = false
+    safeMode = 'unsafe'
+    sectionNumbers = false
+    trace = false
+    verbose = false
+    workingFolderCurrent = false
+    [markup.asciidocExt.attributes]
+  [markup.blackFriday]
+    angledQuotes = false
+    footnoteAnchorPrefix = ''
+    footnoteReturnLinkContents = ''
+    fractions = true
+    hrefTargetBlank = false
+    latexDashes = true
+    nofollowLinks = false
+    noreferrerLinks = false
+    plainIDAnchors = true
+    skipHTML = false
+    smartDashes = true
+    smartypants = true
+    smartypantsQuotesNBSP = false
+    taskLists = true
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      linkifyProtocol = 'https'
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = 'github'
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'monokai'
+    tabWidth = 4
+  [markup.tableOfContents]
+    endLevel = 5
+    ordered = false
+    startLevel = 1
+
+enableGitInfo = true
+[frontmatter]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
