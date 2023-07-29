@@ -1,0 +1,32 @@
+<section class="sidebar">
+  <header>著書紹介</header>
+  <div class="author">
+    <div class="author-name">教師のiPad仕事術</div>
+    <a href="https://amzn.to/3rKArto"><img src="images/book/ipad.jpg" width="200px"></a>
+    <div class="author-description">“仕事ができない教師"から脱出した著者が「現場で本当に使えるiPadアプリ」や「アナログツールとの効果的な併用法」を紹介。</div>
+  </div>
+  <div class="author">
+    <div class="author-name">学校DX物語</div>
+    <a href="https://amzn.to/451qrdA"><img src="images/book/dx.jpg" width="200px"></a>
+    <div class="author-description">学校のDX化を進めたい人にはもちろん、学校で新しい取り組みをしたい人には、改革を進めるためのヒントがぎっしり詰まっている。</div>
+  </div>
+</section>
+
+<section class="sidebar">
+  <header>こだわりらいふnewsletter</header>
+  <div class="author-description"><p>毎週水曜日に配信してる無料メルマガです。SNSやブログには書かないことを書いてます。</p><br></div>
+  <div class="articles sm">
+    <iframe src="https://kodawari.substack.com/embed" width="100%" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+</section>
+
+<section class="sidebar">
+  <header>最近記事</header>
+  <div class="articles sm">
+    {{ range $i, $p := (first 10 .Site.RegularPages) }}
+    {{ .Render "li_sm" }}
+    {{ end }}
+  </div>
+</section>
+
+

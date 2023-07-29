@@ -1,0 +1,23 @@
+{{ with .Site.Params.author }}
+<section class="sidebar">
+  <header>これを書いてる人</header>
+  <div class="author">
+    {{ with .thumbnail }}
+    <div class="author-thumb" style="background-image: url({{ . | absURL }});"></div>
+    {{ end }}
+    <div class="author-name">{{ .name }}</div>
+    <ul class="author-facts">
+      {{ with .facebook }}<li><a href="{{ . }}" rel="noopener nofollow" target="_blank"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>{{ end }}
+      {{ with .twitter }}<li><a href="{{ . }}" rel="noopener nofollow" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>{{ end }}
+      {{ with .github }}<li><a href="{{ . }}" rel="noopener nofollow" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a></li>{{ end }}
+      {{ with .mail }}<li><a href="{{ . }}" rel="noopener nofollow" target="_blank"><i class="far fa-envelope" aria-hidden="true"></i></a></li>{{ end }}
+    </ul>
+    <div class="author-description">{{ .description | safeHTML }}
+      <p>HHKBエバンジェリスト</p><p>ScanSnapプレミアムアンバサダー</p>
+      <p>スクールプランニングノート公式アンバサダー</p>
+      <p>詳しいプロフィールは<a href="https://scrapbox.io/LEGinazawa/%E9%AD%9A%E4%BD%8F%E6%83%87(%E3%81%93%E3%82%8C%E3%82%92%E6%9B%B8%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E4%BA%BA)%E3%81%AE%E7%B5%8C%E6%AD%B4">こちら</a></p>
+      <p>執筆・講演の依頼は<a href="mailto:jun3010me-at-gmail.com">メール</a>で受け付けております</p>
+    </div>
+  </div>
+</section>
+{{ end }}
