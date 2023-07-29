@@ -10,6 +10,7 @@ summaryLength = 50
 # googleAnalytics = "G-XXXXXXX" # Optional Google Analytcs 4
 # disqusShortname = "atooshi-note"
 paginate = 20
+timeout = "300s"
 
 [params]
 dateformat = "2006/01/02" # Optional
