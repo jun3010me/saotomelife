@@ -56,12 +56,6 @@ categories:
 もちろん、カスタマイズも自由です。シロップとかめっちゃ追加しても無料です。  
 ただ、以前とルールが変わったようで、<span class="smb-highlighter">Tallサイズ(標準サイズ)限定</span>です。
 
-詳しい話は、こちらのまとめに書いてあります。<figure class="wp-block-embed is-type-rich is-provider-wp-oembed-blog-card-handler">
-
-<div class="wp-block-embed__wrapper">
-  {{< blog-card "https://matome.naver.jp/odai/2133386255732706201">}}
-</div></figure> 
-
 ## 感想
 <figure class="wp-block-image">
 
