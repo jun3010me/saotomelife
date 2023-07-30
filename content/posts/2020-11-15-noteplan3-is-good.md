@@ -56,7 +56,7 @@ Scrapboxは本当に良いサービスで、編集したままを公開できる
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="VvSL5Xm0p1">
-    <a href="http://192.168.11.200:8000/noteplan-ios-13442.html">NotePlan＋バレットジャーナルで自分のやりたいタスク＆予定管理が実現しつつある</a>
+    <a href="http://jun3010.me/noteplan-ios-13442.html">NotePlan＋バレットジャーナルで自分のやりたいタスク＆予定管理が実現しつつある</a>
   </blockquote>
 </div></figure> 
 
@@ -76,7 +76,7 @@ Scrapboxは本当に良いサービスで、編集したままを公開できる
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="yHAMjcJ9wj">
-    <a href="http://192.168.11.200:8000/obsidian-noteplan3-md-20001.html">ObsidianとNotePlan 3でmdファイルを共有すると便利</a>
+    <a href="http://jun3010.me/obsidian-noteplan3-md-20001.html">ObsidianとNotePlan 3でmdファイルを共有すると便利</a>
   </blockquote>
 </div></figure> 
 

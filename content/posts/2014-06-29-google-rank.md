@@ -175,7 +175,7 @@ Googleは、ウェブマスター(サイト管理者)に対して、どういう
 
 **</p> 
 
-・<a href="http://192.168.11.200:8000/friend-monavie-networkbusiness-3641.html" target="_blank">友人にモナヴィーの説明会に連れて行かれたから断って激怒した時の話 | No:3641 | 早乙女珈琲店</a>
+・<a href="http://jun3010.me/friend-monavie-networkbusiness-3641.html" target="_blank">友人にモナヴィーの説明会に連れて行かれたから断って激怒した時の話 | No:3641 | 早乙女珈琲店</a>
 
 </strong>
 

@@ -25,7 +25,7 @@ categories:
 
 もう、好きすぎて、まとめページまで作ってしまいました。
 
-・<a rel="nofollow" href="http://192.168.11.200:8000/saotomelemon" target="_blank">早乙女檸檬の挑戦状 | 早乙女珈琲店</a>
+・<a rel="nofollow" href="http://jun3010.me/saotomelemon" target="_blank">早乙女檸檬の挑戦状 | 早乙女珈琲店</a>
 
  
 

@@ -56,7 +56,7 @@ Amazonでは、9月12日発売となっています。
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B08F6QBPG2?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">授業力&学級経営力 2020年 10月号 (あなたの「…したい！」を叶える教師の仕事術大全)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -87,7 +87,7 @@ Amazonでは、9月12日発売となっています。
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/4777960064?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">はじめてのiPad超活用術</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -130,7 +130,7 @@ Zoomを使って話をする系のものです。詳細が決まり次第、告�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B087R6VBV8?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">仕事がサクサク進む　教師のiPad仕事術</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

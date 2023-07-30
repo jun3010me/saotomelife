@@ -26,7 +26,7 @@ tags:
 先日、@ITさんの記事を読んで考えたことを書きました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/at-it-new-nexus7-vs-ipadmini-opinion-5291.html" target="_blank">@ITさんの「新型Nexus 7 vs iPad mini」に大体は賛成！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/at-it-new-nexus7-vs-ipadmini-opinion-5291.html" target="_blank">@ITさんの「新型Nexus 7 vs iPad mini」に大体は賛成！ | BeginningNEWS</a>
 </p>
 
 今回は、その続きというか、あの記事を書いていた中で、改めて感じたことを踏まえながら、

@@ -130,7 +130,7 @@ Macを購入した際は何も考えずにVMwareFusionを選んでいたんで�
 しかし、一方でVMwareFusion6だって、同じ価格で最新版へアップデート出来てしまう！
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/vmwarefusion6-upgrade-39-99-coupon-code-5454.html" target="_blank">VMwareFusion6へのアップグレードはクーポンを使うと$39.99になる | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/vmwarefusion6-upgrade-39-99-coupon-code-5454.html" target="_blank">VMwareFusion6へのアップグレードはクーポンを使うと$39.99になる | BeginningNEWS</a>
 </p>
 
 個人的には、既にVMwareFusionユーザーであるなら、VMwareFusion6にアップデートするのが無難ですが、ゲームのスコアが気になる方は、Parallelsを購入するのもアリだと思います(｀･ω･´)ゞ

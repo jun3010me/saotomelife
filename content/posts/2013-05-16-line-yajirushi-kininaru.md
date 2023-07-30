@@ -26,7 +26,7 @@ tags:
 いつから出現すりょうになったのか 以前、LINEアプリのアップデートがありました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/line-iphone-3-6-5-update-2689.html" target="_blank">iPhone版LINEが3.6.5にアップデートされた | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/line-iphone-3-6-5-update-2689.html" target="_blank">iPhone版LINEが3.6.5にアップデートされた | 俺の記事@レンタルサーバ</a>
 </p></p> 
 
 記憶では、**このアップデート後**なんですよね。</p> 

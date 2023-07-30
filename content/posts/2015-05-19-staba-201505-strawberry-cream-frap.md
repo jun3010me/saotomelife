@@ -71,7 +71,7 @@ categories:
 こちらの記事でカスタマイズ例を公開しています。  
 **</p> 
 
-<a href="http://192.168.11.200:8000/staba-201505-strawberry-cream-customize-10772.html" target="_blank">スタバのストロベリー クリーム フラペチーノをもっと美味しくするカスタマイズ！ | No:10772 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/staba-201505-strawberry-cream-customize-10772.html" target="_blank">スタバのストロベリー クリーム フラペチーノをもっと美味しくするカスタマイズ！ | No:10772 | 早乙女珈琲店</a>
 
 </b>
 

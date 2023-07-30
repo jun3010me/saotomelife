@@ -88,7 +88,7 @@ iPadを使ったことがないから、どんなことが出来るのか一度�
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="VocfB2SqLk">
-    <a href="http://192.168.11.200:8000/ipad-teacher-osusume-2-17757.html">教員が初めてiPadを買うなら10.2インチiPad 128GB WIFIが良い</a>
+    <a href="http://jun3010.me/ipad-teacher-osusume-2-17757.html">教員が初めてiPadを買うなら10.2インチiPad 128GB WIFIが良い</a>
   </blockquote>
 </div></figure> 
 
@@ -187,7 +187,7 @@ Apple Pencilが発売してからは、「**もうApple Pencilしかあり得な
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="AHGLreOqK7">
-    <a href="http://192.168.11.200:8000/ipad-iphone-styluspen-14768.html">7年かけて色々試し買い続けて分かった、iPhoneやiPadに最適なタッチペン3本を用途別に紹介します</a>
+    <a href="http://jun3010.me/ipad-iphone-styluspen-14768.html">7年かけて色々試し買い続けて分かった、iPhoneやiPadに最適なタッチペン3本を用途別に紹介します</a>
   </blockquote>
 </div></figure> 
 
@@ -1074,7 +1074,7 @@ iPadはSDカードを内蔵することができないので、**本体のスト
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="kULD6oiQ1v">
-    <a href="http://192.168.11.200:8000/cellular-ipad-sim-osusume-18173.html">Cellular版iPadに挿すとマジで幸福度が上がるSIMカード</a>
+    <a href="http://jun3010.me/cellular-ipad-sim-osusume-18173.html">Cellular版iPadに挿すとマジで幸福度が上がるSIMカード</a>
   </blockquote>
 </div></figure> 
 
@@ -1173,7 +1173,7 @@ iPadより効果ですが、とにかく手軽に持ち歩いて使いたいと�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/4761926066?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">教師のiPad仕事術</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -1200,7 +1200,7 @@ iPadより効果ですが、とにかく手軽に持ち歩いて使いたいと�
 僕はiPad無しでは生活できないなって本当に思っているんですが、世の中の人達は、むしろタブレット端末を持っている人の方が少数派だったということに気づきました。きっかけは
 
 <div class="voice">
-  <figure class="voice-img-right"><figure><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /></figure> <figcaption class="voice-img-description">嫁</figcaption> </figure> 
+  <figure class="voice-img-right"><figure><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /></figure> <figcaption class="voice-img-description">嫁</figcaption> </figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">

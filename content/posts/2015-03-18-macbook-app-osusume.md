@@ -16,7 +16,7 @@ categories:
 先日、MacBookPro 13インチ Retina 2015を購入してからというもの、  
 **</p> 
 
-<a href="http://192.168.11.200:8000/macbookpro-retina-early-2015-customize-10623.html" target="_blank">13インチMacBook Pro Retina Early 2015 AppleStoreカスタマイズモデルを買いました！ | No:10623 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/macbookpro-retina-early-2015-customize-10623.html" target="_blank">13インチMacBook Pro Retina Early 2015 AppleStoreカスタマイズモデルを買いました！ | No:10623 | 早乙女珈琲店</a>
 
 </b>
 
@@ -198,7 +198,7 @@ Macでブログを書くなら、もうこれ無しではいられません。
 ちなみに、クーポンを利用すれば、少し安値で買えます。  
 **</p> 
 
-<a href="http://192.168.11.200:8000/textexpander-mac-coupon-6042.html" target="_blank">[ブロガー必見!]TextExpander Mac版(通常3500円)を2617円で買う方法！ | No:6042 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/textexpander-mac-coupon-6042.html" target="_blank">[ブロガー必見!]TextExpander Mac版(通常3500円)を2617円で買う方法！ | No:6042 | 早乙女珈琲店</a>
 
 </b>
 

@@ -96,7 +96,7 @@ Nexus7は衝動買いレベルで購入出来てしまうんじゃないでし�
 
 <div class="booklink-footer" style="clear: left;">
   <p style="font-size: 18px;">
-    ・<a rel="nofollow" href="http://192.168.11.200:8000/new-nexus7-maybe-august-3575.html" target="_blank">新型Nexus7はいつ発売されるんだろうか | BeginningNEWS</a>
+    ・<a rel="nofollow" href="http://jun3010.me/new-nexus7-maybe-august-3575.html" target="_blank">新型Nexus7はいつ発売されるんだろうか | BeginningNEWS</a>
   </p>
 </div>
 
@@ -109,7 +109,7 @@ Nexus7は衝動買いレベルで購入出来てしまうんじゃないでし�
 ## ※2013年7月2日の23時59分まで、Kindle Fireが3000円引きで買えます！
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/kindle-fire-summer-sale-3616.html" target="_blank">Kindle Fire HD 16GBが12800円で買える！7月2日まで3000円OFFクーポンが使えます！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/kindle-fire-summer-sale-3616.html" target="_blank">Kindle Fire HD 16GBが12800円で買える！7月2日まで3000円OFFクーポンが使えます！ | BeginningNEWS</a>
 </p>
 
 &nbsp;

@@ -26,7 +26,7 @@ tags:
 今、新Nexus7が熱い！多くの方がまだかまだかと発表を待ち望んでいます。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/new-nexus7-maybe-august-3575.html" target="_blank">新型Nexus7はいつ発売されるんだろうか(2013年7月16日更新) | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/new-nexus7-maybe-august-3575.html" target="_blank">新型Nexus7はいつ発売されるんだろうか(2013年7月16日更新) | BeginningNEWS</a>
 </p>
 
  
@@ -116,7 +116,7 @@ Youtubeでは、実際に触っている動画が投稿されています。
 アメリカで7月20日に入荷するという資料が流出したらしいです！
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/new-nexus7-7-20-arrival-4166.html" target="_blank">新Nexus7が7月20日に入荷する資料が米で流出！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/new-nexus7-7-20-arrival-4166.html" target="_blank">新Nexus7が7月20日に入荷する資料が米で流出！ | BeginningNEWS</a>
 </p>
 
  [1]: https://twitter.com/jun3010me

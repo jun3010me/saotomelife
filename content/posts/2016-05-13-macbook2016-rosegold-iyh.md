@@ -23,7 +23,7 @@ categories:
 > 結論としては、既存のコネクタを活かしたいと思ったり、より高いスペックで作業をしたいなら、Proかな。という印象だった。特にHDMI出力やSDXCカードスロットがProには最初から付いている。そのまま使えるUSB端子も魅力だ。しかし、12インチの新型MacBookで、新しい世界を見てみたい気もする。さぁみんなで悩みましょう。(\*´ω｀\*)
 > 
 > <p class="origin">
->   <a href="http://192.168.11.200:8000/macbook-12retina-pro-10605.html" target="new">新型MacBookにするか、MacBookPro13インチRetinaにするか。悩むポイントを挙げてみた – 早乙女珈琲店</a>
+>   <a href="http://jun3010.me/macbook-12retina-pro-10605.html" target="new">新型MacBookにするか、MacBookPro13インチRetinaにするか。悩むポイントを挙げてみた – 早乙女珈琲店</a>
 > </p>
 
 去年はこんなことを実際に記事に書きながら、あーでもないこーでもないと考えていたんですよ。  

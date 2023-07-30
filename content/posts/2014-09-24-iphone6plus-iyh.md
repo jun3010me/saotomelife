@@ -35,7 +35,7 @@ iPhone6Plusで、色はシルバー
 本当に実現できるのかを知りたかったからです。  
 **</p> 
 
-・<a href="http://192.168.11.200:8000/iphone6plus-keikaku-9582.html" target="_blank">iPhone6Plusを買ったら、iPadminiが不要になるんじゃない？ | No:9582 | 早乙女珈琲店</a>
+・<a href="http://jun3010.me/iphone6plus-keikaku-9582.html" target="_blank">iPhone6Plusを買ったら、iPadminiが不要になるんじゃない？ | No:9582 | 早乙女珈琲店</a>
 
 </b>
 
@@ -55,7 +55,7 @@ iPadminiでやっていたことをiPhone6Plusで
 
 **</p> 
 
-<a href="http://192.168.11.200:8000/au-iphone5-shitadorikakaku-up-9614.html" target="_blank">[更新]auのiPhone5ユーザーがiPhone6に機種変更すると、そのまま5を使い続けるよりお得になる計算になった | No:9614 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/au-iphone5-shitadorikakaku-up-9614.html" target="_blank">[更新]auのiPhone5ユーザーがiPhone6に機種変更すると、そのまま5を使い続けるよりお得になる計算になった | No:9614 | 早乙女珈琲店</a>
 
 </b>  
   

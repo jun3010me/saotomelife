@@ -26,7 +26,7 @@ categories:
 
 
 このウェディングケーキで結婚式を挙げるまでに至った詳細については、こちらの記事をご覧ください。  
-<a href="http://192.168.11.200:8000/happy-hacking-keyboard-weddingcake-13346.html" target="_blank">Happy Hacking Keyboard Professional2 無刻印白をモチーフにしたウェディングケーキができるまでの話 – 早乙女珈琲店</a>
+<a href="http://jun3010.me/happy-hacking-keyboard-weddingcake-13346.html" target="_blank">Happy Hacking Keyboard Professional2 無刻印白をモチーフにしたウェディングケーキができるまでの話 – 早乙女珈琲店</a>
 
 ## メッセージと共にやってきたType-S
 
@@ -62,7 +62,7 @@ TwitterのDMでHHKB公式から本件の話をいただき、メールにて住�
 
 どうやってキートップを洗っているのかは、こちらの記事にまとめてあります。
 
-<a href="http://192.168.11.200:8000/hhkb-souji-1859.html" target="_blank" rel="noopener">キーボードの大掃除！ HappyHackingKeyboard Professional2 無刻印 白 を洗浄してみた – 早乙女珈琲店</a>  
+<a href="http://jun3010.me/hhkb-souji-1859.html" target="_blank" rel="noopener">キーボードの大掃除！ HappyHackingKeyboard Professional2 無刻印 白 を洗浄してみた – 早乙女珈琲店</a>  
 こうして2台のHHKBProfessionalを並べてみると、なんだか感慨深いです。
 
 複数箇所に同じHHKBを設置できるという夢のような話が、実現できると思うと本当に嬉しい。

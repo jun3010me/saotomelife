@@ -63,7 +63,7 @@ categories:
 
 **</p> 
 
-<a href="http://192.168.11.200:8000/jins-pc-iyh-550.html" target="_blank">JINS PCを買ってみた – 早乙女珈琲店</a>
+<a href="http://jun3010.me/jins-pc-iyh-550.html" target="_blank">JINS PCを買ってみた – 早乙女珈琲店</a>
 
 </b>
 

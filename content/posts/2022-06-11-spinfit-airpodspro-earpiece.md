@@ -96,7 +96,7 @@ Amazonでのレビューを見ても、これなら痒くならなくなった�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B08CDLX2CJ?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener">SpinFit スピンフィット CP1025 & Adapter AirPodsPro専用 イヤーピース (Mサイズ2ペア/アダプター1ペア付)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

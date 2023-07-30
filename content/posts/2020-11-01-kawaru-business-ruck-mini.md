@@ -58,7 +58,7 @@ categories:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="MMtSUBnz4V">
-    <a href="http://192.168.11.200:8000/hiraku-pc-ruck-nagoya-16917.html">ひらくPCリュックをSUPER CLASSIC 名古屋店で買ってきた</a>
+    <a href="http://jun3010.me/hiraku-pc-ruck-nagoya-16917.html">ひらくPCリュックをSUPER CLASSIC 名古屋店で買ってきた</a>
   </blockquote>
 </div></figure> 
 
@@ -211,7 +211,7 @@ categories:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="Skz5yXzbTZ">
-    <a href="http://192.168.11.200:8000/shokido-richt-13529.html">尚貴堂(しょうきどう)製の片手で開くパスケース「Richt(リヒト)」がかなり有能＆上質な牛革で最高な造り</a>
+    <a href="http://jun3010.me/shokido-richt-13529.html">尚貴堂(しょうきどう)製の片手で開くパスケース「Richt(リヒト)」がかなり有能＆上質な牛革で最高な造り</a>
   </blockquote>
 </div></figure> 
 
@@ -324,7 +324,7 @@ A4サイズのクリアファイルが入るので、書類などを入れるに
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B01AWA6HHC?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">キングジム ペンケース ペンサム はさめるペンケース スリム 黒 2001クロ</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -367,7 +367,7 @@ A4サイズのクリアファイルが入るので、書類などを入れるに
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B00DV9UTEE?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">Access Notebook (アクセスノートブック) 検索性を極めたノートブック</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

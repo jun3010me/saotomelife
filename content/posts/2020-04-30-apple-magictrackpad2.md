@@ -34,7 +34,7 @@ iPhoneSE2020と同時に注文ができるようになっていた魅惑の商�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B0863FZPGF?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">Apple Magic Keyboard (11インチiPad Pro &#8211; 第1世代と第2世代) &#8211; 英語(US)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -74,7 +74,7 @@ iPhoneSE2020と同時に注文ができるようになっていた魅惑の商�
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="IN3BvW8aGu">
-    <a href="http://192.168.11.200:8000/mac-interface-bestchoice-15473.html">Macの操作に欠かせない俺的三種の神器</a>
+    <a href="http://jun3010.me/mac-interface-bestchoice-15473.html">Macの操作に欠かせない俺的三種の神器</a>
   </blockquote>
 </div></figure> 
 
@@ -107,7 +107,7 @@ iPhoneSE2020と同時に注文ができるようになっていた魅惑の商�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B07DPGK3B3?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">Apple Magic Trackpad 2 &#8211; スペースグレイ</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -166,7 +166,7 @@ iPhoneSE2020と同時に注文ができるようになっていた魅惑の商�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B07DPGK3B3?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">Apple Magic Trackpad 2 &#8211; スペースグレイ</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

@@ -22,7 +22,7 @@ tags:
 
 ---
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -32,7 +32,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -42,7 +42,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -54,7 +54,7 @@ tags:
 ## たすくまを使って、良かったと思うこと
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -64,7 +64,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -74,7 +74,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -84,7 +84,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -94,7 +94,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -104,7 +104,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -114,7 +114,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -124,7 +124,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -134,7 +134,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -144,7 +144,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -156,7 +156,7 @@ tags:
 ## 卒業します！
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -166,7 +166,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -176,7 +176,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -186,7 +186,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -196,7 +196,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -206,7 +206,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -218,7 +218,7 @@ tags:
 ## 何のために記録するのか
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -228,7 +228,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -238,7 +238,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -248,7 +248,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">

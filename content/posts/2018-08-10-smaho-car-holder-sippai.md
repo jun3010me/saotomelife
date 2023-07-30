@@ -21,7 +21,7 @@ categories:
 
 [jun3010meの欲しいものリスト][1]
 
-<a href="http://192.168.11.200:8000/smartphone-car-holder-14540.html" target="_blank">今すごく欲しいクリップ式スマホ車載ホルダーの話 | さおとめらいふ</a>  
+<a href="http://jun3010.me/smartphone-car-holder-14540.html" target="_blank">今すごく欲しいクリップ式スマホ車載ホルダーの話 | さおとめらいふ</a>  
 でもね、記事まで書いておいてなんなんですけど、これホンダのフィットには合いませんでした。
 
 ## どんな車載ホルダーなのか
@@ -61,7 +61,7 @@ categories:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">

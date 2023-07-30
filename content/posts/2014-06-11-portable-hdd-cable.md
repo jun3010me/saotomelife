@@ -27,12 +27,12 @@ categories:
 
 購入した当時の記事がこちら↓
 
-・<a href="http://192.168.11.200:8000/wd-my-passport-ultra-2tb-iyh-5755.html" target="_blank">TimeMachineに！写真のバックアップに！とにかくデータが沢山入る大容量ポータブルHDD！WD My Passport Ultra 2.0TB チタニウムを購入した！ | No:5755 | 早乙女珈琲店</a>
+・<a href="http://jun3010.me/wd-my-passport-ultra-2tb-iyh-5755.html" target="_blank">TimeMachineに！写真のバックアップに！とにかくデータが沢山入る大容量ポータブルHDD！WD My Passport Ultra 2.0TB チタニウムを購入した！ | No:5755 | 早乙女珈琲店</a>
 
 で、どんな感じに使っているのかというと、  
 お気に入りのMacBookAir(2012)の天板にマジックテープを貼り付けて、そこにポータブルHDDをぺたっと貼っているんです。
 
-<a href="http://192.168.11.200:8000/macbookair-hdd-magictape-8227.html" target="_blank"><img decoding="async" loading="lazy" class="alignleft" src="http://capture.heartrails.com/150x130/shadow?http://192.168.11.200:8000/macbookair-hdd-magictape-8227.html" alt="" width="150" height="130" align="left" border="0" /></a><a style="color: #0070c5;" href="http://192.168.11.200:8000/macbookair-hdd-magictape-8227.html" target="_blank">MacBookAirに大容量外付けHDDを貼り付けたった！ | No:8227 | 早乙女珈琲店</a><a href="http://b.hatena.ne.jp/entry/http://192.168.11.200:8000/macbookair-hdd-magictape-8227.html" target="_blank"><img decoding="async" src="http://b.hatena.ne.jp/entry/image/http://192.168.11.200:8000/macbookair-hdd-magictape-8227.html" alt="" border="0" /></a><br style="clear: both;" />
+<a href="http://jun3010.me/macbookair-hdd-magictape-8227.html" target="_blank"><img decoding="async" loading="lazy" class="alignleft" src="http://capture.heartrails.com/150x130/shadow?http://jun3010.me/macbookair-hdd-magictape-8227.html" alt="" width="150" height="130" align="left" border="0" /></a><a style="color: #0070c5;" href="http://jun3010.me/macbookair-hdd-magictape-8227.html" target="_blank">MacBookAirに大容量外付けHDDを貼り付けたった！ | No:8227 | 早乙女珈琲店</a><a href="http://b.hatena.ne.jp/entry/http://jun3010.me/macbookair-hdd-magictape-8227.html" target="_blank"><img decoding="async" src="http://b.hatena.ne.jp/entry/image/http://jun3010.me/macbookair-hdd-magictape-8227.html" alt="" border="0" /></a><br style="clear: both;" />
 
 しかーし、そのままマジックテープで貼り付けてしまうと、
 

@@ -18,7 +18,7 @@ categories:
 <img decoding="async" alt="" src="http://ecx.images-amazon.com/images/I/41tCbYIXsUL._SL160_.jpg" border="0" /><!--more-->4月の終わりに佐々木正悟さんのセミナーを受けてからというもの、 自分にとってタスク管理は、どうやったらいいだろうかと、ずっと考えていました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/sasakishogo-task-semina-2538.html" target="_blank">佐々木正悟さんのセミナー、「いつかやりたいこと」を先送りにしない方法 を受けて来ました | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/sasakishogo-task-semina-2538.html" target="_blank">佐々木正悟さんのセミナー、「いつかやりたいこと」を先送りにしない方法 を受けて来ました | 俺の記事@レンタルサーバ</a>
 </p>
 
 &nbsp;

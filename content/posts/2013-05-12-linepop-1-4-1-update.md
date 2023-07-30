@@ -37,5 +37,5 @@ categories:
 LINE No Detectに関してはこちら↓
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/linepop-jailbreak-2214.html" target="_blank">LINEPOPの脱獄対策アップデートにこっちも対策しよう(追記あり) | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/linepop-jailbreak-2214.html" target="_blank">LINEPOPの脱獄対策アップデートにこっちも対策しよう(追記あり) | 俺の記事@レンタルサーバ</a>
 </p></p>

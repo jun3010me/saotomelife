@@ -42,9 +42,9 @@ tags:
 
 この2つの脱獄アプリをインストールする方法は、こちらの記事を参照してください。
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/cydia-app-cctoggles-6603.html" target="_blank">[iPhone5s対応脱獄アプリ]CCSettingsよりも高機能なCCTogglesを入れてみた | フラペチーノ先生の頭のノート</a>**
+**・<a rel="nofollow" href="http://jun3010.me/cydia-app-cctoggles-6603.html" target="_blank">[iPhone5s対応脱獄アプリ]CCSettingsよりも高機能なCCTogglesを入れてみた | フラペチーノ先生の頭のノート</a>**
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/cydia-app-linenolastseen-6624.html" target="_blank">[iPhone5s対応脱獄アプリ]LINEのメッセージを読んでも既読にならないアプリ「Line No Last Seen」を入れた | フラペチーノ先生の頭のノート</a>**
+**・<a rel="nofollow" href="http://jun3010.me/cydia-app-linenolastseen-6624.html" target="_blank">[iPhone5s対応脱獄アプリ]LINEのメッセージを読んでも既読にならないアプリ「Line No Last Seen」を入れた | フラペチーノ先生の頭のノート</a>**
 
 ## インストール方法
 
@@ -117,6 +117,6 @@ LINEが世の中に広まり、無くてはならない存在となった今こ�
 
 興味のある方は、こちらをお読みください。
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/student-line-dependence-6359.html" target="_blank">中高生のLINE依存について考察した | フラペチーノ先生の頭のノート</a>**
+**・<a rel="nofollow" href="http://jun3010.me/student-line-dependence-6359.html" target="_blank">中高生のLINE依存について考察した | フラペチーノ先生の頭のノート</a>**
 
  [1]: https://twitter.com/jun3010me

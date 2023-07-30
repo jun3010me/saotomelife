@@ -50,7 +50,7 @@ iOS12から、色んなアプリの作業を自動化するアプリworkflowがA
 <img decoding="async" loading="lazy" width="1280" height="925" src="/wp-content/uploads/2018/09/B5DA4E8B-1DD3-4B43-B67C-AA2BF9AF71AD.jpeg" alt="" class="wp-image-14890"  sizes="(max-width: 1280px) 100vw, 1280px" /> </figure> 
 
 <div class="voice">
-  <figure class="voice-img-right"><figure><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /></figure> <figcaption class="voice-img-description">嫁</figcaption> </figure> 
+  <figure class="voice-img-right"><figure><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /></figure> <figcaption class="voice-img-description">嫁</figcaption> </figure> 
   
   <div class="voice-text-left">
     <p>
@@ -179,6 +179,6 @@ iOS12から、色んなアプリの作業を自動化するアプリworkflowがA
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="yLh2x9LOJ2">
-    <a href="http://192.168.11.200:8000/yome-kitaku-message-shortcut-16666.html">嫁の機嫌を損ねずワンタップでメッセージを送るショートカット「今から帰るね」</a>
+    <a href="http://jun3010.me/yome-kitaku-message-shortcut-16666.html">嫁の機嫌を損ねずワンタップでメッセージを送るショートカット「今から帰るね」</a>
   </blockquote>
 </div></figure>

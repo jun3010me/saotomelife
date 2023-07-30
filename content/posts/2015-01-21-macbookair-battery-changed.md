@@ -19,7 +19,7 @@ categories:
 交換修理の表示が出た！という記事を書きました。  
 **</p> 
 
-<a href="http://192.168.11.200:8000/macbookair-battery-repair-7137.html" target="_blank">MacBookAir(2012)でバッテリー交換修理と出た！ | No:7137 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/macbookair-battery-repair-7137.html" target="_blank">MacBookAir(2012)でバッテリー交換修理と出た！ | No:7137 | 早乙女珈琲店</a>
 
 </b>  
 ところが、この記事を書いた昨年の4月にAppleStoreに持って行ったところ、  

@@ -20,7 +20,7 @@ categories:
 最初の記事はこちら↓
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/strawberry-cheese-cake-frappuccino-iyh-2-3314.html" target="_blank">スタバの新作！ストロベリーチーズケーキフラペチーノめっちゃ美味しかった！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/strawberry-cheese-cake-frappuccino-iyh-2-3314.html" target="_blank">スタバの新作！ストロベリーチーズケーキフラペチーノめっちゃ美味しかった！ | BeginningNEWS</a>
 </p>
 
 &nbsp;
@@ -30,7 +30,7 @@ categories:
 ## 2013年8月10日更新！
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/staba-aporo-frappuccino-4651.html" target="_blank">[スタバ大人気カスタム]アポロフラペチーノは結構アポロの味で激ウマだった！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/staba-aporo-frappuccino-4651.html" target="_blank">[スタバ大人気カスタム]アポロフラペチーノは結構アポロの味で激ウマだった！ | BeginningNEWS</a>
 </p>
 
 ストロベリーチーズケーキフラペチーノがアポロの味になる大人気カスタムを試してみました！
@@ -156,7 +156,7 @@ categories:
 ## 2013年8月10日更新！
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/staba-aporo-frappuccino-4651.html" target="_blank">[スタバ大人気カスタム]アポロフラペチーノは結構アポロの味で激ウマだった！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/staba-aporo-frappuccino-4651.html" target="_blank">[スタバ大人気カスタム]アポロフラペチーノは結構アポロの味で激ウマだった！ | BeginningNEWS</a>
 </p>
 
 ストロベリーチーズケーキフラペチーノがアポロの味になる大人気カスタムを試してみました！

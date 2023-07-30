@@ -22,7 +22,7 @@ categories:
 以前、こんな記事を書きました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/jabra-easyvoice-a2dp-bluetooth-headset-easyvoice-730.html" target="_blank">Jabra EASYVOICE A2DP Bluetooth headset EASYVOICE　を買った | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/jabra-easyvoice-a2dp-bluetooth-headset-easyvoice-730.html" target="_blank">Jabra EASYVOICE A2DP Bluetooth headset EASYVOICE　を買った | 俺の記事@レンタルサーバ</a>
 </p>
 
 &nbsp;

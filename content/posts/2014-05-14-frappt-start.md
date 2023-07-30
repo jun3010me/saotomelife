@@ -52,7 +52,7 @@ twitter名も併せてjun3010meに変更しました。
   ジュン@jun3010me
 </p>
 
-<img decoding="async" src="http://192.168.11.200:8000/files/jun.jpg" alt="" width="100" /> <a class="twitter-follow-button" href="https://twitter.com/jun3010me" data-show-count="false" data-lang="ja" data-size="large">@jun3010meさんをフォロー</a>
+<img decoding="async" src="http://jun3010.me/files/jun.jpg" alt="" width="100" /> <a class="twitter-follow-button" href="https://twitter.com/jun3010me" data-show-count="false" data-lang="ja" data-size="large">@jun3010meさんをフォロー</a>
 
 
 

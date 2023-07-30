@@ -32,7 +32,7 @@ categories:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="6Pg7og4Yuk">
-    <a href="http://192.168.11.200:8000/kiss-you-iyh-4178.html">歯がツルツルになるイオン歯ブラシ「キスユー（KISS YOU）」を買った</a>
+    <a href="http://jun3010.me/kiss-you-iyh-4178.html">歯がツルツルになるイオン歯ブラシ「キスユー（KISS YOU）」を買った</a>
   </blockquote>
 </div></figure> 
 
@@ -89,7 +89,7 @@ categories:
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/%E8%96%AC%E7%94%A8%E3%82%B7%E3%83%A5%E3%83%9F%E3%83%86%E3%82%AF%E3%83%88-%E3%82%84%E3%81%95%E3%81%97%E3%81%8F%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0EX-%E9%AB%98%E6%BF%83%E5%BA%A6%E3%83%95%E3%83%83%E7%B4%A0%E9%85%8D%E5%90%88-1450ppm-%E7%9F%A5%E8%A6%9A%E9%81%8E%E6%95%8F%E4%BA%88%E9%98%B2/dp/B07FDPPWYK?SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B07FDPPWYK" target="_blank"  rel="noopener noreferrer">[医薬部外品]薬用シュミテクト やさしくホワイトニングEX 高濃度フッ素配合 <1450ppm> 知覚過敏予防 歯磨き粉 90g</a></p> 
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

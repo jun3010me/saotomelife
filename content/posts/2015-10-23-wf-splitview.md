@@ -52,7 +52,7 @@ categories:
 手書きのノートでもアウトラインの書き方でメモしていますし、  
 iPadで何かをメモする時もアウトラインで書いています。
 
-<a href="http://192.168.11.200:8000/think-with-outline-10780.html" target="_blank">アウトラインで考えるってこんなに素晴らしいのか | No:10780 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/think-with-outline-10780.html" target="_blank">アウトラインで考えるってこんなに素晴らしいのか | No:10780 | 早乙女珈琲店</a>
 
 ## SafariとWorkFlowyの2画面が素晴らしい
 

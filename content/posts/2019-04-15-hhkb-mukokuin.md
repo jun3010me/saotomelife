@@ -130,7 +130,7 @@ HHKBは、日本語配列であっても「<span class="smb-highlighter">かな�
         <p>
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

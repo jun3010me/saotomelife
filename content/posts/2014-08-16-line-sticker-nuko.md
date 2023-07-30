@@ -23,7 +23,7 @@ tags:
 前回買ったのもあるんですけどね、  
 **</p> 
 
-・<a href="http://192.168.11.200:8000/line-sticker-mona-8140.html" target="_blank">LINEクリエイターズスタンプでモナーっぽい猫が出てたから即買いした！ | No:8140 | 早乙女珈琲店</a>
+・<a href="http://jun3010.me/line-sticker-mona-8140.html" target="_blank">LINEクリエイターズスタンプでモナーっぽい猫が出てたから即買いした！ | No:8140 | 早乙女珈琲店</a>
 
 </b>  
   

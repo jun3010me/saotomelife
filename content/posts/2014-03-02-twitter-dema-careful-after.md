@@ -21,7 +21,7 @@ categories:
 
 先日、Twitterのデマ情報の拡散に、アプリ認証が絡んでいることを記事にしました。 ****
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/twitter-dema-careful-7102.html" target="_blank">[注意喚起！]twitterのデマ拡散の原因はこいつか！</a>**
+**・<a rel="nofollow" href="http://jun3010.me/twitter-dema-careful-7102.html" target="_blank">[注意喚起！]twitterのデマ拡散の原因はこいつか！</a>**
 
  
 

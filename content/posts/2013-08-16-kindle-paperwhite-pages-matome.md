@@ -25,7 +25,7 @@ tags:
 最近、Kindle関連の記事を書いていたので、固定ページにリンクを作ってみました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/kindlepw" target="_blank">KindlePWまとめ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/kindlepw" target="_blank">KindlePWまとめ | BeginningNEWS</a>
 </p>
 
 Kindleって何？っていう人も、Kindle気になるけど、実際どうなのかなぁと思う人も、

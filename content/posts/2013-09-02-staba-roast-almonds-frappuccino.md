@@ -80,7 +80,7 @@ categories:
 カスタムで、チョコレートチップを追加してみましたヽ(=´▽\`=)ﾉ
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/staba-roast-almonds-frappuccino-custom-5336.html" target="_blank">スタバのローストアーモンドフラペチーノのおすすめカスタムを店員さんに聞いてみた | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/staba-roast-almonds-frappuccino-custom-5336.html" target="_blank">スタバのローストアーモンドフラペチーノのおすすめカスタムを店員さんに聞いてみた | BeginningNEWS</a>
 </p>
 
  [1]: https://twitter.com/jun3010me

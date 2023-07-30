@@ -36,7 +36,7 @@ tags:
 使っているノートは文具王が手がけたアクセスノートブックで、2019年4月現在で9冊目に突入した。検索のための工夫などは一切やっていないが、めくりやすいページと書き心地の良い紙質なので愛用している。あと40ページほどで使い切ってしまうので、そろそろ10冊目を購入したいところだ。<figure class="wp-block-embed is-type-rich is-provider-wp-oembed-blog-card-handler">
 
 <div class="wp-block-embed__wrapper">
-  {{< blog-card "http://192.168.11.200:8000/tag/accessnotebook">}}
+  {{< blog-card "http://jun3010.me/tag/accessnotebook">}}
 </div></figure> 
 
 iPhoneやiPad、Macを使っていない時や、デジタル機器が使えない場所でアクセスノートブック＋万年筆の組み合わせでアイディアを書き留めたりしている。アプリの通知や画面に表示されている余分な情報を一切シャットアウトした環境でアイディアを書き出すためか、デジタルデトックス効果もあってアイディアがどんどん出てくる。
@@ -77,7 +77,7 @@ iPad版のOmniOutlinerは、なんとEssential版でもフォーカス機能が�
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="aJZscacY1V">
-    <a href="http://192.168.11.200:8000/omnioutliner-ipad-hhkbbt-15688.html">OmniOutlinerがiPad＋HHKBBTでちゃんと使える唯一のアウトライナーだ</a>
+    <a href="http://jun3010.me/omnioutliner-ipad-hhkbbt-15688.html">OmniOutlinerがiPad＋HHKBBTでちゃんと使える唯一のアウトライナーだ</a>
   </blockquote>
 </div></figure> 
 

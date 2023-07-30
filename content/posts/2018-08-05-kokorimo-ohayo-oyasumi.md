@@ -25,7 +25,7 @@ tags:
 
 まぁそれは別記事の話。
 
-<a href="http://192.168.11.200:8000/kokorimo-outside-14480.html" target="_blank">「ここリモ」を使って帰宅前にスマホからエアコンを操作した | さおとめらいふ</a>  
+<a href="http://jun3010.me/kokorimo-outside-14480.html" target="_blank">「ここリモ」を使って帰宅前にスマホからエアコンを操作した | さおとめらいふ</a>  
 実は上記記事を書いていた時は、今回の更新で紹介する機能が使えませんでした。つい最近になって、ios版ここリモアプリのアップデートがあり、ようやく設定できるようになったんです。
 
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;zoom: 1;overflow: hidden;">
@@ -105,7 +105,7 @@ tags:
 理由は、嫁の一言です。
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="よめ" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="よめ" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -115,7 +115,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -127,7 +127,7 @@ tags:
 ## おわりに
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">

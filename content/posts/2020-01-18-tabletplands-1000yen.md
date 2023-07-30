@@ -32,7 +32,7 @@ categories:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="TsJlWiCI2d">
-    <a href="http://192.168.11.200:8000/ivideo-900gb-3300yen-17305.html">月額3300円でSoftBank本回線を900GBも使えるiVideoのレンタルSIM</a>
+    <a href="http://jun3010.me/ivideo-900gb-3300yen-17305.html">月額3300円でSoftBank本回線を900GBも使えるiVideoのレンタルSIM</a>
   </blockquote>
 </div></figure> 
 

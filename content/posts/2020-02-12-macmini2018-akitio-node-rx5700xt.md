@@ -79,7 +79,7 @@ Mac mini 2018にはThunderbolt 3端子が4ポート用意されています。�
           &nbsp;
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" target="_blank" rel="nofollow noopener noreferrer">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" target="_blank" rel="nofollow noopener noreferrer">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -188,7 +188,7 @@ PT3マシンにはRX560を載せていますが、ベンチマークの数値で
           &nbsp;
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" target="_blank" rel="nofollow noopener noreferrer">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" target="_blank" rel="nofollow noopener noreferrer">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -341,7 +341,7 @@ eGPUってトラブルが多かったり、そこまで使ってみた事例が�
           &nbsp;
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" target="_blank" rel="nofollow noopener noreferrer">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" target="_blank" rel="nofollow noopener noreferrer">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

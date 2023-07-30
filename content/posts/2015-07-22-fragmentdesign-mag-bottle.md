@@ -74,6 +74,6 @@ categories:
 無事にゲットできました！  
 ヽ(=´▽\`=)ﾉ
 
-<a href="http://192.168.11.200:8000/staba-bottleget-20150729-10972.html" target="_blank">スタバのフラグメントデザイングッズを無事ゲットしました！ | No:10972 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/staba-bottleget-20150729-10972.html" target="_blank">スタバのフラグメントデザイングッズを無事ゲットしました！ | No:10972 | 早乙女珈琲店</a>
 
  [1]: https://twitter.com/jun3010me

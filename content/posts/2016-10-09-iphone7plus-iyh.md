@@ -35,7 +35,7 @@ tags:
 
 ****
 
-**<a href="http://192.168.11.200:8000/au-kishuhenko-atamakin-attention-4472.html" target="_blank" rel="noopener noreferrer">auで機種変更する時は『頭金』に気をつけろ！ – 早乙女珈琲店</a></p> 
+**<a href="http://jun3010.me/au-kishuhenko-atamakin-attention-4472.html" target="_blank" rel="noopener noreferrer">auで機種変更する時は『頭金』に気をつけろ！ – 早乙女珈琲店</a></p> 
 
 </b>****
 

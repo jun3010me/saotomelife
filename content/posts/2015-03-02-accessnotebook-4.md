@@ -32,7 +32,7 @@ AccessNoteBookとは、
 モレスキンと使い比べて、「こっちがいい！」ってなったノートです。  
 **</p> 
 
-<a href="http://192.168.11.200:8000/tag/accessnotebook" target="_blank">AccessNoteBookが最高過ぎたので2冊目購入！使い切った感想も書いてみた | AccessNotebook | No:7127 | 早乙女珈琲店 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/tag/accessnotebook" target="_blank">AccessNoteBookが最高過ぎたので2冊目購入！使い切った感想も書いてみた | AccessNotebook | No:7127 | 早乙女珈琲店 | 早乙女珈琲店</a>
 
 </b>  
 ノートの存在がネットで発表されてから、  
@@ -126,7 +126,7 @@ AccessNoteBookとは、
 2013年8月でした。  
 **</p> 
 
-<a href="http://192.168.11.200:8000/accessnotebook-iyh-4565.html" target="_blank">AccessNoteBook @bungu_oを購入できた！ | No:4565 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/accessnotebook-iyh-4565.html" target="_blank">AccessNoteBook @bungu_oを購入できた！ | No:4565 | 早乙女珈琲店</a>
 
 </b>  
 そして、半年で使い切る生活を送ってきました。
@@ -186,13 +186,13 @@ AccessNoteBookとは、
 <table border="0">
   <tr>
     <td valign="top" width="300">
-      <a href="http://192.168.11.200:8000/jotpro20-iyh-10483.html" target="_blank"><img decoding="async" loading="lazy" border="0" src="http://capture.heartrails.com/300x240/shadow?http://192.168.11.200:8000/jotpro20-iyh-10483.html" alt="" width="300" height="240" /></a>
+      <a href="http://jun3010.me/jotpro20-iyh-10483.html" target="_blank"><img decoding="async" loading="lazy" border="0" src="http://capture.heartrails.com/300x240/shadow?http://jun3010.me/jotpro20-iyh-10483.html" alt="" width="300" height="240" /></a>
     </td>
   </tr>
   
   <tr>
     <td valign="top">
-      <a style="color:#0070C5;" href="http://192.168.11.200:8000/jotpro20-iyh-10483.html" target="_blank">Jot Pro 2.0はiPad Air 2でめっちゃ使えるスタイラスペンだ！ | No:10483 | 早乙女珈琲店</a><a href="http://b.hatena.ne.jp/entry/http://192.168.11.200:8000/jotpro20-iyh-10483.html" target="_blank"><img decoding="async" border="0" src="http://b.hatena.ne.jp/entry/image/http://192.168.11.200:8000/jotpro20-iyh-10483.html" alt="" /></a>
+      <a style="color:#0070C5;" href="http://jun3010.me/jotpro20-iyh-10483.html" target="_blank">Jot Pro 2.0はiPad Air 2でめっちゃ使えるスタイラスペンだ！ | No:10483 | 早乙女珈琲店</a><a href="http://b.hatena.ne.jp/entry/http://jun3010.me/jotpro20-iyh-10483.html" target="_blank"><img decoding="async" border="0" src="http://b.hatena.ne.jp/entry/image/http://jun3010.me/jotpro20-iyh-10483.html" alt="" /></a>
     </td>
   </tr>
 </table>

@@ -451,7 +451,7 @@ Dr.Gripと同じ書き心地にはならないかもしれません。
 今度はフリシャー機能付きです(｀･ω･´)ゞ  
 **</p> 
 
-・<a rel="nofollow" href="http://192.168.11.200:8000/kurutoga-drgrip-furifuri-kaizo-6840.html" target="_blank">[クルトガ改造]ドクターグリップにクルトガ+フリシャーを実装してみた！ | フラペチーノ先生の頭のノート</a>
+・<a rel="nofollow" href="http://jun3010.me/kurutoga-drgrip-furifuri-kaizo-6840.html" target="_blank">[クルトガ改造]ドクターグリップにクルトガ+フリシャーを実装してみた！ | フラペチーノ先生の頭のノート</a>
 
 </b>
 

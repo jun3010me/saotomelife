@@ -97,4 +97,4 @@ categories:
 </b>
 
  [1]: https://twitter.com/jun3010me
- [2]: http://192.168.11.200:8000/?s=%E3%81%82%E3%81%8A%E3%81%8D%E3%82%8A
+ [2]: http://jun3010.me/?s=%E3%81%82%E3%81%8A%E3%81%8D%E3%82%8A

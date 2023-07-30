@@ -31,7 +31,7 @@ tags:
  
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/new-nexus7-amazon-yoyaku-4958.html" target="_blank">新型Nexus7がAmazonで予約受付中になってる！発売日は8月28日だ！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/new-nexus7-amazon-yoyaku-4958.html" target="_blank">新型Nexus7がAmazonで予約受付中になってる！発売日は8月28日だ！ | BeginningNEWS</a>
 </p>
 
 買うとなれば、保護フィルムやケースを買わなければなりません！
@@ -221,7 +221,7 @@ Amazonで本体を注文したものの、発送にはまだまだ時間がか�
 悩んだ結果、マイクロソリューション製をポチりました！
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/new-nexus7-2013-film-micro-solution-4986.html" target="_blank">Nexus7 2013用の保護フィルムはマイクロソリューションで決まり！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/new-nexus7-2013-film-micro-solution-4986.html" target="_blank">Nexus7 2013用の保護フィルムはマイクロソリューションで決まり！ | BeginningNEWS</a>
 </p>
 
  [1]: https://twitter.com/jun3010me

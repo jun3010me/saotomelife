@@ -28,7 +28,7 @@ categories:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="UhuXt4ihle">
-    <a href="http://192.168.11.200:8000/ipad-pro-129-asdec-13328.html">最近のアンチグレアフィルムは凄い。iPad Pro 12.9に貼ったら映り込みがマジで激減した。</a>
+    <a href="http://jun3010.me/ipad-pro-129-asdec-13328.html">最近のアンチグレアフィルムは凄い。iPad Pro 12.9に貼ったら映り込みがマジで激減した。</a>
   </blockquote>
 </div></figure> 
 
@@ -85,7 +85,7 @@ categories:
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B083TPB9K3?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">ASDEC Nintendo Switch フィルム 反射防止 ノングレアフィルム 指紋防止 気泡消失 日本製 MF-NSW01</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

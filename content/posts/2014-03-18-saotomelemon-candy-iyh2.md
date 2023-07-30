@@ -56,7 +56,7 @@ categories:
 
 株式会社リボンに直接電話したりと、長い道のりがありました。
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/saotomelemon" target="_blank">早乙女檸檬の挑戦状まとめ</a>**
+**・<a rel="nofollow" href="http://jun3010.me/saotomelemon" target="_blank">早乙女檸檬の挑戦状まとめ</a>**
 
 ## 販売場所は主に100円ショップ
 

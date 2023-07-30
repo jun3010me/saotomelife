@@ -24,13 +24,13 @@ categories:
 僕の生活には欠かせないと言っても過言ではないすっぱいレモンキャンディーがあります
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/saotomelemon-candy-iyh-2694.html" target="_blank">早乙女檸檬の挑戦状というソフトキャンディーが集中力をガチで高めてくれた | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/saotomelemon-candy-iyh-2694.html" target="_blank">早乙女檸檬の挑戦状というソフトキャンディーが集中力をガチで高めてくれた | BeginningNEWS</a>
 </p>
 
 そして、今回は、6月14日に本社に問い合わせてみた早乙女檸檬の挑戦状のお話の**続き**です。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/saotomelemon-call-ribon-3408.html" target="_blank">早乙女檸檬の挑戦状を売っている場所を、本社に問い合わせてみた！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/saotomelemon-call-ribon-3408.html" target="_blank">早乙女檸檬の挑戦状を売っている場所を、本社に問い合わせてみた！ | BeginningNEWS</a>
 </p>
 
  

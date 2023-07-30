@@ -42,7 +42,7 @@ categories:
         <p>
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/pochipochi.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -77,7 +77,7 @@ categories:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="7MwgHXFcfV">
-    <a href="http://192.168.11.200:8000/schoolplanningnote-howto-15518.html">スクールプランニングノートに今日の出来事を全て書く、記録重視の使い方</a>
+    <a href="http://jun3010.me/schoolplanningnote-howto-15518.html">スクールプランニングノートに今日の出来事を全て書く、記録重視の使い方</a>
   </blockquote>
 </div></figure> 
 
@@ -104,7 +104,7 @@ categories:
         <p>
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -135,7 +135,7 @@ categories:
         <p>
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

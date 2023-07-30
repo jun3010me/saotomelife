@@ -18,7 +18,7 @@ categories:
 Alexaに呼びかけるだけで、照明が操作できるようになってそこそこ経ちました。
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -85,10 +85,10 @@ iMacの裏とかはこんな感じになっていて、LEDの光が直接目に�
 
 我が家にはAmazonのスマートスピーカーAlexaちゃんがいるんですが、その子に照明を登録すると、まじで良いんです。
 
-<a href="http://192.168.11.200:8000/alexa-kokorimo-14488.html" target="_blank">家にある照明やエアコンをスマホで操作できるようにするリモコン「ここリモ」をAmazonのAlexaと連携させた – さおとめらいふ</a>  
+<a href="http://jun3010.me/alexa-kokorimo-14488.html" target="_blank">家にある照明やエアコンをスマホで操作できるようにするリモコン「ここリモ」をAmazonのAlexaと連携させた – さおとめらいふ</a>  
 まぁ厳密に言うと、僕がこの間接照明をスマホに対応させたのが2年前で、当時購入した「ePlug mini」という製品がスマートスピーカーに対応していなかったんです。
 
-<a href="http://192.168.11.200:8000/eplugmini-11981.html" target="_blank">コンセントのスイッチをスマホで操作！ePlug miniを購入したよ – さおとめらいふ</a>  
+<a href="http://jun3010.me/eplugmini-11981.html" target="_blank">コンセントのスイッチをスマホで操作！ePlug miniを購入したよ – さおとめらいふ</a>  
 これに対してメーカーは、新しい商品をリリースすることで対応したので、僕が持っている商品はファームウェアをアップデートすることなく、スマホからしかスイッチを操作できない状態です。
 
 ちなみにスマートスピーカーに対応したコンセントはこちら。今から間接照明みたいにコンセントに付けた照明などをAlexaちゃんに登録したいなら、新しいものを選んだり、商品内容にAlexa対応と書かれているものを購入することをおすすめします。
@@ -128,7 +128,7 @@ iMacの裏とかはこんな感じになっていて、LEDの光が直接目に�
 あぁ、個人的にこのアダプタすんごく欲しいぞ。でもきっと嫁は、お金の無駄だと反対するんだろうなぁ。
 
 <div class="voice">
-  <figure class="voice-img-right"> <img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"> <img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">

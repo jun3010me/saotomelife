@@ -47,7 +47,7 @@ categories:
 LINE依存については、こちらの記事をご覧ください。  
 **</p> 
 
-<a href="http://192.168.11.200:8000/student-line-dependence-6359.html" target="_blank">[今の中学生はLINEじゃないと告白できない!?]中高生のLINE依存トラブルの現状を考察しました | No:6359 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/student-line-dependence-6359.html" target="_blank">[今の中学生はLINEじゃないと告白できない!?]中高生のLINE依存トラブルの現状を考察しました | No:6359 | 早乙女珈琲店</a>
 
 </b>  
 一言で言うと、<span class="mky">コミュニケーション自体のスピードが上がった</span>ことが特徴です。

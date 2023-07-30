@@ -26,7 +26,7 @@ iPhone5の頃から、僕はずっとアルミバンパーをiPhoneに付けて�
 
 <img decoding="async" src="/wp-content/uploads/2013/06/2013-06-19_21.16.02-2.jpg" /> 
 
-<a href="http://192.168.11.200:8000/wrapple-for-iphone5-and-deff-cleave-best-3474.html" target="_blank" rel="noopener">Wrapple for iPhone 5 【ローズウッド】とDeff CLEAVE ALUMINUM BUMPER (フレアレッド)の相性が最高すぎる – さおとめらいふ</a>  
+<a href="http://jun3010.me/wrapple-for-iphone5-and-deff-cleave-best-3474.html" target="_blank" rel="noopener">Wrapple for iPhone 5 【ローズウッド】とDeff CLEAVE ALUMINUM BUMPER (フレアレッド)の相性が最高すぎる – さおとめらいふ</a>  
 今でこそiPhoneは防水なので、ウッドステッカーなどはお風呂でiPhoneを使うことを考えると貼ることができませんが、本当に当時は気に入って使っていたんです。
 
 周囲からも「それiPhone？」と聞かれるほど、iPhoneっぽくなく、それがたまらないほど良かったんです。
@@ -114,7 +114,7 @@ iPhone XSに取り付けてみました。一回りデカくなりますが、�
 画面の隅を触るような操作の時、例えばiPhone X以降でホーム画面に戻る為の操作の時に、バンパーと干渉するんじゃないかと心配もしたんですが、ほぼ干渉してると思うことなく操作できます。全然許せるレベルです。
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -124,7 +124,7 @@ iPhone XSに取り付けてみました。一回りデカくなりますが、�
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -254,7 +254,7 @@ ASDEC製なので、貼りづらさはあるものの、仕上がりには定評
 <img decoding="async" loading="lazy" class="alignnone size-full wp-image-15049" src="/wp-content/uploads/2018/10/UNADJUSTEDNONRAW_thumb_4230.jpg" width="1024" height="768"  sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -264,7 +264,7 @@ ASDEC製なので、貼りづらさはあるものの、仕上がりには定評
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -274,7 +274,7 @@ ASDEC製なので、貼りづらさはあるものの、仕上がりには定評
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">

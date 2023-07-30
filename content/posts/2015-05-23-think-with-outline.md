@@ -100,7 +100,7 @@ categories:
 
 **</p> 
 
-<a href="http://192.168.11.200:8000/mindnode-mac-iphone-ipad-7913.html" target="_blank">MacやiPhoneで簡単にマインドマップが作成できるアプリ「MindNode」がかなり使いやすい!! | No:7913 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/mindnode-mac-iphone-ipad-7913.html" target="_blank">MacやiPhoneで簡単にマインドマップが作成できるアプリ「MindNode」がかなり使いやすい!! | No:7913 | 早乙女珈琲店</a>
 
 </b>
 
@@ -161,7 +161,7 @@ iPad用のスタイラスペンに拘っているのはそのためです。
 新しいスタイラスペンを買うことはしばらくないでしょう。  
 **</p> 
 
-<a href="http://192.168.11.200:8000/jotpro20-iyh-10483.html" target="_blank">Jot Pro 2.0はiPad Air 2でめっちゃ使えるスタイラスペンだ！ | No:10483 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/jotpro20-iyh-10483.html" target="_blank">Jot Pro 2.0はiPad Air 2でめっちゃ使えるスタイラスペンだ！ | No:10483 | 早乙女珈琲店</a>
 
 </b>  
 ただね、iPadで手書きのノートの代わりをやらせようとすると、  

@@ -34,7 +34,7 @@ WiMAXのモバイルルータを別の鞄に入れっぱなしにしたのを忘
 ## auの電波でのテザリングは途切れまくり
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/prl-au-packet-tsumaru-3544.html" target="_blank">PRLを更新したってauのパケット詰まりは直らない | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/prl-au-packet-tsumaru-3544.html" target="_blank">PRLを更新したってauのパケット詰まりは直らない | BeginningNEWS</a>
 </p>
 
 場所にもよると思うんですが、最近のauはとにかくパケットが詰まります。
@@ -96,7 +96,7 @@ iPhoneってタイムアウトが設定してあるのか、
 シェアリーのWiMAXなら月額2000円で使えるので好んで使ってます。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/lte-7gb-wimax-2450.html" target="_blank">LTEの7GB制限に耐えられないならWiMAXが便利！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/lte-7gb-wimax-2450.html" target="_blank">LTEの7GB制限に耐えられないならWiMAXが便利！ | BeginningNEWS</a>
 </p>
 
  

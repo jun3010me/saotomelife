@@ -73,7 +73,7 @@ categories:
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/448007127X?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener">ファンベース (ちくま新書)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -99,7 +99,7 @@ categories:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="h9hyxPBs3p">
-    <a href="http://192.168.11.200:8000/funbase-19076.html">受験生よりも今の在校生を大事にするファンベースの考え方</a>
+    <a href="http://jun3010.me/funbase-19076.html">受験生よりも今の在校生を大事にするファンベースの考え方</a>
   </blockquote>
 </div></figure> 
 
@@ -216,7 +216,7 @@ Z世代についての本を最近読んだと言うのもありますが、僕�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/4334045073?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener">Z世代 若者はなぜインスタ・TikTokにハマるのか? (光文社新書)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -303,7 +303,7 @@ GIGAスクール構想で実現したいことの一つに、「個別最適化�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/4106108208?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener">ケーキの切れない非行少年たち (新潮新書)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -332,7 +332,7 @@ GIGAスクール構想で実現したいことの一つに、「個別最適化�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/4106109034?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener">どうしても頑張れない人たち~ケーキの切れない非行少年たち2 (新潮新書)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -361,7 +361,7 @@ GIGAスクール構想で実現したいことの一つに、「個別最適化�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/4865605231?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener">未来の学校のつくりかた: 5つの教育現場を訪ねて、僕が考えたこと</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

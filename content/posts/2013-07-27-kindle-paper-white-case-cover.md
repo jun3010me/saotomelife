@@ -28,7 +28,7 @@ categories:
 KindlePaperwhiteの修理の神対応を受けてから10日ほど経ちました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/kindle-paper-white-broken-amazon-god-4124.html" target="_blank">KindlePaperWhite3Gの液晶が割れたがAmazonが神対応してくれた！ついでに保護フィルムも買った！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/kindle-paper-white-broken-amazon-god-4124.html" target="_blank">KindlePaperWhite3Gの液晶が割れたがAmazonが神対応してくれた！ついでに保護フィルムも買った！ | BeginningNEWS</a>
 </p>
 
  
@@ -186,7 +186,7 @@ iPadminiのWIFIモデルが302グラムなので、それよりも重いんで�
 <img decoding="async" loading="lazy" title="NewImage.png" src="/wp-content/uploads/2013/07/NewImage19.png" alt="NewImage" width="600" height="450" border="0" /> 
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/macbookair13-seethrusatin-red-present-3445.html" target="_blank">この赤を求めていたんだ！MacBook Air 13インチ SeeThruSatin ポモドーロレッドを貰った！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/macbookair13-seethrusatin-red-present-3445.html" target="_blank">この赤を求めていたんだ！MacBook Air 13インチ SeeThruSatin ポモドーロレッドを貰った！ | BeginningNEWS</a>
 </p>
 
  
@@ -198,7 +198,7 @@ iPadminiのWIFIモデルが302グラムなので、それよりも重いんで�
 <img decoding="async" loading="lazy" title="NewImage.png" src="/wp-content/uploads/2013/07/NewImage17.png" alt="NewImage" width="400" height="271" border="0" /> 
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/wrapple-for-iphone5-and-deff-cleave-best-3474.html" target="_blank">Wrapple for iPhone 5 【ローズウッド】とDeff CLEAVE ALUMINUM BUMPER (フレアレッド)の相性が最高すぎる | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/wrapple-for-iphone5-and-deff-cleave-best-3474.html" target="_blank">Wrapple for iPhone 5 【ローズウッド】とDeff CLEAVE ALUMINUM BUMPER (フレアレッド)の相性が最高すぎる | BeginningNEWS</a>
 </p>
 
  
@@ -208,7 +208,7 @@ iPadminiのWIFIモデルが302グラムなので、それよりも重いんで�
 <img decoding="async" loading="lazy" title="NewImage.png" src="/wp-content/uploads/2013/07/NewImage20.png" alt="NewImage" width="300" height="225" border="0" /> 
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/jabra-easygo-a2dp-iyh-2517.html" target="_blank">Jabra EASYGO A2DP Bluetooth ヘッドセット EASYGO A2DPを買い直した | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/jabra-easygo-a2dp-iyh-2517.html" target="_blank">Jabra EASYGO A2DP Bluetooth ヘッドセット EASYGO A2DPを買い直した | BeginningNEWS</a>
 </p>
 
  
@@ -218,7 +218,7 @@ iPadminiのWIFIモデルが302グラムなので、それよりも重いんで�
 <img decoding="async" loading="lazy" title="NewImage.png" src="/wp-content/uploads/2013/07/NewImage22.png" alt="NewImage" width="450" height="600" border="0" /> 
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/ipad-mini-case-1824.html" target="_blank">iPad mini のケースを購入した | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/ipad-mini-case-1824.html" target="_blank">iPad mini のケースを購入した | BeginningNEWS</a>
 </p>
 
 これだけ赤を揃えた僕が、Kindleだけ赤じゃないなんて、ありません！！！！

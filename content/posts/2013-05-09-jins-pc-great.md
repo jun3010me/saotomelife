@@ -18,7 +18,7 @@ categories:
 <img decoding="async" loading="lazy" title="31sh2LiWIiL.jpg" alt="31sh2LiWIiL" src="/wp-content/uploads/2013/05/31sh2LiWIiL.jpg" width="300" height="236" border="0" /><!--more-->JINSPCを購入したのは２年前です。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/jins-pc-iyh-550.html" target="_blank">JINS PCを買ってみた | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/jins-pc-iyh-550.html" target="_blank">JINS PCを買ってみた | 俺の記事@レンタルサーバ</a>
 </p>
 
 &nbsp;

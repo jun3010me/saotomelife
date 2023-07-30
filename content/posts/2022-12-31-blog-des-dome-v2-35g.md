@@ -27,13 +27,13 @@ tags:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="PN8R27zkTW">
-    <a href="http://192.168.11.200:8000/blog-hhkb-dome-22413.html">HHKBのラバードームをDESKEYSの「DES-DOMES BKE Tactile」に交換してみた</a>
+    <a href="http://jun3010.me/blog-hhkb-dome-22413.html">HHKBのラバードームをDESKEYSの「DES-DOMES BKE Tactile」に交換してみた</a>
   </blockquote>
 </div></figure> <figure class="wp-block-embed is-type-rich is-provider-wp-oembed-blog-card wp-block-embed-wp-oembed-blog-card">
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="Z3EuDRuJYD">
-    <a href="http://192.168.11.200:8000/blog-hhkb-lube-23166.html">HHKBにルブを行うと、かなり滑らかな打ち心地になった</a>
+    <a href="http://jun3010.me/blog-hhkb-lube-23166.html">HHKBにルブを行うと、かなり滑らかな打ち心地になった</a>
   </blockquote>
 </div></figure> 
 

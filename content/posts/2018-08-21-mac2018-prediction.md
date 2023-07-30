@@ -27,10 +27,10 @@ categories:
 
 2018年8月現在、僕の所有しているMacはiMac2010 21.5インチモデルと、MacBook12インチ2016だ。そのままそれぞれ使っていたら特に不満はなかったのだが、「BDM4350UC/11」という4k43インチディスプレイを購入してからというもの、現状のMacの構成に不満が出てしまった。
 
-<a href="http://192.168.11.200:8000/imac2010-4k-displayport-14608.html" target="_blank" rel="noopener">iMac 2010でも4k解像度(3840×2160)30Hzで外部ディスプレイに出力できた | さおとめらいふ</a>  
+<a href="http://jun3010.me/imac2010-4k-displayport-14608.html" target="_blank" rel="noopener">iMac 2010でも4k解像度(3840×2160)30Hzで外部ディスプレイに出力できた | さおとめらいふ</a>  
 iMac2010は8年前に発売された初代Corei系が搭載されている。USBも2.0だ。ただし、メモリは16GBまで増やし、CPUもi7に換装した。ウェブブラウジングくらいならまだまだ使える(と思っている)。
 
-<a href="http://192.168.11.200:8000/imac2010-cpu-i7-12140.html" target="_blank" rel="noopener">これでまだ戦える！iMac 2010のCPUをCore i3からi7に換装した | さおとめらいふ</a>  
+<a href="http://jun3010.me/imac2010-cpu-i7-12140.html" target="_blank" rel="noopener">これでまだ戦える！iMac 2010のCPUをCore i3からi7に換装した | さおとめらいふ</a>  
 しかしこのiMac2010では、4kディスプレイに4kの解像度(3840&#215;2160)とリフレッシュレート60Hzで満足に表示できなかった。MacBook12なら、USB-CポートにDisplayPortに変換するアダプタを取り付けることで、表示することはできた。でも、ブラウジングだけで精一杯で、動画再生も満足に行うことができなかった。
 
 そんな時、macOS High Sierra 10.13.4からThunderbolt3で外付けのグラフィック(eGPU)が使えるようになった。

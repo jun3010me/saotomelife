@@ -106,7 +106,7 @@ UNiCASEで貼ってもらうと、
 気になる方は参照していただくとして、  
 **</p> 
 
-<a href="http://192.168.11.200:8000/iphone5s-microsolution-film-pro-guard-5628.html" target="_blank">[指紋認証OKな保護フィルム]iPhone5sにマイクロソリューションのPRO GUARDを貼った！ | No:5628 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/iphone5s-microsolution-film-pro-guard-5628.html" target="_blank">[指紋認証OKな保護フィルム]iPhone5sにマイクロソリューションのPRO GUARDを貼った！ | No:5628 | 早乙女珈琲店</a>
 
 </b>  
   
@@ -168,4 +168,4 @@ UNiCASEならパワサポを貼ってもらえるんだもんね
 </div>
 
  [1]: https://twitter.com/jun3010me
- [2]: http://192.168.11.200:8000/unicase-iphone-glassfilm-9771.html
+ [2]: http://jun3010.me/unicase-iphone-glassfilm-9771.html

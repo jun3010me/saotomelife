@@ -30,7 +30,7 @@ Pro2を使わなくなった理由は、新型HHKBが出たっていうのも要
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="1bU6LQwO9o">
-    <a href="http://192.168.11.200:8000/hhkb-ring-22525.html">HHKBに「DES Topre Silencing Rings」を装着したら、打鍵音がめちゃくちゃ軽減された</a>
+    <a href="http://jun3010.me/hhkb-ring-22525.html">HHKBに「DES Topre Silencing Rings」を装着したら、打鍵音がめちゃくちゃ軽減された</a>
   </blockquote>
 </div></figure> 
 
@@ -38,7 +38,7 @@ Pro2を使わなくなった理由は、新型HHKBが出たっていうのも要
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="hOTyXf0rwo">
-    <a href="http://192.168.11.200:8000/blog-hhkb-dome-ana-22549.html">HHKBのラバードームに穴を開けて押下圧を軽くした</a>
+    <a href="http://jun3010.me/blog-hhkb-dome-ana-22549.html">HHKBのラバードームに穴を開けて押下圧を軽くした</a>
   </blockquote>
 </div></figure> 
 

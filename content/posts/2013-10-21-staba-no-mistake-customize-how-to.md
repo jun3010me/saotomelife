@@ -48,7 +48,7 @@ categories:
 &nbsp;
 
 コーヒージェリーフラペチーノのカスタマイズも載せています！  
-是非、<a href="http://192.168.11.200:8000/category/gurume-repo/staba" rel="nofollow">早乙女珈琲店のスタバカスタマイズ記事</a>を参考にしてください
+是非、<a href="http://jun3010.me/category/gurume-repo/staba" rel="nofollow">早乙女珈琲店のスタバカスタマイズ記事</a>を参考にしてください
 
 ヽ(=´▽\`=)ﾉ
 
@@ -202,7 +202,7 @@ categories:
 
 当ブログでは、カスタマイズの内容を細かく紹介しています。
 
-**・<a href="http://192.168.11.200:8000/category/gurume-repo/staba" target="_blank" rel="nofollow">スタバ | 早乙女珈琲店</a>**
+**・<a href="http://jun3010.me/category/gurume-repo/staba" target="_blank" rel="nofollow">スタバ | 早乙女珈琲店</a>**
 
 ** **
 
@@ -214,6 +214,6 @@ categories:
 
 たまにの**自分へのご褒美**として、贅沢を楽しんでみてはいかがでしょうか。ヽ(=´▽\`=)ﾉ
 
-<a href="http://192.168.11.200:8000/caramel-pudding-frap-customize-osusume-9519.html" target="_blank"><img decoding="async" loading="lazy" class="alignleft" align="left" border="0" src="http://capture.heartrails.com/150x130/shadow?http://192.168.11.200:8000/caramel-pudding-frap-customize-osusume-9519.html" alt="" width="150" height="130" /></a><a style="color:#0070C5;" href="http://192.168.11.200:8000/caramel-pudding-frap-customize-osusume-9519.html" target="_blank">キャラメル ＆ プディング フラペチーノ を超美味しくカスタマイズする方法 | No:9519 | 早乙女珈琲店</a><a href="http://b.hatena.ne.jp/entry/http://192.168.11.200:8000/caramel-pudding-frap-customize-osusume-9519.html" target="_blank"><img decoding="async" border="0" src="http://b.hatena.ne.jp/entry/image/http://192.168.11.200:8000/caramel-pudding-frap-customize-osusume-9519.html" alt="" /></a><br style="clear:both;" />
+<a href="http://jun3010.me/caramel-pudding-frap-customize-osusume-9519.html" target="_blank"><img decoding="async" loading="lazy" class="alignleft" align="left" border="0" src="http://capture.heartrails.com/150x130/shadow?http://jun3010.me/caramel-pudding-frap-customize-osusume-9519.html" alt="" width="150" height="130" /></a><a style="color:#0070C5;" href="http://jun3010.me/caramel-pudding-frap-customize-osusume-9519.html" target="_blank">キャラメル ＆ プディング フラペチーノ を超美味しくカスタマイズする方法 | No:9519 | 早乙女珈琲店</a><a href="http://b.hatena.ne.jp/entry/http://jun3010.me/caramel-pudding-frap-customize-osusume-9519.html" target="_blank"><img decoding="async" border="0" src="http://b.hatena.ne.jp/entry/image/http://jun3010.me/caramel-pudding-frap-customize-osusume-9519.html" alt="" /></a><br style="clear:both;" />
 
  [1]: https://twitter.com/jun3010me

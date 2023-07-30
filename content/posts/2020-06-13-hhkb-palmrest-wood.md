@@ -32,7 +32,7 @@ tags:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="wETEqdGNpM">
-    <a href="http://192.168.11.200:8000/hhkb-osusume-riyu-18492.html">どうして僕はこうもHHKBを推すのか改めて考える</a>
+    <a href="http://jun3010.me/hhkb-osusume-riyu-18492.html">どうして僕はこうもHHKBを推すのか改めて考える</a>
   </blockquote>
 </div></figure> 
 
@@ -49,7 +49,7 @@ tags:
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B082TWHY76?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">HHKB Professional HYBRID Type-S 無刻印／白（英語配列）</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -144,7 +144,7 @@ HHKBって、裏面にゴム足があるんですけど、タイプしている�
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="X9qn9iEvwG">
-    <a href="http://192.168.11.200:8000/hhkbbt-pz-kbkmg-bt-16390.html">HHKB吸振マットHG(BT用)で更に良い打ち心地＆若干の静音化</a>
+    <a href="http://jun3010.me/hhkbbt-pz-kbkmg-bt-16390.html">HHKB吸振マットHG(BT用)で更に良い打ち心地＆若干の静音化</a>
   </blockquote>
 </div></figure> 
 

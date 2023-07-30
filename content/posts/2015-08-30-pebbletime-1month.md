@@ -16,7 +16,7 @@ tags:
 我が家にPebble Timeが届いてから、1ヶ月ほど経ちました。  
 **</p> 
 
-<a href="http://192.168.11.200:8000/preorder-todoita-10928.html" target="_blank">Pre-OrderしていたPebble Timeが届くまでの軌跡 | No:10928 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/preorder-todoita-10928.html" target="_blank">Pre-OrderしていたPebble Timeが届くまでの軌跡 | No:10928 | 早乙女珈琲店</a>
 
 </b>  
   

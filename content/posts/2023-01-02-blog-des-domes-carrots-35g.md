@@ -58,7 +58,7 @@ Topreの静電容量無接点のラバードームにかなり似ている形状
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="1U0iZELkvg">
-    <a href="http://192.168.11.200:8000/blog-hhkb-dome-22413.html">HHKBのラバードームをDESKEYSの「DES-DOMES BKE Tactile」に交換してみた</a>
+    <a href="http://jun3010.me/blog-hhkb-dome-22413.html">HHKBのラバードームをDESKEYSの「DES-DOMES BKE Tactile」に交換してみた</a>
   </blockquote>
 </div></figure> 
 
@@ -70,7 +70,7 @@ Topreの静電容量無接点のラバードームにかなり似ている形状
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="1nr94yeQI1">
-    <a href="http://192.168.11.200:8000/blog-des-dome-v2-35g-23196.html">「des-dome V2 rounder-bke style」の35gをHHKB雪に使った</a>
+    <a href="http://jun3010.me/blog-des-dome-v2-35g-23196.html">「des-dome V2 rounder-bke style」の35gをHHKB雪に使った</a>
   </blockquote>
 </div></figure> 
 
@@ -278,7 +278,7 @@ DESKEYSさん、この度はCARROTSドームを送ってくださりありがと
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="lH0SWzL0g5">
-    <a href="http://192.168.11.200:8000/amazon-gpl205g0-23270.html">Amazonで売られている10g1800円のGPL205g0でHHKBにルブをした</a>
+    <a href="http://jun3010.me/amazon-gpl205g0-23270.html">Amazonで売られている10g1800円のGPL205g0でHHKBにルブをした</a>
   </blockquote>
 </div></figure>
 

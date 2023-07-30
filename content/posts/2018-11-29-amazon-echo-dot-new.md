@@ -24,7 +24,7 @@ categories:
 先日、AmazonでAmazon Echoが1台5980円のところが2台で5500円だったので衝動買いしちゃいました。
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -47,7 +47,7 @@ categories:
 
 ちょっと前に、Alexaから照明を付けたり消したりできるようにしました。
 
-<a href="http://192.168.11.200:8000/koogeek-smart-plug-p1-14962.html" target="_blank" rel="noopener">Amazonで2000円台で買えるHomekit,Alexa,GoogleHome対応スマートコンセントプラグ – さおとめらいふ</a>  
+<a href="http://jun3010.me/koogeek-smart-plug-p1-14962.html" target="_blank" rel="noopener">Amazonで2000円台で買えるHomekit,Alexa,GoogleHome対応スマートコンセントプラグ – さおとめらいふ</a>  
 このコンセントの制御をAlexaに声をかけてやっているわけなんですが、当然近くにAlexaを置いているので、他の部屋からは操作が出来ないんですよね。つまりこれは「消し忘れ」に対応できない。証明をつけたまま寝室に行ってしまったら、再度証明がついている場所まで行かないと消せないんですね。
 
 これを読んで「いやそれは普通に消してから移動すればいいじゃん」と思う方、多いと思います。その人はしっかり者なんでしょうね。僕はしっかり者ではないので、どの部屋からでも照明のオンオフが出来るようにした方が、結果的に消し忘れが減るんじゃないかと思ったんですよ。
@@ -57,7 +57,7 @@ categories:
 スマートスピーカーを我が家で利用する頻度として割と高いのが、タイマーとしての利用です。
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -67,7 +67,7 @@ categories:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/bk.jpg" alt="Alexa" /><figcaption class="voice-img-description">声</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/bk.jpg" alt="Alexa" /><figcaption class="voice-img-description">声</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -83,7 +83,7 @@ categories:
 つまり、キッチンからアレクサにタイマーをお願いする際は、日常的にこんなことが起こっていたんです。
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -93,7 +93,7 @@ categories:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -103,7 +103,7 @@ categories:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/bk.jpg" alt="Alexa" /><figcaption class="voice-img-description">声</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/bk.jpg" alt="Alexa" /><figcaption class="voice-img-description">声</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -121,7 +121,7 @@ categories:
 これを解消したい。ならばどうするか。
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -131,7 +131,7 @@ categories:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -141,7 +141,7 @@ categories:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -151,7 +151,7 @@ categories:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">

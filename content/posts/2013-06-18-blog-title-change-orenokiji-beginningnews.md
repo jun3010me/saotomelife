@@ -59,7 +59,7 @@ categories:
 
 URLも
 
-<a rel="nofollow" href="http://192.168.11.200:8000">http://192.168.11.200:8000/</a>
+<a rel="nofollow" href="http://192.168.11.200:8000">http://jun3010.me/</a>
 
 から
 

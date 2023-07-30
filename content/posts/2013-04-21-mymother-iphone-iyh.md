@@ -26,7 +26,7 @@ tags:
 
 昨日の更新した記事
 
-?<span style="font-size: 18px;">・</span><a style="font-size: 18px;" href="http://192.168.11.200:8000/fuso-aeon-smahoshop-2505.html" target="_blank">扶桑のイオンにスマホケースショップがオープンしていた(追記) | 俺の記事@レンタルサーバ</a></p> 
+?<span style="font-size: 18px;">・</span><a style="font-size: 18px;" href="http://jun3010.me/fuso-aeon-smahoshop-2505.html" target="_blank">扶桑のイオンにスマホケースショップがオープンしていた(追記) | 俺の記事@レンタルサーバ</a></p> 
 
 このiPhoneは、母のものでした。
 

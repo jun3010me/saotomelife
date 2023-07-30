@@ -115,7 +115,7 @@ LEDは温度に繊細な部品です。ダイヤルなどで温度が調整で�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B006MQD7M4?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener">白光(HAKKO) ダイヤル式温度制御はんだこて FX600-02</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

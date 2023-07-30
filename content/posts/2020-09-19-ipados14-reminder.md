@@ -85,7 +85,7 @@ iPadOS14にアップデートされたことで、やっとタスク管理アプ
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="xpJrPmLBDi">
-    <a href="http://192.168.11.200:8000/ipados-reminder-fantastical2-17176.html">iPadOSのリマインダーの日付や時間の指定をドラッグ＆ドロップで行う方法</a>
+    <a href="http://jun3010.me/ipados-reminder-fantastical2-17176.html">iPadOSのリマインダーの日付や時間の指定をドラッグ＆ドロップで行う方法</a>
   </blockquote>
 </div></figure> 
 
@@ -102,7 +102,7 @@ iPadOS14にアップデートされたことで、やっとタスク管理アプ
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/4777960064?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">はじめてのiPad超活用術 (エイムック 4686)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

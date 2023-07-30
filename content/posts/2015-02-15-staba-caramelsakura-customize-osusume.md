@@ -27,7 +27,7 @@ categories:
 <img decoding="async" loading="lazy" src="/wp-content/uploads/2015/02/2015-01-08_20_59_26-111.jpg" alt="2015 01 08 20 59 26 11" title="2015-01-08_20_59_26-11.jpg" border="0" width="419" height="600" />  
 **</p> 
 
-<a href="http://192.168.11.200:8000/staba-20150202-caramelsakura-10465.html" target="_blank">[スタバ2015年2月の新作情報!]2月15日より「キャラメリー さくら チョコレート フラペチーノ」を発売！ | No:10465 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/staba-20150202-caramelsakura-10465.html" target="_blank">[スタバ2015年2月の新作情報!]2月15日より「キャラメリー さくら チョコレート フラペチーノ」を発売！ | No:10465 | 早乙女珈琲店</a>
 
 </b>  
 速報記事にも書きましたが、

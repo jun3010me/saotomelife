@@ -25,7 +25,7 @@ categories:
 
 これから先のことを考えて、整理することにしました。</p> 
 
-今回追加したのは、<a rel="nofollow" href="http://192.168.11.200:8000/?cat=11">Mac</a>と<a rel="nofollow" href="http://192.168.11.200:8000/?cat=15">モバイル</a>と<a rel="nofollow" href="http://192.168.11.200:8000/?cat=14">オーディオ</a>と、<a rel="nofollow" href="http://192.168.11.200:8000/?cat=12">IYH</a>です。
+今回追加したのは、<a rel="nofollow" href="http://jun3010.me/?cat=11">Mac</a>と<a rel="nofollow" href="http://jun3010.me/?cat=15">モバイル</a>と<a rel="nofollow" href="http://jun3010.me/?cat=14">オーディオ</a>と、<a rel="nofollow" href="http://jun3010.me/?cat=12">IYH</a>です。
 
 これからもよろしくお願いします。</p> 
 

@@ -21,7 +21,7 @@ categories:
 
 **最新版LINE No Detectで起動可能となりました！**
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/line-no-detect-update-2472.html" target="_blank">LINE No Detectがアップデート！ついに脱獄環境で最新版LINEPOPが起動可能に！ | 俺の記事@レンタルサーバ</a>**
+**・<a rel="nofollow" href="http://jun3010.me/line-no-detect-update-2472.html" target="_blank">LINE No Detectがアップデート！ついに脱獄環境で最新版LINEPOPが起動可能に！ | 俺の記事@レンタルサーバ</a>**
 
 &nbsp;
 
@@ -29,14 +29,14 @@ categories:
 
 **LINEPOPのアップデートが再びありましたが、最新版LINE No Detectで起動可能でした。**
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/linepop-140-update-2569.html" target="_blank">LINEPOPが1.4.0にアップデートされた！(脱獄環境でも起動可！) | 俺の記事@レンタルサーバ</a>**
+**・<a rel="nofollow" href="http://jun3010.me/linepop-140-update-2569.html" target="_blank">LINEPOPが1.4.0にアップデートされた！(脱獄環境でも起動可！) | 俺の記事@レンタルサーバ</a>**
 
 &nbsp;
 
 先日、LINEPOPのアップデートがあり、アイテムの変更など、嬉しい変更もありました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/linepop-1-3-0-1663.html" target="_blank">LINEPOPが1.3.0にアップデートされた(追記あり) | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/linepop-1-3-0-1663.html" target="_blank">LINEPOPが1.3.0にアップデートされた(追記あり) | 俺の記事@レンタルサーバ</a>
 </p>
 
 &nbsp;
@@ -44,7 +44,7 @@ categories:
 が、なんと脱獄環境では起動できない！ということが直後にわかりました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/linepop-1-3-jailbreak-1665.html" target="_blank">LINEPOP 1.3.0は脱獄環境では起動しない！ | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/linepop-1-3-jailbreak-1665.html" target="_blank">LINEPOP 1.3.0は脱獄環境では起動しない！ | 俺の記事@レンタルサーバ</a>
 </p>
 
 &nbsp;
@@ -52,7 +52,7 @@ categories:
 こういうことは前回からあったんですが、
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/cydia-line-no-last-seen-1078.html" target="_blank">LINEで既読にならない！？ Line No Last Seen がやばい | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/cydia-line-no-last-seen-1078.html" target="_blank">LINEで既読にならない！？ Line No Last Seen がやばい | 俺の記事@レンタルサーバ</a>
 </p>
 
 ?こちらの記事に書いた通りに、CydiaのSourcesで「**http://cydia.hiraku.tw/**」を追加すると、

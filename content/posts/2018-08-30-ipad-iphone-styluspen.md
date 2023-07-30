@@ -43,7 +43,7 @@ tags:
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B07KR69HH9?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">Apple Pencil（第2世代）</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -95,7 +95,7 @@ tags:
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B07PJJ7KXT?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">Adonit(アドニット)Pro 4 Silver 【日本正規代理店品】 ADP4S</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -124,7 +124,7 @@ tags:
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B07BLRTJBY?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">Adonit Mini 4.0 汎用 タッチペン クリップ付き Olive green 【日本正規代理店品】 ADM4OG</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -152,7 +152,7 @@ iPad miniや古い世代のiPadで細かく字を書いたり、絵を描いた�
 
 これが当時の記事です。
 
-<a href="http://192.168.11.200:8000/jotpro20-iyh-10483.html" target="_blank" rel="noopener noreferrer">Jot Pro 2.0はiPad Air 2でめっちゃ使えるスタイラスペンだ！ – さおとめらいふ</a>
+<a href="http://jun3010.me/jotpro20-iyh-10483.html" target="_blank" rel="noopener noreferrer">Jot Pro 2.0はiPad Air 2でめっちゃ使えるスタイラスペンだ！ – さおとめらいふ</a>
 
 ## iPhoneやiPadでゲームする時のおすすめはコレ
 
@@ -165,7 +165,7 @@ iPad miniや古い世代のiPadで細かく字を書いたり、絵を描いた�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/iPhone%E7%94%A8%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%9A%E3%83%B3-%EF%BC%88%E3%82%BF%E3%83%83%E3%83%81%E3%83%9A%E3%83%B3%EF%BC%89-Pen-P201S-T9NR%EF%BC%88%E3%83%8D%E3%82%AA%E3%83%B3%E3%83%AC%E3%83%83%E3%83%89-%E3%82%A2%E3%83%AB%E3%83%9F%E8%BB%B8%EF%BC%89/dp/B00MLNNK9C?psc=1&#038;SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B00MLNNK9C" target="_blank" rel="noopener noreferrer">iPad/iPhone用スタイラスペン （タッチペン） Su-Pen P201S-T9NR（ネオンレッド/アルミ軸）</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -210,7 +210,7 @@ iPad miniや古い世代のiPadで細かく字を書いたり、絵を描いた�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/Apple-%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB-MU8F2J-A-Pencil/dp/B07KR69HH9?SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B07KR69HH9" target="_blank" rel="noopener noreferrer">Apple Pencil(第2世代)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

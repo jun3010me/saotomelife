@@ -93,7 +93,7 @@ CCSettingsと違って、**CCtogglesは設定後にRespringの必要がありま
 
 **※choicalについては以下の記事をご覧ください** 
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/choical-nice-1022.html" target="_blank">choicalアプリが優秀だった | 早乙女珈琲店</a>**
+**・<a rel="nofollow" href="http://jun3010.me/choical-nice-1022.html" target="_blank">choicalアプリが優秀だった | 早乙女珈琲店</a>**
 
 ## 感想
 

@@ -32,7 +32,7 @@ categories:
 貞子3D2を見てきました！上映中にスマホアプリと連携して、面白かったですよヽ(=´▽\`=)ﾉ
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/sadako-3ds-smafo-battery-quiet-5304.html" target="_blank">貞子3D2を見る時はスマホのバッテリー残量に気をつけろ！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/sadako-3ds-smafo-battery-quiet-5304.html" target="_blank">貞子3D2を見る時はスマホのバッテリー残量に気をつけろ！ | BeginningNEWS</a>
 </p></p> 
 
 <h2 style="font-family: HiraMaruProN-W4; font-size: 15px;">

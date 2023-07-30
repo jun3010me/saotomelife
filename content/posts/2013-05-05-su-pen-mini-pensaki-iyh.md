@@ -24,7 +24,7 @@ categories:
 先日、こんな記事を書いていましたが、
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/su-pen-mini-2543.html" target="_blank">Su-Pen ミニペン先モデルが出ていましたね | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/su-pen-mini-2543.html" target="_blank">Su-Pen ミニペン先モデルが出ていましたね | 俺の記事@レンタルサーバ</a>
 </p>
 
 &nbsp;
@@ -35,7 +35,7 @@ categories:
 
 この記事は少し古めの記事です。  
 iPadで使うタッチペンを探している方は、最新記事をご覧ください。  
-<a href="http://192.168.11.200:8000/ipad-iphone-styluspen-14768.html" target="_blank">7年かけて色々試し買い続けて分かった、iPhoneやiPadに最適なタッチペン3本を用途別に紹介します – さおとめらいふ</a>  
+<a href="http://jun3010.me/ipad-iphone-styluspen-14768.html" target="_blank">7年かけて色々試し買い続けて分かった、iPhoneやiPadに最適なタッチペン3本を用途別に紹介します – さおとめらいふ</a>  
 <img decoding="async" loading="lazy" title="2013-05-05 20.34.07.jpg" alt="2013 05 05 20 34 07" src="/wp-content/uploads/2013/05/2013-05-05-20.34.07.jpg" width="600" height="450" border="0" /> 
 
 白い箱に入っていました。

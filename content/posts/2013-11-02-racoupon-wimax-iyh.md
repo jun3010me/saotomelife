@@ -65,7 +65,7 @@ categories:
 
 **※Anker Astro M1の記事はこちらを参照してください。**
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/anker-astro-m1-iyh-5901.html" target="_blank">iPhoneが3回充電出来るコンパクトなモバイルバッテリー「ANKER Astro M1」を手に入れた！ | 早乙女珈琲店</a>**
+**・<a rel="nofollow" href="http://jun3010.me/anker-astro-m1-iyh-5901.html" target="_blank">iPhoneが3回充電出来るコンパクトなモバイルバッテリー「ANKER Astro M1」を手に入れた！ | 早乙女珈琲店</a>**
 
 &nbsp;
 

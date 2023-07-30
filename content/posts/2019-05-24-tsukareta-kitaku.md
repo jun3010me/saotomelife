@@ -48,7 +48,7 @@ categories:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="uqKprliV7c">
-    <a href="http://192.168.11.200:8000/teacher-longtimework-16591.html">早く帰宅する教員が実践している長時間労働対策</a>
+    <a href="http://jun3010.me/teacher-longtimework-16591.html">早く帰宅する教員が実践している長時間労働対策</a>
   </blockquote>
 </div></figure> 
 

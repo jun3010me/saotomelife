@@ -18,7 +18,7 @@ tags:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="mRa002N6aJ">
-    <a href="http://192.168.11.200:8000/hhkb-ring-22525.html">HHKBに「DES Topre Silencing Rings」を装着したら、打鍵音がめちゃくちゃ軽減された</a>
+    <a href="http://jun3010.me/hhkb-ring-22525.html">HHKBに「DES Topre Silencing Rings」を装着したら、打鍵音がめちゃくちゃ軽減された</a>
   </blockquote>
 </div></figure> 
 
@@ -89,7 +89,7 @@ tags:
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B019X8WGYW?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener">SUNDRY ロータリーレザーパンチ 穴あけ直径2.0-4.5㎜(6段階) RLP-6</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

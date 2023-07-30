@@ -22,9 +22,9 @@ tags:
 
 <!--more-->
 
-iPad miniを購入したのが<a rel="nofollow" href="http://192.168.11.200:8000/ipad-mini-1534.html">3月4日</a>でした。
+iPad miniを購入したのが<a rel="nofollow" href="http://jun3010.me/ipad-mini-1534.html">3月4日</a>でした。
 
-あれから1ヶ月ほど経過し、その間で<a rel="nofollow" href="http://192.168.11.200:8000/ipad-mini-case-1824.html">ケース</a>、<a rel="nofollow" href="http://192.168.11.200:8000/ipad-200car010-review-1585.html">車載ホルダー</a>、<a rel="nofollow" href="http://192.168.11.200:8000/ipadmini-psa-tp5-iyh-2386.html">タッチペン</a>を買い揃え、
+あれから1ヶ月ほど経過し、その間で<a rel="nofollow" href="http://jun3010.me/ipad-mini-case-1824.html">ケース</a>、<a rel="nofollow" href="http://jun3010.me/ipad-200car010-review-1585.html">車載ホルダー</a>、<a rel="nofollow" href="http://jun3010.me/ipadmini-psa-tp5-iyh-2386.html">タッチペン</a>を買い揃え、
 
 とことん使ってみました。</p> 
 

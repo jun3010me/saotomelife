@@ -25,7 +25,7 @@ categories:
 
 **※この記事はノンカスタマイズの記事です。カスタマイズの記事はこちらからご覧いただけます↓** ****
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/staba-crash-marron-pie-frappuccino-custom-html-6130.html" target="_blank">スタバ冬限定！のクラッシュマロンパイフラペチーノのおすすめカスタマイズを店員さんと考えた | 早乙女珈琲店</a>**
+**・<a rel="nofollow" href="http://jun3010.me/staba-crash-marron-pie-frappuccino-custom-html-6130.html" target="_blank">スタバ冬限定！のクラッシュマロンパイフラペチーノのおすすめカスタマイズを店員さんと考えた | 早乙女珈琲店</a>**
 
 ## クラッシュマロンパイフラペチーノ
 
@@ -68,7 +68,7 @@ categories:
 
 ## カスタマイズ記事はこちら
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/staba-crash-marron-pie-frappuccino-custom-html-6130.html" target="_blank">スタバ冬限定！のクラッシュマロンパイフラペチーノのおすすめカスタマイズを店員さんと考えた | 早乙女珈琲店</a>**
+**・<a rel="nofollow" href="http://jun3010.me/staba-crash-marron-pie-frappuccino-custom-html-6130.html" target="_blank">スタバ冬限定！のクラッシュマロンパイフラペチーノのおすすめカスタマイズを店員さんと考えた | 早乙女珈琲店</a>**
 
 **** 早速カスタマイズしてみました。気になる方は是非チェックしてみてください(｀･ω･´)ゞ
 

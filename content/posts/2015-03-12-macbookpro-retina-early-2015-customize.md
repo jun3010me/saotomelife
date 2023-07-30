@@ -36,12 +36,12 @@ MacにRetinaディスプレイが搭載されたのは、
 
 **</p> 
 
-<a href="http://192.168.11.200:8000/macbookair-todokumade-568.html" target="_blank">我が家に Mac Book Air 13 mid 2012が届くまで | No:568 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/macbookair-todokumade-568.html" target="_blank">我が家に Mac Book Air 13 mid 2012が届くまで | No:568 | 早乙女珈琲店</a>
 
 </b>  
 **</p> 
 
-<a href="http://192.168.11.200:8000/macbookair-13-late-2012-608.html" target="_blank">Mac Book Air 13 mid 2012　開封の儀 | No:608 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/macbookair-13-late-2012-608.html" target="_blank">Mac Book Air 13 mid 2012　開封の儀 | No:608 | 早乙女珈琲店</a>
 
 </b>
 
@@ -56,7 +56,7 @@ Windowsの頃よりも充実した人生になった様な気がします。
 
 **</p> 
 
-<a href="http://192.168.11.200:8000/macbook-12retina-pro-10605.html" target="_blank">新型MacBookにするか、MacBookPro13インチRetinaにするか。悩むポイントを挙げてみた | No:10605 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/macbook-12retina-pro-10605.html" target="_blank">新型MacBookにするか、MacBookPro13インチRetinaにするか。悩むポイントを挙げてみた | No:10605 | 早乙女珈琲店</a>
 
 </b>
 

@@ -23,11 +23,11 @@ tags:
 ---
 第6世代iPadを4月にauで購入しました。iPhoneとパケット通信の容量を共有でき、尚且つ端末の割引も適用できるのでお得でした。
 
-<a href="http://192.168.11.200:8000/ipad6gen-128gb-13389.html" target="_blank" rel="noopener noreferrer">第6世代iPad Wi-Fi+Cellularモデル 128GBを実質7920円で購入しました – さおとめらいふ</a>  
+<a href="http://jun3010.me/ipad6gen-128gb-13389.html" target="_blank" rel="noopener noreferrer">第6世代iPad Wi-Fi+Cellularモデル 128GBを実質7920円で購入しました – さおとめらいふ</a>  
 それから数ヶ月後、嫁にこう言われました。
 
 <div class="voice">
-  <figure class="voice-img-right"> <img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"> <img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -67,7 +67,7 @@ AppleStoreで本体を購入し、格安SIMで運用するのとほぼ同じく�
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -93,7 +93,7 @@ AppleStoreで本体を購入し、格安SIMで運用するのとほぼ同じく�
 う〜む、変だなぁ。入りますか？と言われたときに、
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -123,7 +123,7 @@ AppleStoreで本体を購入し、格安SIMで運用するのとほぼ同じく�
 どうしても気になったので、同様のことが起こっているのかサポートで対応してくださった人に電話してみたところ
 
 <div class="voice">
-  <figure class="voice-img-right"> <img decoding="async" src="http://192.168.11.200:8000/files/bk.jpg" alt="声" /><figcaption class="voice-img-description">声</figcaption></figure> 
+  <figure class="voice-img-right"> <img decoding="async" src="http://jun3010.me/files/bk.jpg" alt="声" /><figcaption class="voice-img-description">声</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -154,4 +154,4 @@ AppleStoreで本体を購入し、格安SIMで運用するのとほぼ同じく�
 
 なお、auで契約するときによくあるのが、「頭金」の話です。今後こういったことに気をつけようと思った方は、そちらもお読みください。
 
-<a href="http://192.168.11.200:8000/au-kishuhenko-atamakin-attention-4472.html" target="_blank" rel="noopener noreferrer">auで機種変更する時は『頭金』に気をつけろ！ – さおとめらいふ</a>
+<a href="http://jun3010.me/au-kishuhenko-atamakin-attention-4472.html" target="_blank" rel="noopener noreferrer">auで機種変更する時は『頭金』に気をつけろ！ – さおとめらいふ</a>

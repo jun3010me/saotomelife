@@ -37,7 +37,7 @@ categories:
  **別記事にて詳しくアップしました(｀･ω･´)ゞ**  
  ****
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/iphone-app-staccal2-iyh-6867.html" target="_blank">[遂に購入可能に！]超人気なカレンダーアプリのメジャーアップデート！「Staccal2」を買わない理由などない！ | フラペチーノ先生の頭のノート</a>**
+**・<a rel="nofollow" href="http://jun3010.me/iphone-app-staccal2-iyh-6867.html" target="_blank">[遂に購入可能に！]超人気なカレンダーアプリのメジャーアップデート！「Staccal2」を買わない理由などない！ | フラペチーノ先生の頭のノート</a>**
 
 ## PVが格好いい！
 

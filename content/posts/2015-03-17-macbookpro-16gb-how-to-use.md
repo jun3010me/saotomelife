@@ -18,7 +18,7 @@ categories:
 
 **</p> 
 
-<a href="http://192.168.11.200:8000/macbookpro-retina-early-2015-customize-10623.html" target="_blank">13インチMacBook Pro Retina Early 2015 AppleStoreカスタマイズモデルを買いました！ | No:10623 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/macbookpro-retina-early-2015-customize-10623.html" target="_blank">13インチMacBook Pro Retina Early 2015 AppleStoreカスタマイズモデルを買いました！ | No:10623 | 早乙女珈琲店</a>
 
 </b>  
 大満足！のはずなんですがね、  

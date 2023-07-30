@@ -64,7 +64,7 @@ CydiaのSourcesで「**http://cydia.hiraku.tw/**」を追加して、
 
 **これからもどんどん記事をアップしていきますので、**
 
-**他の記事を読んでみたいという方は是非是非<a rel="nofollow" href="http://192.168.11.200:8000/">トップページ</a>にも御アクセスください。**</p> 
+**他の記事を読んでみたいという方は是非是非<a rel="nofollow" href="http://jun3010.me/">トップページ</a>にも御アクセスください。**</p> 
 
 <div class="kaerebalink-box" style="text-align: left; padding-bottom: 20px; font-size: medium; /zoom: 1; overflow: hidden;">
   <div class="kaerebalink-image" style="float: left; margin: 0 15px 10px 0;">

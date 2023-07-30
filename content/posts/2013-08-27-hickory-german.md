@@ -115,7 +115,7 @@ categories:
 ちなみに、初めて行った時の記事はこちら↓
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/nagoya-hickory-4692.html" target="_blank">この味で1330円！？ヒッコリーというハンバーグのお店に行ってきた | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/nagoya-hickory-4692.html" target="_blank">この味で1330円！？ヒッコリーというハンバーグのお店に行ってきた | BeginningNEWS</a>
 </p>
 
  [1]: https://twitter.com/jun3010me

@@ -126,7 +126,7 @@ NAS単体にFTPサーバ機能があれば問題ありませんが、
 **現在は見開きアップデートに対応してます！**
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/comicshare-update-1-1-3427.html" target="_blank">ComicShareが1.1にアップデート！動作も安定して見開き表示に対応！ | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/comicshare-update-1-1-3427.html" target="_blank">ComicShareが1.1にアップデート！動作も安定して見開き表示に対応！ | 俺の記事@レンタルサーバ</a>
 </p>
 
 **2013年7月27日更新**
@@ -134,14 +134,14 @@ NAS単体にFTPサーバ機能があれば問題ありませんが、
 **大規模アップデートがありますます神アプリになりました！**
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/comic-share-update-4426.html" target="_blank">NASに保存したZIPの漫画がiPhoneやiPadで読める！ComicShareが大幅アップデート！更に動作が安定した！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/comic-share-update-4426.html" target="_blank">NASに保存したZIPの漫画がiPhoneやiPadで読める！ComicShareが大幅アップデート！更に動作が安定した！ | BeginningNEWS</a>
 </p>
 
 **2013年8月10日更新**  
 **またもや大規模アップデートです！**
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/comicshare-1-4-update-4661.html" target="_blank">NASの漫画ZIPが読めるComicShareが1.4にアップデート！打倒ComicGlassなるか！？ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/comicshare-1-4-update-4661.html" target="_blank">NASの漫画ZIPが読めるComicShareが1.4にアップデート！打倒ComicGlassなるか！？ | BeginningNEWS</a>
 </p>
 
 &nbsp;

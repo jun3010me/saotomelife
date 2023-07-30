@@ -28,7 +28,7 @@ categories:
 本当は、ひっそりと、地元のauショップで買う予定だったんですが、昨日auショップに電話したことで、ゴールドとシルバーが地方の量販店に入荷しないということが明らかになったので、
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/iphone5s-zaiko-grey-5594.html" target="_blank">iPhone5sの初回出荷分の在庫はスペースグレイが多いらしい | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/iphone5s-zaiko-grey-5594.html" target="_blank">iPhone5sの初回出荷分の在庫はスペースグレイが多いらしい | BeginningNEWS</a>
 </p>
 
 思い切って、au NAGOYAに並ぶことにしました！(｀･ω･´)ゞ

@@ -22,7 +22,7 @@ categories:
 
 フィルムに関しては、Anker製のガラスフィルムを購入しました。
 
-<a href="http://192.168.11.200:8000/iphonexs-anker-glassfilm-14888.html" target="_blank">iPhone XSに貼るガラスフィルムはとりあえずAnkerのやつにした – さおとめらいふ</a>  
+<a href="http://jun3010.me/iphonexs-anker-glassfilm-14888.html" target="_blank">iPhone XSに貼るガラスフィルムはとりあえずAnkerのやつにした – さおとめらいふ</a>  
 なので今回解決したいのは、「ケースをどうしようか」問題です。
 
 ## iPhoneXのケースはカメラ部分が干渉する
@@ -77,7 +77,7 @@ iPhoneXと全く同じ寸法で設計されたiPhoneXSですが、唯一Xと違�
 ボタンの穴もピッタリです・・・が、このプラスチックの繋ぎ目がはっきり見えるのも、ちょっとね・・・。
 
 <div class="voice">
-  <figure class="voice-img-right"> <img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"> <img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -87,7 +87,7 @@ iPhoneXと全く同じ寸法で設計されたiPhoneXSですが、唯一Xと違�
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">

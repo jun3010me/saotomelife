@@ -216,7 +216,7 @@ HHKBが人を選ぶ理由は、ハードルが高いからです。HYBRID Type-S
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="Qf14xLN0iW">
-    <a href="http://192.168.11.200:8000/pcroom-typingapp-16613.html">コンピュータ室で大活躍する無料タイピングソフト5選</a>
+    <a href="http://jun3010.me/pcroom-typingapp-16613.html">コンピュータ室で大活躍する無料タイピングソフト5選</a>
   </blockquote>
 </div></figure> 
 
@@ -237,7 +237,7 @@ HHKBが人を選ぶ理由は、ハードルが高いからです。HYBRID Type-S
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B0798BBK3F?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">ロジクール iPad iPhone キーボード ポータブル iK1042BKA ブラック Bluetooth 薄型 充電式 iPhoneスタンド付 ワイヤレス 無線 国内正規品 2年間無償保証</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -259,7 +259,7 @@ HHKBが人を選ぶ理由は、ハードルが高いからです。HYBRID Type-S
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="RlTFfMGkm6">
-    <a href="http://192.168.11.200:8000/logicool-keys-to-go-review-10169.html">iPad・iPhone用キーボードの大本命が来た！logicoolのKeys-to-goは本当に買って良かった！</a>
+    <a href="http://jun3010.me/logicool-keys-to-go-review-10169.html">iPad・iPhone用キーボードの大本命が来た！logicoolのKeys-to-goは本当に買って良かった！</a>
   </blockquote>
 </div></figure> 
 
@@ -267,7 +267,7 @@ HHKBが人を選ぶ理由は、ハードルが高いからです。HYBRID Type-S
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="v0LY1w0q8V">
-    <a href="http://192.168.11.200:8000/keyboard-rekishi-24.html">ジュンのキーボード歴</a>
+    <a href="http://jun3010.me/keyboard-rekishi-24.html">ジュンのキーボード歴</a>
   </blockquote>
 </div></figure> 
 
@@ -284,7 +284,7 @@ HHKBが人を選ぶ理由は、ハードルが高いからです。HYBRID Type-S
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B082TWHY76?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">PFU HHKB Professional HYBRID Type-S 無刻印／白（英語配列） PD-KB800WNS</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -357,7 +357,7 @@ HHKBが人を選ぶ理由は、ハードルが高いからです。HYBRID Type-S
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B082TQK2SB?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">PFU HHKB Professional HYBRID Type-S 英語配列／白 PD-KB800WS</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

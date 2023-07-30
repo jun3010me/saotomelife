@@ -86,7 +86,7 @@ iPadで手書きアプリを試してみたいという方は、本記事でオ�
 
 僕自身もSu-Penを愛用しています。
 
-・<a rel="nofollow" href="http://192.168.11.200:8000/ipad-mini-retina-su-pen-osusume-touchpen-6338.html" target="_blank">iPad mini Retina に最適なおすすめタッチペンはやっぱり「Su-Pen」だった！ | 早乙女珈琲店</a>
+・<a rel="nofollow" href="http://jun3010.me/ipad-mini-retina-su-pen-osusume-touchpen-6338.html" target="_blank">iPad mini Retina に最適なおすすめタッチペンはやっぱり「Su-Pen」だった！ | 早乙女珈琲店</a>
 
 しかーし、個人的な感想を言わせていただくと、
 
@@ -275,6 +275,6 @@ iPadの使い道がぐんとアップします。
 GoodNotes4は、今でも僕が日常で使うアプリの1つです。3から4に移行した時は、上記のように「ノート一覧の配置が任意で並べ替えられない」ということがストレスでしたが、これはまぁ履歴順にすることでそれっぽくはなっています。  
 GoodNotesをどう活用しているのかについては、こちらのタグで記事をまとめているので、ご覧ください。
 
-<a href="http://192.168.11.200:8000/tag/goodnotes" target="_blank">GoodNotes – さおとめらいふ</a>
+<a href="http://jun3010.me/tag/goodnotes" target="_blank">GoodNotes – さおとめらいふ</a>
 
  [1]: https://twitter.com/jun3010me

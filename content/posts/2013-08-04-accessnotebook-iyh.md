@@ -32,11 +32,11 @@ tags:
 思えば長い道のりでした(´・ω・｀)
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/bungu-o-accessnotebook-3677.html" target="_blank">文具王がAccessNotebookというモレスキンを超えるノートを7月中旬発売 | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/bungu-o-accessnotebook-3677.html" target="_blank">文具王がAccessNotebookというモレスキンを超えるノートを7月中旬発売 | BeginningNEWS</a>
 </p>
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/bungu-o-accessnotebook-cant-iyh-4444.html" target="_blank">文具王のAccessNotebookがどこを探しても売ってない！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/bungu-o-accessnotebook-cant-iyh-4444.html" target="_blank">文具王のAccessNotebookがどこを探しても売ってない！ | BeginningNEWS</a>
 </p>
 
 そしてついに、購入することが出来たのです！(｀･ω･´)ゞ

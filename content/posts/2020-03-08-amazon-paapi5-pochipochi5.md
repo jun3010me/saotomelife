@@ -27,7 +27,7 @@ Amazonアソシエイトのレポートページに出ていた↑この表示�
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="v3zRqFgAJG">
-    <a href="http://192.168.11.200:8000/pochipochi-php-15585.html">カエレバの代わりにPA-APIから商品リンクを作成する自分用サービスを作った</a>
+    <a href="http://jun3010.me/pochipochi-php-15585.html">カエレバの代わりにPA-APIから商品リンクを作成する自分用サービスを作った</a>
   </blockquote>
 </div></figure> 
 
@@ -185,7 +185,7 @@ $yahoo_url = 'https://ck.jp.ap.valuecommerce.com/servlet/referral?sid='.$sid.'&p
 じゅん.さおとめらいふがカエレバと同じようにリンクを作るためだけに作ったページをPA-PAI5.0に対応させたもの
 &lt;h2>使い方&lt;/h2>
 まずは、このブックマークレットをブラウザに保存する。&lt;br>
-&lt;a href="javascript:(function(){var nakami;$nakami=location.pathname.replace(/.*\/(ASIN|dp|product|aw\/d)\/([0-9A-Z]+)\/.*/,'$2');window.open('http://192.168.11.200:8000/pochipochi5.php?asin='+$nakami+'&kw='+window.getSelection().toString())})();">ポチポチ5ブックマークレット&lt;/a>&lt;br>
+&lt;a href="javascript:(function(){var nakami;$nakami=location.pathname.replace(/.*\/(ASIN|dp|product|aw\/d)\/([0-9A-Z]+)\/.*/,'$2');window.open('http://jun3010.me/pochipochi5.php?asin='+$nakami+'&kw='+window.getSelection().toString())})();">ポチポチ5ブックマークレット&lt;/a>&lt;br>
 あとは、Amazonの商品ページで、楽天とYahoo!のキーワードにするキーワードを選択した状態でブックマークレットを実行するだけ。&lt;br>
 
 &lt;div class="cstmreba">
@@ -193,7 +193,7 @@ $yahoo_url = 'https://ck.jp.ap.valuecommerce.com/servlet/referral?sid='.$sid.'&p
 &lt;div class="kaerebalink-image">&lt;a href="&lt;?php echo esc_url($page_url); ?>" target="_blank" >&lt;img src="&lt;?php echo esc_url($image_url); ?>" style="border: none;" />&lt;/a>&lt;/div>
 &lt;div class="kaerebalink-info">
 &lt;div class="kaerebalink-name">&lt;a href="&lt;?php echo esc_url($page_url); ?>" target="_blank" >&lt;?php echo esc_html($title); ?>&lt;/a>&lt;/p>
-&lt;div class="kaerebalink-powered-date">posted with &lt;a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow" target="_blank">ポチポチファイブ&lt;/a>&lt;/div>
+&lt;div class="kaerebalink-powered-date">posted with &lt;a href="http://jun3010.me/pochipochi5.php" rel="nofollow" target="_blank">ポチポチファイブ&lt;/a>&lt;/div>
 &lt;/div>
 &lt;div class="kaerebalink-link1">
 &lt;div class="shoplinkamazon">&lt;a href="&lt;?php echo esc_html($amazon_url); ?>" target="_blank" >Amazon&lt;/a>&lt;/div>
@@ -210,7 +210,7 @@ $yahoo_url = 'https://ck.jp.ap.valuecommerce.com/servlet/referral?sid='.$sid.'&p
 &lt;div class="kaerebalink-image">&lt;a href="&lt;?php echo esc_url($page_url); ?>" target="_blank" >&lt;img src="&lt;?php echo esc_url($image_url); ?>" style="border: none;" />&lt;/a>&lt;/div>
 &lt;div class="kaerebalink-info">
 &lt;div class="kaerebalink-name">&lt;a href="&lt;?php echo esc_url($page_url); ?>" target="_blank" >&lt;?php echo esc_html($title); ?>&lt;/a>&lt;/p>
-&lt;div class="kaerebalink-powered-date">posted with &lt;a href="http://192.168.11.200:8000/" rel="nofollow" target="_blank">ポチポチファイブ&lt;/a>&lt;/div>
+&lt;div class="kaerebalink-powered-date">posted with &lt;a href="http://jun3010.me/" rel="nofollow" target="_blank">ポチポチファイブ&lt;/a>&lt;/div>
 &lt;/div>
 &lt;div class="kaerebalink-link1">
 &lt;div class="shoplinkamazon">&lt;a href="&lt;?php echo esc_html($amazon_url); ?>" target="_blank" >Amazon&lt;/a>&lt;/div>
@@ -309,7 +309,7 @@ $yahoo_url = 'https://ck.jp.ap.valuecommerce.com/servlet/referral?sid='.$sid.'&p
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B082TWHY76?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">PFU HHKB Professional HYBRID Type-S 無刻印／白（英語配列） PD-KB800WNS</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -329,4 +329,4 @@ $yahoo_url = 'https://ck.jp.ap.valuecommerce.com/servlet/referral?sid='.$sid.'&p
   </div>
 </div>
 
- [1]: http://192.168.11.200:8000/pochipochi-php-15585.html
+ [1]: http://jun3010.me/pochipochi-php-15585.html

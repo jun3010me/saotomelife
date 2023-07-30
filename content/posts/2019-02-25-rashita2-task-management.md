@@ -44,7 +44,7 @@ tags:
           &nbsp;
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi.php" target="_blank" rel="nofollow noopener noreferrer">ポチポチ</a>
+          posted with <a href="http://jun3010.me/pochipochi.php" target="_blank" rel="nofollow noopener noreferrer">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -187,7 +187,7 @@ HAHAHA、この本の中に**ごみ箱とごみ袋問題(ごみをごみ箱に�
           &nbsp;
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi.php" target="_blank" rel="nofollow noopener noreferrer">ポチポチ</a>
+          posted with <a href="http://jun3010.me/pochipochi.php" target="_blank" rel="nofollow noopener noreferrer">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

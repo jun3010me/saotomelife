@@ -112,9 +112,9 @@ categories:
 
 ## カスタマイズはこちら！
 
-フレッシュバナナフラペチーノは<a rel="nofollow" href="http://192.168.11.200:8000/category/gurume-repo/staba/staba-banana">こちら</a>にてカスタマイズをまとめています。
+フレッシュバナナフラペチーノは<a rel="nofollow" href="http://jun3010.me/category/gurume-repo/staba/staba-banana">こちら</a>にてカスタマイズをまとめています。
 
-<a rel="nofollow" href="http://192.168.11.200:8000/stabs-banana-chocolate-custom-free-7816.html">無料でカスタマイズ</a>できる内容もあるので、是非ご覧ください
+<a rel="nofollow" href="http://jun3010.me/stabs-banana-chocolate-custom-free-7816.html">無料でカスタマイズ</a>できる内容もあるので、是非ご覧ください
 
 ヽ(=´▽\`=)ﾉ
 

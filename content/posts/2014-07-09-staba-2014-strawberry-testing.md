@@ -31,7 +31,7 @@ categories:
     
     **</p> 
     
-    ・<a href="http://192.168.11.200:8000/staba-2014-strawberry-9149.html" target="_blank">[スタバ7月の新作速報]7月16日よりストロベリー ディライト フラペチーノが発売されるぞ！！ | No:9149 | 早乙女珈琲店</a>
+    ・<a href="http://jun3010.me/staba-2014-strawberry-9149.html" target="_blank">[スタバ7月の新作速報]7月16日よりストロベリー ディライト フラペチーノが発売されるぞ！！ | No:9149 | 早乙女珈琲店</a>
     
     </strong>
     

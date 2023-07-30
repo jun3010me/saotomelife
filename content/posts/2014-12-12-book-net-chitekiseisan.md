@@ -46,7 +46,7 @@ categories:
 
 **</p> 
 
-<a href="http://192.168.11.200:8000/horimasatake-titekiseisan-9643.html" target="_blank">堀正岳さんの新刊、『知的生産の技術とセンス　知の巨人・梅棹忠夫に学ぶ情報活用術』に背中を押してもらった | No:9643 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/horimasatake-titekiseisan-9643.html" target="_blank">堀正岳さんの新刊、『知的生産の技術とセンス　知の巨人・梅棹忠夫に学ぶ情報活用術』に背中を押してもらった | No:9643 | 早乙女珈琲店</a>
 
 </b>
 

@@ -103,7 +103,7 @@ _**2013年12月4日更新**_
 _ **Su-Penのペン先を交換したら、めっちゃ快適になりました！ヽ(=´▽\`=)ﾉ**_  
 _ ****_
 
-_**・<a rel="nofollow" href="http://192.168.11.200:8000/ipad-mini-retina-su-pen-osusume-touchpen-6338.html" target="_blank">iPad mini Retina に最適なおすすめタッチペンはやっぱり「Su-Pen」だった！ | 早乙女珈琲店</a>**_
+_**・<a rel="nofollow" href="http://jun3010.me/ipad-mini-retina-su-pen-osusume-touchpen-6338.html" target="_blank">iPad mini Retina に最適なおすすめタッチペンはやっぱり「Su-Pen」だった！ | 早乙女珈琲店</a>**_
 
 ### RealRacing3の画面表示がおかしい
 

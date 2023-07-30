@@ -24,7 +24,7 @@ categories:
 頭文字Dの原作が最終回を迎える今日このごろですが↓
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/initial-d-7-29-end-4187.html" target="_blank">頭文字Dが7月29日で完結してしまう！！！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/initial-d-7-29-end-4187.html" target="_blank">頭文字Dが7月29日で完結してしまう！！！ | BeginningNEWS</a>
 </p>
 
  

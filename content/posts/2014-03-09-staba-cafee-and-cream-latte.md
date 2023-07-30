@@ -66,6 +66,6 @@ categories:
 よろしければそちらもご覧ください！  
 ヽ(=´▽\`=)ﾉ
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/category/gurume-repo/staba/cafee-and-cream" target="_blank">コーヒー&クリーム | 早乙女珈琲店</a>**
+**・<a rel="nofollow" href="http://jun3010.me/category/gurume-repo/staba/cafee-and-cream" target="_blank">コーヒー&クリーム | 早乙女珈琲店</a>**
 
  [1]: https://twitter.com/jun3010me

@@ -149,7 +149,7 @@ categories:
 一応関連する記事を貼っておきましょう
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/line-tsukare-3499.html" target="_blank">大学生を中心に、「LINE疲れ」が流行っているらしい | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/line-tsukare-3499.html" target="_blank">大学生を中心に、「LINE疲れ」が流行っているらしい | BeginningNEWS</a>
 </p>
 
 <p style="font-size: 18px;">

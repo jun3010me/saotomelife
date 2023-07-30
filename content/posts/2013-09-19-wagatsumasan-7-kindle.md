@@ -32,7 +32,7 @@ tags:
 ちなみに、6巻までハマってしまった経緯はこちらの更新で書きました↓
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/wagatsuma-my-wife-6-read-4514.html" target="_blank">『我妻は俺のヨメ』を6巻まで読むのにあっという間だった | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/wagatsuma-my-wife-6-read-4514.html" target="_blank">『我妻は俺のヨメ』を6巻まで読むのにあっという間だった | BeginningNEWS</a>
 </p>
 
 <div class="booklink-box" style="text-align: left; padding-bottom: 20px; font-size: medium; /zoom: 1; overflow: hidden;">

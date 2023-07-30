@@ -85,7 +85,7 @@ iPadで文章を書く。iPadで知的生産を行う。
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="q3t7isZ64T">
-    <a href="http://192.168.11.200:8000/less-ulysses-20703.html">脱Ulyssesの環境を目指したメモの蓄積方法</a>
+    <a href="http://jun3010.me/less-ulysses-20703.html">脱Ulyssesの環境を目指したメモの蓄積方法</a>
   </blockquote>
 </div></figure> 
 
@@ -142,7 +142,7 @@ iOS版であっても機能が充実していて、ファンが多いエディ�
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="A5MKmA10K6">
-    <a href="http://192.168.11.200:8000/ipad-md-hugo-wp-20726.html">iPadで編集したmdファイルをHugoにもWordPressにも投稿できる仕組みを作った</a>
+    <a href="http://jun3010.me/ipad-md-hugo-wp-20726.html">iPadで編集したmdファイルをHugoにもWordPressにも投稿できる仕組みを作った</a>
   </blockquote>
 </div></figure> 
 
@@ -456,7 +456,7 @@ nvALTのようにシンプルで爆速で動くMarkdownエディタが、iOSで�
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="79aCrhfhDX">
-    <a href="http://192.168.11.200:8000/taio-app-markdown-editor-20856.html">JavaScriptが動くiOS・iPadOS用Markdownエディタ「Taio」が個人的に超理想的で感動しまくっている</a>
+    <a href="http://jun3010.me/taio-app-markdown-editor-20856.html">JavaScriptが動くiOS・iPadOS用Markdownエディタ「Taio」が個人的に超理想的で感動しまくっている</a>
   </blockquote>
 </div></figure> 
 

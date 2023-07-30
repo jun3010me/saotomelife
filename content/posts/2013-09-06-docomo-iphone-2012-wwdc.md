@@ -26,7 +26,7 @@ categories:
  
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/iphone5s-docomo-5430.html" target="_blank">9月10日発表の次期iPhoneはdocomoからも販売される！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/iphone5s-docomo-5430.html" target="_blank">9月10日発表の次期iPhoneはdocomoからも販売される！ | BeginningNEWS</a>
 </p>
 
  

@@ -97,7 +97,7 @@ categories:
 **  
 ** 
 
-ホイップがコーヒーではないので、先日の<a rel="nofollow" href="http://192.168.11.200:8000/staba-cafee-and-cleam-frap-chocolate-7774.html">コーヒー&クリームフラペチーノチョコレートカスタマイズ</a>とはまた違った味わいなんです。
+ホイップがコーヒーではないので、先日の<a rel="nofollow" href="http://jun3010.me/staba-cafee-and-cleam-frap-chocolate-7774.html">コーヒー&クリームフラペチーノチョコレートカスタマイズ</a>とはまた違った味わいなんです。
 
  
 

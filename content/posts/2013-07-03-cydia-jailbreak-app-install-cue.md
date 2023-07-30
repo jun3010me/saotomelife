@@ -28,7 +28,7 @@ tags:
 最近、iPhone5をSemiRestoreしました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/semirestore-iphone5-keep-jailbreak-3630.html" target="_blank">SemiRestoreを使ってiPhone5を脱獄したまま初期化したら、再設定に苦労した | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/semirestore-iphone5-keep-jailbreak-3630.html" target="_blank">SemiRestoreを使ってiPhone5を脱獄したまま初期化したら、再設定に苦労した | BeginningNEWS</a>
 </p>
 
  

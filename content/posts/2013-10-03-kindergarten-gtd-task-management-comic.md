@@ -43,7 +43,7 @@ tags:
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B-%E5%B9%BC%E7%A8%9A%E5%9C%92%E5%85%90%E3%81%A7%E3%82%82%E3%81%A7%E3%81%8D%E3%81%9F-%E3%82%BF%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86%E8%B6%85%E5%85%A5%E9%96%80-impress-QuickBooks-ebook/dp/B00FB22EDS?SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B00FB22EDS" target="_blank"  rel="noopener noreferrer">マンガでわかる! 幼稚園児でもできた!! タスク管理超入門 impress QuickBooks</a></p> 
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/pochipochi.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -93,7 +93,7 @@ GTDというのはタスク(やること)を管理する考え方です。
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/%E5%85%A8%E9%9D%A2%E6%94%B9%E8%A8%82%E7%89%88-%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AEGTD-%E3%82%B9%E3%83%88%E3%83%AC%E3%82%B9%E3%83%95%E3%83%AA%E3%83%BC%E3%81%AE%E6%95%B4%E7%90%86%E8%A1%93-%E3%83%87%E3%83%93%E3%83%83%E3%83%89%E3%83%BB%E3%82%A2%E3%83%AC%E3%83%B3/dp/4576151878?SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=4576151878" target="_blank"  rel="noopener noreferrer">全面改訂版 はじめてのGTD ストレスフリーの整理術</a></p> 
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -142,7 +142,7 @@ GTDを実践することに抵抗を感じたり、「やっぱり自分には�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B-%E5%B9%BC%E7%A8%9A%E5%9C%92%E5%85%90%E3%81%A7%E3%82%82%E3%81%A7%E3%81%8D%E3%81%9F-%E3%82%BF%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86%E8%B6%85%E5%85%A5%E9%96%80-impress-QuickBooks-ebook/dp/B00FB22EDS?SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B00FB22EDS" target="_blank"  rel="noopener noreferrer">マンガでわかる! 幼稚園児でもできた!! タスク管理超入門 impress QuickBooks</a></p> 
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/pochipochi.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

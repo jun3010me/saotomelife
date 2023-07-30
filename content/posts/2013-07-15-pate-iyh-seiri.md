@@ -24,7 +24,7 @@ categories:
 固定ページを少しだけ作り直しました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/iyh-page" target="_blank">これまでIYHしてきたもの | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/iyh-page" target="_blank">これまでIYHしてきたもの | BeginningNEWS</a>
 </p>
 
 僕がこれまで衝動買いしたものを、主にMacBook関係やiPhone関係だけ、

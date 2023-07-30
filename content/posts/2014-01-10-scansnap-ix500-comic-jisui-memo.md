@@ -54,7 +54,7 @@ tags:
 
 **「ScanSnap iX500」**です！(｀･ω･´)ゞ
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/scansnap-ix500-iyh-6670.html" target="_blank">[Amazonで36800円！]ScanSnap iX500を購入した！ | 早乙女珈琲店</a>**
+**・<a rel="nofollow" href="http://jun3010.me/scansnap-ix500-iyh-6670.html" target="_blank">[Amazonで36800円！]ScanSnap iX500を購入した！ | 早乙女珈琲店</a>**
 
 今回は、このScanSnap iX500を使って、漫画を自炊しました。
 

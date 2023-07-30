@@ -39,7 +39,7 @@ tags:
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B07PRX2Q11?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">Apple iPad (10.2インチ, Wi-Fi, 32GB) &#8211; シルバー</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -69,7 +69,7 @@ Amazonでは4万円ほどしますが、Apple公式サイトの教職員割引�
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="3jfMCCDeH9">
-    <a href="http://192.168.11.200:8000/ipad-teacher-osusume-15378.html">教師が買うべきiPadを選ぶ5つのポイント</a>
+    <a href="http://jun3010.me/ipad-teacher-osusume-15378.html">教師が買うべきiPadを選ぶ5つのポイント</a>
   </blockquote>
 </div></figure> 
 
@@ -177,7 +177,7 @@ iPadの充電端子であるLightningを使ってプロジェクタに画面を�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B078H83RFT?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">Apple TV 4K (32GB)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -205,7 +205,7 @@ iPadの画面に教科書を表示し、ApplePencilでメモを書いたり、�
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="m89NAdEOwO">
-    <a href="http://192.168.11.200:8000/teacher-tablet-pc-10717.html">教師はスキャナで読み込んだ教科書のデータをタブレット端末に入れて授業をしても著作権的にOK</a>
+    <a href="http://jun3010.me/teacher-tablet-pc-10717.html">教師はスキャナで読み込んだ教科書のデータをタブレット端末に入れて授業をしても著作権的にOK</a>
   </blockquote>
 </div></figure> 
 
@@ -222,7 +222,7 @@ iPadの画面に教科書を表示し、ApplePencilでメモを書いたり、�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/4761926066?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">教師のiPad仕事術</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

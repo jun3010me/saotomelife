@@ -65,12 +65,12 @@ iPodの接続など、ナビに付いていて当然の
 
 **</p> 
 
-<a href="http://192.168.11.200:8000/sph-da99-iyh-6029.html" target="_blank">iPhoneの画面がナビに映る！パイオニアのアプリユニット「SPH-DA99」を購入した！[取り付け編] | No:6029 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/sph-da99-iyh-6029.html" target="_blank">iPhoneの画面がナビに映る！パイオニアのアプリユニット「SPH-DA99」を購入した！[取り付け編] | No:6029 | 早乙女珈琲店</a>
 
 </b>  
 **</p> 
 
-<a href="http://192.168.11.200:8000/sph-da99-connect-iphone5s-6069.html" target="_blank">iPhoneの画面がナビに映る！アプリユニット「SPH-DA99」にiPhone5sを繋いで使ってみた[操作編] | No:6069 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/sph-da99-connect-iphone5s-6069.html" target="_blank">iPhoneの画面がナビに映る！アプリユニット「SPH-DA99」にiPhone5sを繋いで使ってみた[操作編] | No:6069 | 早乙女珈琲店</a>
 
 </b>
 

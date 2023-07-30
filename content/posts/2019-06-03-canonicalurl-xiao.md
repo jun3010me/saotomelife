@@ -36,7 +36,7 @@ categories:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="V3wP6gB42P">
-    <a href="http://192.168.11.200:8000/google-rank-9122.html">Googleの検索順位が急落してから、戻るまでに頑張ったことを全部書くよ</a>
+    <a href="http://jun3010.me/google-rank-9122.html">Googleの検索順位が急落してから、戻るまでに頑張ったことを全部書くよ</a>
   </blockquote>
 </div></figure> 
 

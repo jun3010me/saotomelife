@@ -25,7 +25,7 @@ categories:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="63ksUhETyo">
-    <a href="http://192.168.11.200:8000/school-non-ict-riyu-18666.html">学校のICT活用が全然進まない原因を文科省がズバリ言い当てた動画がすごい</a>
+    <a href="http://jun3010.me/school-non-ict-riyu-18666.html">学校のICT活用が全然進まない原因を文科省がズバリ言い当てた動画がすごい</a>
   </blockquote>
 </div></figure> 
 

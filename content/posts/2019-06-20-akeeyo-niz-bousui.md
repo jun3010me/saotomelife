@@ -50,7 +50,7 @@ categories:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="VuH9QZX06q">
-    <a href="http://192.168.11.200:8000/topre-clone-niz-plum-nano-75-13018.html">Topre Cloneとして中国にじわじわ広がる静電容量無接点方式のキーボード「NIZ Plum Nano 75」を購入した</a>
+    <a href="http://jun3010.me/topre-clone-niz-plum-nano-75-13018.html">Topre Cloneとして中国にじわじわ広がる静電容量無接点方式のキーボード「NIZ Plum Nano 75」を購入した</a>
   </blockquote>
 </div></figure> 
 
@@ -155,7 +155,7 @@ categories:
         <p>
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

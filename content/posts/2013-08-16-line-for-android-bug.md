@@ -30,7 +30,7 @@ tags:
 強いて言えば、通話の電波が悪いくらいです。けどこれはauのパケットが詰まるくらいでしょうか。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/prl-au-packet-tsumaru-3544.html" target="_blank">PRLを更新したってauのパケット詰まりは直らない | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/prl-au-packet-tsumaru-3544.html" target="_blank">PRLを更新したってauのパケット詰まりは直らない | BeginningNEWS</a>
 </p>
 
  

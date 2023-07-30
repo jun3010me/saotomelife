@@ -165,8 +165,8 @@ $yahoo_url = 'https://ck.jp.ap.valuecommerce.com/servlet/referral?sid='.$sid.'&p
 <h2>使い方<h2>
 まずは、このブックマークレットをブラウザに保存する。<br>
 <!-- これがブックマークレットの本体。URL部分はphpファイルを置いたパスに変更する必要がある。 -->
-<a href="javascript:(function(){var nakami;$nakami=location.pathname.replace(/.*\/(ASIN|dp|product|aw\/d)\/([0-9A-Z]+)\/.*/,'$2');window.open('http://192.168.11.200:8000/pochipochi.php?asin='+$nakami+'&kw='+window.getSelection().toString())})();">ポチポチブックマークレット<a><br>
-<a href="javascript:(function(){var nakami;$nakami=location.pathname.replace(/.*\/(ASIN|dp|product|aw\/d)\/([0-9A-Z]+)\/.*/,'$2');window.open('http://192.168.11.200:8000/pochiyome.php?asin='+$nakami+'&kw='+window.getSelection().toString())})();">ポチポチkindleブックマークレット<a><br>
+<a href="javascript:(function(){var nakami;$nakami=location.pathname.replace(/.*\/(ASIN|dp|product|aw\/d)\/([0-9A-Z]+)\/.*/,'$2');window.open('http://jun3010.me/pochipochi.php?asin='+$nakami+'&kw='+window.getSelection().toString())})();">ポチポチブックマークレット<a><br>
+<a href="javascript:(function(){var nakami;$nakami=location.pathname.replace(/.*\/(ASIN|dp|product|aw\/d)\/([0-9A-Z]+)\/.*/,'$2');window.open('http://jun3010.me/pochiyome.php?asin='+$nakami+'&kw='+window.getSelection().toString())})();">ポチポチkindleブックマークレット<a><br>
 あとは、Amazonの商品ページで、楽天とYahoo!のキーワードにするキーワードを選択した状態でブックマークレットを実行するだけ。<br>
 
 <div class="cstmreba">
@@ -174,7 +174,7 @@ $yahoo_url = 'https://ck.jp.ap.valuecommerce.com/servlet/referral?sid='.$sid.'&p
 <div class="kaerebalink-image"><a href="<?php echo esc_url($page_url); ?>" target="_blank" ><img src="<?php echo esc_url($image_url); ?>" style="border: none;" /><a><div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="<?php echo esc_url($page_url); ?>" target="_blank" ><?php echo esc_html($title); ?><a><p>
-<div class="kaerebalink-powered-date">posted with <a href="http://192.168.11.200:8000/pochipochi.php" rel="nofollow" target="_blank">ポチポチ<a><div>
+<div class="kaerebalink-powered-date">posted with <a href="http://jun3010.me/pochipochi.php" rel="nofollow" target="_blank">ポチポチ<a><div>
 <div>
 <div class="kaerebalink-link1">
 <div class="shoplinkamazon"><a href="<?php echo esc_html($amazon_url); ?>" target="_blank" >Amazon<a><div>
@@ -218,7 +218,7 @@ $yahoo_url = 'https://ck.jp.ap.valuecommerce.com/servlet/referral?sid='.$sid.'&p
 
 ### ブックマークレットとの併用が前提
 
-<pre class="wp-block-code"><code lang="javascript" class="language-javascript">javascript:(function(){var nakami;$nakami=location.pathname.replace(/.*\/(ASIN|dp|product|aw\/d)\/([0-9A-Z]+)\/.*/,'$2');window.open('http://192.168.11.200:8000/pochipochi.php?asin='+$nakami+'&kw='+window.getSelection().toString())})();</code></pre>
+<pre class="wp-block-code"><code lang="javascript" class="language-javascript">javascript:(function(){var nakami;$nakami=location.pathname.replace(/.*\/(ASIN|dp|product|aw\/d)\/([0-9A-Z]+)\/.*/,'$2');window.open('http://jun3010.me/pochipochi.php?asin='+$nakami+'&kw='+window.getSelection().toString())})();</code></pre>
 
 これが今回作成したphpにAmazonの商品のURLを渡すために作成したブックマークレットです。Amazonの商品ページのURL中にあるASINコードと、ブックマークレット実行時にブラウザ上で範囲選択している単語をphpがGETできるようにしてあります。このjavascript内のurlは、ご自身が今回のphpを設置した場所に書き換えてください。
 
@@ -247,7 +247,7 @@ $yahoo_url = 'https://ck.jp.ap.valuecommerce.com/servlet/referral?sid='.$sid.'&p
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/PFU-Hacking-Keyboard-Professional-PD-KB600BN/dp/B01DVRXF0A?SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B01DVRXF0A" target="_blank"  rel="noopener noreferrer">PFU Happy Hacking Keyboard Professional BT 無刻印/墨 PD-KB600BN</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

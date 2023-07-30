@@ -28,7 +28,7 @@ categories:
 
 実際の攻略方法は、以前にまとめた通りです。
 
-## <a rel="nofollow" href="http://192.168.11.200:8000/linepop%E3%81%AE%E6%94%BB%E7%95%A5%E6%B3%95%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%81%BF%E3%81%9F-1250.html">LINEPOPの攻略法をまとめてみた</a> {.post-title}</p> 
+## <a rel="nofollow" href="http://jun3010.me/linepop%E3%81%AE%E6%94%BB%E7%95%A5%E6%B3%95%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%81%BF%E3%81%9F-1250.html">LINEPOPの攻略法をまとめてみた</a> {.post-title}</p> 
 
 これでアイテムを使ったら、もっと高得点を狙えたんじゃないかなぁと思います。
 

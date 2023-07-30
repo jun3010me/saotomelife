@@ -60,7 +60,7 @@ categories:
 今回は、ダブルチョコレートコーヒージェリーフラペチーノをチョコレートずくしな感じにカスタマイズしました。
 
 詳しくは、コーヒージェリーフラペチーノカスタマイズ記事をご覧ください。↓  
-<a href="http://192.168.11.200:8000/coffee-jelly-osusume-customize-8865.html" target="_blank"><img decoding="async" loading="lazy" class="alignleft" align="left" border="0" src="http://capture.heartrails.com/150x130/shadow?http://192.168.11.200:8000/coffee-jelly-osusume-customize-8865.html" alt="" width="150" height="130" /></a><a style="color:#0070C5;" href="http://192.168.11.200:8000/coffee-jelly-osusume-customize-8865.html" target="_blank">[6月18日追記]コーヒージェリーフラペチーノのおすすめカスタマイズ！ | No:8865 | 早乙女珈琲店</a><a href="http://b.hatena.ne.jp/entry/http://192.168.11.200:8000/coffee-jelly-osusume-customize-8865.html" target="_blank"><img decoding="async" border="0" src="http://b.hatena.ne.jp/entry/image/http://192.168.11.200:8000/coffee-jelly-osusume-customize-8865.html" alt="" /></a><br style="clear:both;" />
+<a href="http://jun3010.me/coffee-jelly-osusume-customize-8865.html" target="_blank"><img decoding="async" loading="lazy" class="alignleft" align="left" border="0" src="http://capture.heartrails.com/150x130/shadow?http://jun3010.me/coffee-jelly-osusume-customize-8865.html" alt="" width="150" height="130" /></a><a style="color:#0070C5;" href="http://jun3010.me/coffee-jelly-osusume-customize-8865.html" target="_blank">[6月18日追記]コーヒージェリーフラペチーノのおすすめカスタマイズ！ | No:8865 | 早乙女珈琲店</a><a href="http://b.hatena.ne.jp/entry/http://jun3010.me/coffee-jelly-osusume-customize-8865.html" target="_blank"><img decoding="async" border="0" src="http://b.hatena.ne.jp/entry/image/http://jun3010.me/coffee-jelly-osusume-customize-8865.html" alt="" /></a><br style="clear:both;" />
 
 ## 「あら！こんにちは！笑」
 

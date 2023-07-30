@@ -29,7 +29,7 @@ tags:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="T0moFLLARv">
-    <a href="http://192.168.11.200:8000/ipados-emacs-shortcutkey-17641.html">iPadOS 13.4のテキスト入力で使えるショートカットキーまとめ</a>
+    <a href="http://jun3010.me/ipados-emacs-shortcutkey-17641.html">iPadOS 13.4のテキスト入力で使えるショートカットキーまとめ</a>
   </blockquote>
 </div></figure> 
 

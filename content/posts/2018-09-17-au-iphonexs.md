@@ -31,11 +31,11 @@ iPhone7Plusは、実にバランス良い機種で、まだまだ使える機種
 
 そもそも僕はiPhone7Plusを購入した際に、2度とauショップで買うもんか！と思っていました。
 
-<a href="http://192.168.11.200:8000/iphone7plus-iyh-12056.html" target="_blank" rel="noopener noreferrer">もう2度とauショップでiPhoneを買わないと決めた日 – さおとめらいふ</a>
+<a href="http://jun3010.me/iphone7plus-iyh-12056.html" target="_blank" rel="noopener noreferrer">もう2度とauショップでiPhoneを買わないと決めた日 – さおとめらいふ</a>
 
 理由は、auショップでiPhoneを購入する時点で余分に1万円払うことになるからです。
 
-<a href="http://192.168.11.200:8000/au-kishuhenko-atamakin-attention-4472.html" target="_blank" rel="noopener noreferrer">auで機種変更する時は『頭金』に気をつけろ！ – さおとめらいふ</a>
+<a href="http://jun3010.me/au-kishuhenko-atamakin-attention-4472.html" target="_blank" rel="noopener noreferrer">auで機種変更する時は『頭金』に気をつけろ！ – さおとめらいふ</a>
 
 でもね、僕はやっぱり今年もauで予約したんですよ。その度に後悔していたんですけどね。
 
@@ -172,7 +172,7 @@ au公式サイトより画像を持ってきました。
 
 詳しい内容はそこで触れています。
 
-<a href="http://192.168.11.200:8000/au-iphone-upgradeprogram-ex-a-14821.html" target="_blank" rel="noopener noreferrer">auで毎年新しいiPhoneに機種変更し続けるために分割残金をチャラにするオプション「アップグレードプログラムEX(a)」 – さおとめらいふ</a>
+<a href="http://jun3010.me/au-iphone-upgradeprogram-ex-a-14821.html" target="_blank" rel="noopener noreferrer">auで毎年新しいiPhoneに機種変更し続けるために分割残金をチャラにするオプション「アップグレードプログラムEX(a)」 – さおとめらいふ</a>
 
 ここでは、(a)の有無による説明の違いについて、ちょっと突っ込みます。
 <figure class="wp-block-image">

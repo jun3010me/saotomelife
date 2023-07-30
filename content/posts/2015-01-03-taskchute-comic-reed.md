@@ -63,7 +63,7 @@ categories:
 taskumaについて学びました。  
 **</p> 
 
-<a href="http://192.168.11.200:8000/taskuma-nagoya-9443.html" target="_blank">ライフハック・ワークスタイル【たすくま編】＠なごや に参加してきました！ | No:9443 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/taskuma-nagoya-9443.html" target="_blank">ライフハック・ワークスタイル【たすくま編】＠なごや に参加してきました！ | No:9443 | 早乙女珈琲店</a>
 
 </b>  
 <span class="b">そしてお酒の流れにまかせて</span>、taskumaを買ってしまったので、  
@@ -74,7 +74,7 @@ taskumaについて学びました。
 <span class="futoaka">人生はある程度のルーチンタスクで回せる</span>ということを学んだわけです。  
 **</p> 
 
-<a href="http://192.168.11.200:8000/taskuma-iyh-9579.html" target="_blank">たすくまが、教えてくれた本質は、全行動に意味があること | No:9579 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/taskuma-iyh-9579.html" target="_blank">たすくまが、教えてくれた本質は、全行動に意味があること | No:9579 | 早乙女珈琲店</a>
 
 </b>  
 しかしながら、1日の予定を立てる中で、  
@@ -83,7 +83,7 @@ taskumaについて学びました。
 現状です。  
 **</p> 
 
-<a href="http://192.168.11.200:8000/non-taskuma-projecttool-9599.html" target="_blank">[助けて]たすくま以外のツールでプロジェクト管理をしたい | No:9599 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/non-taskuma-projecttool-9599.html" target="_blank">[助けて]たすくま以外のツールでプロジェクト管理をしたい | No:9599 | 早乙女珈琲店</a>
 
 </b>  
   

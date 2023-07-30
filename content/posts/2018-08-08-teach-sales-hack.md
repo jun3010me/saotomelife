@@ -26,7 +26,7 @@ categories:
 ## 会社の正式名称を確認する
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -36,7 +36,7 @@ categories:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"> <img decoding="async" src="http://192.168.11.200:8000/files/bk.jpg" alt="声" /><figcaption class="voice-img-description">声</figcaption></figure> 
+  <figure class="voice-img-right"> <img decoding="async" src="http://jun3010.me/files/bk.jpg" alt="声" /><figcaption class="voice-img-description">声</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -50,7 +50,7 @@ categories:
 ## 自分や他の職員の名前を出してはいけない
 
 <div class="voice">
-  <figure class="voice-img-right"> <img decoding="async" src="http://192.168.11.200:8000/files/bk.jpg" alt="声" /><figcaption class="voice-img-description">声</figcaption></figure> 
+  <figure class="voice-img-right"> <img decoding="async" src="http://jun3010.me/files/bk.jpg" alt="声" /><figcaption class="voice-img-description">声</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -68,7 +68,7 @@ categories:
 そこでうっかり、
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -82,7 +82,7 @@ categories:
 なんて答えてしまうと、
 
 <div class="voice">
-  <figure class="voice-img-right"> <img decoding="async" src="http://192.168.11.200:8000/files/bk.jpg" alt="声" /><figcaption class="voice-img-description">声</figcaption></figure> 
+  <figure class="voice-img-right"> <img decoding="async" src="http://jun3010.me/files/bk.jpg" alt="声" /><figcaption class="voice-img-description">声</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -98,7 +98,7 @@ categories:
 ここで運悪く、自分へのセールスの電話を受けたとしましょう。ここで超重要なのは、相手の**商品の話を始めさせないこと**です。よくあるのはマンション経営とか不労所得の話ですが、少し話を伺ってしまうと
 
 <div class="voice">
-  <figure class="voice-img-right"> <img decoding="async" src="http://192.168.11.200:8000/files/bk.jpg" alt="声" /><figcaption class="voice-img-description">声</figcaption></figure> 
+  <figure class="voice-img-right"> <img decoding="async" src="http://jun3010.me/files/bk.jpg" alt="声" /><figcaption class="voice-img-description">声</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -112,7 +112,7 @@ categories:
 なので、こう対応します。
 
 <div class="voice">
-  <figure class="voice-img-right"> <img decoding="async" src="http://192.168.11.200:8000/files/bk.jpg" alt="声" /><figcaption class="voice-img-description">声</figcaption></figure> 
+  <figure class="voice-img-right"> <img decoding="async" src="http://jun3010.me/files/bk.jpg" alt="声" /><figcaption class="voice-img-description">声</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -122,7 +122,7 @@ categories:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -134,7 +134,7 @@ categories:
 耳寄りなお話ねぇ。お金が儲かる話ってのは、人間はタダでは教えません。そういった話を教えてくれる時は、ほとんどの場合は_教える側にもメリットがある話_です。なので話題をそらします。ここでは、なぜ自分にそれを話そうと思ったのかを聞いてみます。
 
 <div class="voice">
-  <figure class="voice-img-right"> <img decoding="async" src="http://192.168.11.200:8000/files/bk.jpg" alt="声" /><figcaption class="voice-img-description">声</figcaption></figure> 
+  <figure class="voice-img-right"> <img decoding="async" src="http://jun3010.me/files/bk.jpg" alt="声" /><figcaption class="voice-img-description">声</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -150,7 +150,7 @@ categories:
 ## 質問の回答を聞いた直後に断る
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -162,7 +162,7 @@ categories:
 ちょっと相づちを打った後、ここがポイントです。
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -184,7 +184,7 @@ categories:
 ここからは、一切質問をせず電話を切ります。
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">

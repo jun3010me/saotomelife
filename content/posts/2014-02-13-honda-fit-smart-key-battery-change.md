@@ -71,7 +71,7 @@ categories:
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/%E3%82%B9%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%AB-3R-CR2032-240mAh-%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%82%B3%E3%82%A4%E3%83%B3%E9%9B%BB%E6%B1%A0/dp/B0788GH1XZ?psc=1&#038;SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B0788GH1XZ" target="_blank"  rel="noopener noreferrer">スリーアール(3R) コイン電池 CR2032 H 240mAh リチウムコイン電池 3V 10個セット</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

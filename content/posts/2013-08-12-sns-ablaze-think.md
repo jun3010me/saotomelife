@@ -113,7 +113,7 @@ categories:
 先日、ハンバーグを食べに行った時の話なんですが、
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/nagoya-hickory-4692.html" target="_blank">この味で1330円！？ヒッコリーというハンバーグのお店に行ってきた | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/nagoya-hickory-4692.html" target="_blank">この味で1330円！？ヒッコリーというハンバーグのお店に行ってきた | BeginningNEWS</a>
 </p>
 
 実は、僕のTwitterのアカウントは、同居している弟にもフォローされている状態です。

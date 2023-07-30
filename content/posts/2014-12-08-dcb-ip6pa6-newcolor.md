@@ -22,7 +22,7 @@ iPhone6Plus用のアルミバンパーで、
 3色と、カーボン版を出すという記事を書きました。  
 **</p> 
 
-<a href="http://192.168.11.200:8000/deff-iphone6plus-bumper-10096.html" target="_blank">アルミバンパーの王道メーカーDeffがiPhone6Plus用バンパーを12月上旬に発売！ | No:10096 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/deff-iphone6plus-bumper-10096.html" target="_blank">アルミバンパーの王道メーカーDeffがiPhone6Plus用バンパーを12月上旬に発売！ | No:10096 | 早乙女珈琲店</a>
 
 </b>  
 そのアルミバンパー3色に加えて、

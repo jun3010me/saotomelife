@@ -64,7 +64,7 @@ Ventiサイズで600円で飲めて、何もかも多めに頼んでこの価格
 ↓  
 **</p> 
 
-・<a href="http://192.168.11.200:8000/chocolate-brownie-maccha-8841.html" target="_blank">チョコレートブラウニー抹茶クリームフラペチーノのおすすめカスタマイズ6選！ | No:8841 | 早乙女珈琲店</a>
+・<a href="http://jun3010.me/chocolate-brownie-maccha-8841.html" target="_blank">チョコレートブラウニー抹茶クリームフラペチーノのおすすめカスタマイズ6選！ | No:8841 | 早乙女珈琲店</a>
 
 </strong>
 

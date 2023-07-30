@@ -35,7 +35,7 @@ categories:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="jhXuSGFg77">
-    <a href="http://192.168.11.200:8000/tp-link-hs105-17010.html">「アレクサ、ライトつけて」が日常の生活</a>
+    <a href="http://jun3010.me/tp-link-hs105-17010.html">「アレクサ、ライトつけて」が日常の生活</a>
   </blockquote>
 </div></figure> 
 

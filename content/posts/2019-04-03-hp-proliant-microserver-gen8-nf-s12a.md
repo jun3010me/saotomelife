@@ -31,7 +31,7 @@ categories:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="Tph6yoIiSr">
-    <a href="http://192.168.11.200:8000/hp-proliant-microserver-671.html">HP ProLiant MicroServerを買った</a>
+    <a href="http://jun3010.me/hp-proliant-microserver-671.html">HP ProLiant MicroServerを買った</a>
   </blockquote>
 </div></figure> 
 
@@ -58,7 +58,7 @@ Gen8は今となっては古い機体ですが、第3世代のIntelCPUが搭載�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/noctua-NF-S12A-PWM-Noctua-PWM%E5%AF%BE%E5%BF%9C/dp/B00BEZZBFO?SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B00BEZZBFO" target="_blank"  rel="noopener noreferrer">Noctua &#8211; NF-S12A PWM対応 ファン</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -129,7 +129,7 @@ Noctua製のファンって、こんなにも静かなんですね。これか�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/noctua-NF-S12A-PWM-Noctua-PWM%E5%AF%BE%E5%BF%9C/dp/B00BEZZBFO?SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B00BEZZBFO" target="_blank"  rel="noopener noreferrer">Noctua &#8211; NF-S12A PWM対応 ファン</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

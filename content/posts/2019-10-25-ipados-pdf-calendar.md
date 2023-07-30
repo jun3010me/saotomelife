@@ -103,7 +103,7 @@ iOSリマインダーがアップデートされて、画像が登録できる�
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="z9HOTyc1Pe">
-    <a href="http://192.168.11.200:8000/ipados-reminder-fantastical2-17176.html">iPadOSのリマインダーの日付や時間の指定をドラッグ＆ドロップで行う方法</a>
+    <a href="http://jun3010.me/ipados-reminder-fantastical2-17176.html">iPadOSのリマインダーの日付や時間の指定をドラッグ＆ドロップで行う方法</a>
   </blockquote>
 </div></figure> 
 

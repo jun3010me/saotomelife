@@ -86,4 +86,4 @@ ApplePencilには、これまでずっとラバーカバーをつけていまし
 
 自分の身の回りを探してみると、意外と見つかるもんだなぁと思いました。ApplePencilのクリップを探している人がいたら、Amazonでクリップを買う前に、一度身の回りで使えそうなものを探してみてみください。
 
- [1]: http://192.168.11.200:8000/applepencil-grip-12069.html
+ [1]: http://jun3010.me/applepencil-grip-12069.html

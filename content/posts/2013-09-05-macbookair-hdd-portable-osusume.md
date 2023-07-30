@@ -130,6 +130,6 @@ iTunesの曲の保存先にしてもよし！ 1.5TBも持ち運べるなら、�
 脳内協議の結果、僕はこちらを買いました↓  
 ****
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/wd-my-passport-ultra-2tb-iyh-5755.html" target="_blank">TimeMachineに！写真のバックアップに！とにかくデータが沢山入る大容量ポータブルHDD！WD My Passport Ultra 2.0TB チタニウムを購入した！ | 早乙女珈琲店</a>**
+**・<a rel="nofollow" href="http://jun3010.me/wd-my-passport-ultra-2tb-iyh-5755.html" target="_blank">TimeMachineに！写真のバックアップに！とにかくデータが沢山入る大容量ポータブルHDD！WD My Passport Ultra 2.0TB チタニウムを購入した！ | 早乙女珈琲店</a>**
 
  [1]: https://twitter.com/jun3010me

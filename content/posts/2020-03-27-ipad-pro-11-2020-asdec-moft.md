@@ -32,7 +32,7 @@ Podcastでも話しましたが、2020年3月25日発売のiPad Pro 11インチ 
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B0863HLBC6?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">Apple iPad Pro (11インチ, Wi-Fi, 256GB) &#8211; スペースグレイ (第2世代)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -76,7 +76,7 @@ Podcastでも話しましたが、2020年3月25日発売のiPad Pro 11インチ 
           &nbsp;
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" target="_blank" rel="nofollow noopener noreferrer">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/" target="_blank" rel="nofollow noopener noreferrer">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -115,7 +115,7 @@ Podcastでも話しましたが、2020年3月25日発売のiPad Pro 11インチ 
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="VIrAPfk4Rp">
-    <a href="http://192.168.11.200:8000/ipad-pro-129-asdec-13328.html">最近のアンチグレアフィルムは凄い。iPad Pro 12.9に貼ったら映り込みがマジで激減した。</a>
+    <a href="http://jun3010.me/ipad-pro-129-asdec-13328.html">最近のアンチグレアフィルムは凄い。iPad Pro 12.9に貼ったら映り込みがマジで激減した。</a>
   </blockquote>
 </div></figure> 
 
@@ -144,7 +144,7 @@ Podcastでも話しましたが、2020年3月25日発売のiPad Pro 11インチ 
           &nbsp;
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" target="_blank" rel="nofollow noopener noreferrer">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/" target="_blank" rel="nofollow noopener noreferrer">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -203,7 +203,7 @@ MOFT Xは中に金属が入っているので、磁石にくっつきます。
           &nbsp;
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" target="_blank" rel="nofollow noopener noreferrer">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/" target="_blank" rel="nofollow noopener noreferrer">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -242,7 +242,7 @@ MOFT Xは中に金属が入っているので、磁石にくっつきます。
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="k6objf7qhH">
-    <a href="http://192.168.11.200:8000/ipad-pro-129-car-magnet-13031.html">[2018年版にも対応]マグネット式車載ホルダーでiPad Pro 12.9をホンダ フィットに車載してみた</a>
+    <a href="http://jun3010.me/ipad-pro-129-car-magnet-13031.html">[2018年版にも対応]マグネット式車載ホルダーでiPad Pro 12.9をホンダ フィットに車載してみた</a>
   </blockquote>
 </div></figure> 
 
@@ -273,7 +273,7 @@ iPadを使うとなると、僕は最低限、フィルムを貼ります。ケ�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B07KG1JTCQ?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">ASDEC アスデック iPad Pro 11 保護フィルム 11インチ フィルム 【カメラ保護フィルム付き】 [ノングレアフィルム3]・描きたくなるフィルム ・防指紋 指紋防止・気泡消失・映り込み防止 反射防止・キズ防止・アンチグレア・日本製 NGB-IPA10 (iPad Pro 11 2018 / マットフィルム)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -302,7 +302,7 @@ iPadを使うとなると、僕は最低限、フィルムを貼ります。ケ�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B07Z6P1C4K?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">MOFT X パッドスタンド 10.5インチ 形隠し・折りたたみ式スマホホルダー、超軽量、最も薄</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

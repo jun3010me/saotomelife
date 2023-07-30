@@ -34,7 +34,7 @@ tags:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="NWrQMUHAzh">
-    <a href="http://192.168.11.200:8000/keyboard-rekishi-24.html">ジュンのキーボード歴</a>
+    <a href="http://jun3010.me/keyboard-rekishi-24.html">ジュンのキーボード歴</a>
   </blockquote>
 </div></figure> 
 <figure class="wp-block-image">
@@ -47,7 +47,7 @@ tags:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="fQpHn44zKF">
-    <a href="http://192.168.11.200:8000/hhkb-souji-1859.html">キーボードの大掃除！ HappyHackingKeyboard Professional2 無刻印 白 を洗浄してみた</a>
+    <a href="http://jun3010.me/hhkb-souji-1859.html">キーボードの大掃除！ HappyHackingKeyboard Professional2 無刻印 白 を洗浄してみた</a>
   </blockquote>
 </div></figure> 
 

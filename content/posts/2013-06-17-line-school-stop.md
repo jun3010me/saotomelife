@@ -26,7 +26,7 @@ tags:
 中高生が何故今LINEにのめり込むのか、どうして抜けられないのかをまとめました。  
 ****
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/student-line-dependence-6359.html" target="_blank">中高生のLINE依存について考察した | 早乙女珈琲店</a>**
+**・<a rel="nofollow" href="http://jun3010.me/student-line-dependence-6359.html" target="_blank">中高生のLINE依存について考察した | 早乙女珈琲店</a>**
 
 &nbsp;
 

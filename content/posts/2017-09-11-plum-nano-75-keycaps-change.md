@@ -15,7 +15,7 @@ Topre Cloneとして中国で生まれたキーボードの一番キーが少な
 
 このキーボードのレビューはこちら↓
 
-<a href="http://192.168.11.200:8000/topre-clone-niz-plum-nano-75-13018.html" target="_blank">Topre Cloneとして中国にじわじわ広がる静電容量無接点方式のキーボード「NIZ Plum Nano 75」を購入した – 早乙女珈琲店</a>  
+<a href="http://jun3010.me/topre-clone-niz-plum-nano-75-13018.html" target="_blank">Topre Cloneとして中国にじわじわ広がる静電容量無接点方式のキーボード「NIZ Plum Nano 75」を購入した – 早乙女珈琲店</a>  
 このキーボード、英語配列＆静電容量無接点方式＆CherryMXのキートップが採用されているっていう、HappyHackingKeyboardやRealforceを使っている人の心をくすぐる仕様だ。キートップにはこのキーボードなりの刻印が刻まれているが、どこか安っぽい印象を受ける。
 
 <img decoding="async" loading="lazy" class="alignnone size-full wp-image-13048" src="/wp-content/uploads/2017/09/RiFdNJAZTr6p0SKyhYr0og_thumb_3435.jpg" width="1125" height="698"  sizes="(max-width: 1125px) 100vw, 1125px" /> 

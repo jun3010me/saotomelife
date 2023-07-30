@@ -27,7 +27,7 @@ iPad Pro 12.9インチ 2017年モデルを購入して1年ほど経ちました�
 
 解決策としてUSB PDという規格で充電すると良いということが調べて分かったので、これを機にモバイルバッテリーを新調しました。
 
-<a href="http://192.168.11.200:8000/ipad-pro-usbpd-cheero-13502.html" target="_blank" rel="noopener noreferrer">iPad Proの急速充電に対応するモバイルバッテリー＆ケーブルで実現したモバイル生活がめっちゃ快適 – さおとめらいふ</a>  
+<a href="http://jun3010.me/ipad-pro-usbpd-cheero-13502.html" target="_blank" rel="noopener noreferrer">iPad Proの急速充電に対応するモバイルバッテリー＆ケーブルで実現したモバイル生活がめっちゃ快適 – さおとめらいふ</a>  
 このUSB PD対応のバッテリーやらACアダプタを使うと本当にiPadProの充電が早くて助かっています。
 
 しかし、一カ所まだ、僕の生活環境の中でUSB PDに対応していない部分がありました。
@@ -85,7 +85,7 @@ AmazonでUSB PDに対応しているシガーソケット用のカーチャー�
 今回このAnker製を選んだのは、一言で言うとメーカーに対する信頼です。数年前からモバイルバッテリーなどで定評のあるAnkerが良いと思ったんです。何せ充電ですからね。下手に中国製の安いものを購入して車内で火を噴いたら嫌ですからね。
 
 <div class="voice">
-  <figure class="voice-img-right"> <img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"> <img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">

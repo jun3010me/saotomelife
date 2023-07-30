@@ -22,7 +22,7 @@ tags:
 中部電力が2018年8月に発売するスマートリモコン「ここリモ」をモニタープログラムでお借りしたのでレビューします。
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="よめ" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="よめ" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -32,7 +32,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -52,7 +52,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="よめ" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="よめ" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -62,7 +62,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -72,7 +72,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="よめ" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="よめ" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -82,7 +82,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -92,7 +92,7 @@ tags:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="よめ" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="よめ" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -337,7 +337,7 @@ USBケーブルは付属していますが、ACアダプタが付属していま
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -369,7 +369,7 @@ USBケーブルは付属していますが、ACアダプタが付属していま
 我が家のパソコン部屋では、エアコンと証明のリモコンを使っているので、今回はこの2つを登録します。
 
 <div class="voice">
-  <figure class="voice-img-left"><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -449,7 +449,7 @@ USBケーブルは付属していますが、ACアダプタが付属していま
 <img decoding="async" loading="lazy" class="alignnone size-full wp-image-14446" src="/wp-content/uploads/2018/07/Image-2018-07-26-10-01.jpeg" width="720" height="1280"  sizes="(max-width: 720px) 100vw, 720px" /> 
 
 <div class="voice">
-  <figure class="voice-img-right"><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="よめ" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="よめ" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">

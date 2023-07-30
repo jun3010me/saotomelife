@@ -41,7 +41,7 @@ categories:
           &nbsp;
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" target="_blank" rel="nofollow noopener">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" target="_blank" rel="nofollow noopener">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -106,7 +106,7 @@ categories:
           &nbsp;
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" target="_blank" rel="nofollow noopener">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" target="_blank" rel="nofollow noopener">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

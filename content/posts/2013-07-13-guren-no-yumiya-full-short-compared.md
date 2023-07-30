@@ -124,7 +124,7 @@ SE215だと、密閉した空間で、細かい音が拾えると思ったんで
 TVサイズは既に4月に発売しており、以前書いた記事の通り購入済みです。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/singeki-no-kyojin-op-3134.html" target="_blank">進撃の巨人OP 自由への進撃の発売日は7月10日！？遠いよ！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/singeki-no-kyojin-op-3134.html" target="_blank">進撃の巨人OP 自由への進撃の発売日は7月10日！？遠いよ！ | BeginningNEWS</a>
 </p></p> 
 
 ### これで準備完了
@@ -183,7 +183,7 @@ TVサイズは既に4月に発売しており、以前書いた記事の通り�
 渋谷駅前の交差点でPVの放送があってから、だいぶ経ちましたね。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/singeki-no-kyojin-guren-no-yumiya-bimyo-3536.html" target="_blank">進撃の巨人 OP 紅蓮の弓矢のフルバージョンが想像してたのとだいぶ違う | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/singeki-no-kyojin-guren-no-yumiya-bimyo-3536.html" target="_blank">進撃の巨人 OP 紅蓮の弓矢のフルバージョンが想像してたのとだいぶ違う | BeginningNEWS</a>
 </p></p> 
 
 フルバージョンを購入して聞くようになった最近、

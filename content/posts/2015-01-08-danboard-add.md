@@ -22,7 +22,7 @@ categories:
 
 **</p> 
 
-<a href="http://192.168.11.200:8000/danboard-amazon-10312.html" target="_blank">もうやだ！リボルテックダンボー・ミニなんて買うんじゃなかった！ | No:10312 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/danboard-amazon-10312.html" target="_blank">もうやだ！リボルテックダンボー・ミニなんて買うんじゃなかった！ | No:10312 | 早乙女珈琲店</a>
 
 </b>  
 もうほんと<span class="futoaka">大好き</span>。

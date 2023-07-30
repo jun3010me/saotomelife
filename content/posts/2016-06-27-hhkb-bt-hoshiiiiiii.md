@@ -58,7 +58,7 @@ tags:
 その時に、本当に入力するのが楽しくって、書いた記事がこちら。  
 ****
 
-<a href="http://192.168.11.200:8000/keyboard-rekishi-24.html" target="_blank" rel="noopener noreferrer">ジュンのキーボード歴 – 早乙女珈琲店</a>
+<a href="http://jun3010.me/keyboard-rekishi-24.html" target="_blank" rel="noopener noreferrer">ジュンのキーボード歴 – 早乙女珈琲店</a>
 
 ****  
 あー、思えば、HHKBPro2にしてから、ブログ熱が出て、大学時代に記事を書きまくったなぁ。  

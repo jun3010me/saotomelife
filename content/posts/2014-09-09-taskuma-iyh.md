@@ -49,7 +49,7 @@ categories:
 
 **</p> 
 
-<a href="http://192.168.11.200:8000/taskuma-nagoya-9443.html" target="_blank">ライフハック・ワークスタイル【たすくま編】＠なごや に参加してきました！ | No:9443 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/taskuma-nagoya-9443.html" target="_blank">ライフハック・ワークスタイル【たすくま編】＠なごや に参加してきました！ | No:9443 | 早乙女珈琲店</a>
 
 </b>  
 それからというもの、僕の生活に、  

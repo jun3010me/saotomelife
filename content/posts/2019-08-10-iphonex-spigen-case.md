@@ -71,7 +71,7 @@ iPhone Xになり、防水になったので、お風呂で使うこともたま
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/%E3%80%90Spigen%E3%80%91-%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B1%E3%83%BC%E3%82%B9-%E3%82%B7%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88-057CS22109-%E3%83%A1%E3%82%BF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AC%E3%83%83%E3%83%89/dp/B074CMG68S?psc=1&#038;SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B074CMG68S" target="_blank"  rel="noopener noreferrer">【Spigen】 スマホケース iPhone XS ケース/iPhone X ケース 5.8インチ 対応 レンズ保護 超薄型 超軽量 シン・フィット 057CS22109 (メタリック・レッド)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -214,7 +214,7 @@ iPhone Xになり、防水になったので、お風呂で使うこともたま
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/%E3%80%90Spigen%E3%80%91-%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B1%E3%83%BC%E3%82%B9-%E3%82%B7%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88-057CS22109-%E3%83%A1%E3%82%BF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AC%E3%83%83%E3%83%89/dp/B074CMG68S?psc=1&#038;SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B074CMG68S" target="_blank"  rel="noopener noreferrer">【Spigen】 スマホケース iPhone XS ケース/iPhone X ケース 5.8インチ 対応 レンズ保護 超薄型 超軽量 シン・フィット 057CS22109 (メタリック・レッド)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

@@ -121,7 +121,7 @@ Googleカレンダー、スマートフォン、手帳、GTD、手帳術に関�
 AccessNotebookがどんな感じなのかは、こちらの記事を参照してください。  
 **</p> 
 
-・<a href="http://192.168.11.200:8000/accessnotebook-2nc-iyh-7127.html" target="_blank">AccessNoteBookが最高過ぎたので2冊目購入！使い切った感想も書いてみた | No:7127 | 早乙女珈琲店</a>
+・<a href="http://jun3010.me/accessnotebook-2nc-iyh-7127.html" target="_blank">AccessNoteBookが最高過ぎたので2冊目購入！使い切った感想も書いてみた | No:7127 | 早乙女珈琲店</a>
 
 </strong>
 
@@ -155,7 +155,7 @@ AccessNotebookがどんな感じなのかは、こちらの記事を参照して
 Kindleに関しては、是非こちら↓をご覧ください。  
 **</p> 
 
-・<a href="http://192.168.11.200:8000/kindlepw" target="_blank">KindlePWまとめ | 早乙女珈琲店</a>
+・<a href="http://jun3010.me/kindlepw" target="_blank">KindlePWまとめ | 早乙女珈琲店</a>
 
 </strong>
 

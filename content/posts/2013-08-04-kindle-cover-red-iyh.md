@@ -62,7 +62,7 @@ categories:
 ちなみに、買った時に書いた記事がこちらです↓
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/kindle-paper-white-case-cover-4441.html" target="_blank">kindle Paperwhite に最適なケース(カバー)を探した | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/kindle-paper-white-case-cover-4441.html" target="_blank">kindle Paperwhite に最適なケース(カバー)を探した | BeginningNEWS</a>
 </p>
 
  

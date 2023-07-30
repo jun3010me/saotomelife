@@ -218,7 +218,7 @@ JSBoxはiPhone・iPadでJavaScriptを動かすためのアプリです。
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="qADsi8HRdh">
-    <a href="http://192.168.11.200:8000/jsbox-scrapbox-15148.html">iPad＋キーボードでScrapboxを使う為のJSBox用スクリプトが有志より公開された</a>
+    <a href="http://jun3010.me/jsbox-scrapbox-15148.html">iPad＋キーボードでScrapboxを使う為のJSBox用スクリプトが有志より公開された</a>
   </blockquote>
 </div></figure> 
 
@@ -257,7 +257,7 @@ JSBoxはiPhone・iPadでJavaScriptを動かすためのアプリです。
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="ZBDndZhU4d">
-    <a href="http://192.168.11.200:8000/ipad-markdown-editor-202012-20753.html">iPadで快適に使えるMarkdownエディタの模索中に取った行動と、発見した熱い存在</a>
+    <a href="http://jun3010.me/ipad-markdown-editor-202012-20753.html">iPadで快適に使えるMarkdownエディタの模索中に取った行動と、発見した熱い存在</a>
   </blockquote>
 </div></figure> 
 

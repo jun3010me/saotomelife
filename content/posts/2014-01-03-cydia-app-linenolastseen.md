@@ -57,7 +57,7 @@ CCTogglesがLine NoLastSeenに対応しました！ヽ(=´▽\`=)ﾉ
 詳しくはこちらの記事をご覧ください。  
 ****
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/cydia-app-line-nolastseen-cctoggles-6775.html" target="_blank">[iPhone5s対応脱獄アプリ]LINEの既読をつけないようにするアプリが遂に機能のON・OFFに対応した！ | フラペチーノ先生の頭のノート</a>**
+**・<a rel="nofollow" href="http://jun3010.me/cydia-app-line-nolastseen-cctoggles-6775.html" target="_blank">[iPhone5s対応脱獄アプリ]LINEの既読をつけないようにするアプリが遂に機能のON・OFFに対応した！ | フラペチーノ先生の頭のノート</a>**
 
 ## おまけ
 
@@ -67,6 +67,6 @@ LINEで疲れた経験のある方や、既読でイライラした経験のあ�
 
 興味のある方は是非読んでみてください(o_ _)o
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/student-line-dependence-6359.html" target="_blank">中高生のLINE依存について考察した | 早乙女珈琲店</a>**
+**・<a rel="nofollow" href="http://jun3010.me/student-line-dependence-6359.html" target="_blank">中高生のLINE依存について考察した | 早乙女珈琲店</a>**
 
  [1]: https://twitter.com/jun3010me

@@ -30,7 +30,7 @@ tags:
 
 どんなゲームかは、
 
-<span style="font-size: 18px;">・</span><a style="font-size: 18px;" href="http://192.168.11.200:8000/iphone%e7%94%a8%e3%82%b2%e3%83%bc%e3%83%a0-%e3%82%b3%e3%82%a4%e3%83%b3%e3%82%af%e3%83%ad%e3%82%b9%e3%81%a7%e9%81%8a%e3%82%93%e3%81%a7%e3%81%bf%e3%81%9f-1516.html" target="_blank">iPhone用ゲーム コインクロスで遊んでみた | 俺の記事@レンタルサーバ</a>
+<span style="font-size: 18px;">・</span><a style="font-size: 18px;" href="http://jun3010.me/iphone%e7%94%a8%e3%82%b2%e3%83%bc%e3%83%a0-%e3%82%b3%e3%82%a4%e3%83%b3%e3%82%af%e3%83%ad%e3%82%b9%e3%81%a7%e9%81%8a%e3%82%93%e3%81%a7%e3%81%bf%e3%81%9f-1516.html" target="_blank">iPhone用ゲーム コインクロスで遊んでみた | 俺の記事@レンタルサーバ</a>
 
 こちらを参照していただくとして、今回は攻略法をまとめてみました。</p> 
 

@@ -58,7 +58,7 @@ tags:
 以前は、LAMYのスケルトンが気になるとか言ってたけど、  
 **</p> 
 
-<a href="http://192.168.11.200:8000/lamy-safari-hoshi-11426.html" target="_blank" rel="noopener noreferrer">LAMYのサファリという万年筆のスケルトンがすんごく気になるというか欲しい – 早乙女珈琲店</a>
+<a href="http://jun3010.me/lamy-safari-hoshi-11426.html" target="_blank" rel="noopener noreferrer">LAMYのサファリという万年筆のスケルトンがすんごく気になるというか欲しい – 早乙女珈琲店</a>
 
 </b>  
 1度ね、金のペン先の書き味を楽しんでしまったらさ、  

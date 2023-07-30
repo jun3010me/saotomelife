@@ -136,7 +136,7 @@ AccessNotebook @bungu_oの発売日は**7月15日**らしいですね。 ああ�
 購入できました！！
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/accessnotebook-iyh-4565.html" target="_blank">AccessNoteBook @bungu_oを購入できた！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/accessnotebook-iyh-4565.html" target="_blank">AccessNoteBook @bungu_oを購入できた！ | BeginningNEWS</a>
 </p>
 
 &nbsp;

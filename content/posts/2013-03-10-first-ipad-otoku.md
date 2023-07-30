@@ -217,7 +217,7 @@ iPadを2年間使ってきましたが、僕が思うに、
 Androidタブレットに興味があるなら、以下も御覧ください↓
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/7inchi-android-tablet-yasui-3283.html" target="_blank">7インチの人気Androidタブレット Nexus7が中古で安くなっている(2013年6月24日追記) | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/7inchi-android-tablet-yasui-3283.html" target="_blank">7インチの人気Androidタブレット Nexus7が中古で安くなっている(2013年6月24日追記) | BeginningNEWS</a>
 </p>
 
 &nbsp;
@@ -364,7 +364,7 @@ iPadが値上げされましたね。それに反して、Nexus7が今、買い�
 という人は、Nexus7がおすすめです。↓
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/7inchi-android-tablet-yasui-3283.html" target="_blank">7インチの人気Androidタブレット Nexus7が中古で安くなっている | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/7inchi-android-tablet-yasui-3283.html" target="_blank">7インチの人気Androidタブレット Nexus7が中古で安くなっている | 俺の記事@レンタルサーバ</a>
 </p>
 
 &nbsp;

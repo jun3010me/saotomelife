@@ -111,7 +111,7 @@ SIMフリー版64GBゴールドなので、
 記事を書きました。  
 **</p> 
 
-<a href="http://192.168.11.200:8000/umobile-lte-ipadair2-9990.html" target="_blank">iOS8でテザリングOK! U-mobile LTE使い放題のSIMをiPad Air 2で試す | No:9990 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/umobile-lte-ipadair2-9990.html" target="_blank">iOS8でテザリングOK! U-mobile LTE使い放題のSIMをiPad Air 2で試す | No:9990 | 早乙女珈琲店</a>
 
 </b>  
 で、折角なので、U-mobileで契約すると、どうなるのかを計算しました。

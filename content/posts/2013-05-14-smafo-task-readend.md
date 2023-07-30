@@ -20,7 +20,7 @@ categories:
 [クラウド時代のタスク管理の技術][1]を読了しました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/cloud-task-readed-2669.html" target="_blank">[読了]クラウド時代のタスク管理の技術 | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/cloud-task-readed-2669.html" target="_blank">[読了]クラウド時代のタスク管理の技術 | 俺の記事@レンタルサーバ</a>
 </p>
 
 &nbsp;

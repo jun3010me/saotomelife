@@ -21,7 +21,7 @@ categories:
 教育は「洗脳」かぁ、大胆なこと言いますなぁ。プロフィールにも書いた通り、僕は教員です。この仕事をしていると、当然ながら子供たちからよく質問を受けます。
 
 <div class="voice">
-  <figure class="voice-img-right"> <img decoding="async" src="http://192.168.11.200:8000/files/bk.jpg" alt="声" /><figcaption class="voice-img-description">声</figcaption></figure> 
+  <figure class="voice-img-right"> <img decoding="async" src="http://jun3010.me/files/bk.jpg" alt="声" /><figcaption class="voice-img-description">声</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -31,7 +31,7 @@ categories:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -41,7 +41,7 @@ categories:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -57,7 +57,7 @@ categories:
 進路相談の材料となるのは、成績や偏差値です。大学入試に対応できるほどの偏差値の生徒には、当然のように大学進学を勧めます。美容系の専門学校に進学したい！と言われた日にゃ「そんな！あなたの学力でもったいない！」とか平気で言う人もいます。
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -95,7 +95,7 @@ categories:
 > by <a href="http://news.livedoor.com/article/detail/15070030/" title="堀江貴文氏が「行動」を目的とする高校を開校へ 一期生の才能に期待 - ライブドアニュース" target="_blank" rel="noopener noreferrer">堀江貴文氏が「行動」を目的とする高校を開校へ 一期生の才能に期待 &#8211; ライブドアニュース</a>
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -115,7 +115,7 @@ categories:
 進路指導をする際も、
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">

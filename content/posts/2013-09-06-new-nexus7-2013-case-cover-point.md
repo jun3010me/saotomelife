@@ -30,7 +30,7 @@ tags:
 ちなみに、保護フィルムはマイクロソリューションを購入しました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/nexus7-2013-film-arrived-5263.html" target="_blank">PRO GUARD Google nexus 7 (2013）ASUS F2AF-Fussoが届いた！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/nexus7-2013-film-arrived-5263.html" target="_blank">PRO GUARD Google nexus 7 (2013）ASUS F2AF-Fussoが届いた！ | BeginningNEWS</a>
 </p>
 
  

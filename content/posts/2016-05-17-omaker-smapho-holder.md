@@ -49,7 +49,7 @@ categories:
 先日、GWキャンペーンとしてOmaker社のスマホ車載キットをいくつか紹介させていただきました。  
 ****
 
-<a href="http://192.168.11.200:8000/omaker-sale-2016gw-11668.html" target="_blank">[PR]GW期間限定で、Omaker社のスマホ車載キットが最大20％オフ！ – 早乙女珈琲店</a>
+<a href="http://jun3010.me/omaker-sale-2016gw-11668.html" target="_blank">[PR]GW期間限定で、Omaker社のスマホ車載キットが最大20％オフ！ – 早乙女珈琲店</a>
 
 &nbsp;
 
@@ -94,7 +94,7 @@ categories:
 僕は今、ナビの部分にはiPhoneの画面が映せるものを使っています。  
 ****
 
-<a href="http://192.168.11.200:8000/sph-da99-connect-iphone5s-6069.html" target="_blank">iPhoneの画面がナビに映る！アプリユニット「SPH-DA99」にiPhone5sを繋いで使ってみた[操作編] – 早乙女珈琲店</a>
+<a href="http://jun3010.me/sph-da99-connect-iphone5s-6069.html" target="_blank">iPhoneの画面がナビに映る！アプリユニット「SPH-DA99」にiPhone5sを繋いで使ってみた[操作編] – 早乙女珈琲店</a>
 
 &nbsp;
 

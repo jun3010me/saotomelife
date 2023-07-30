@@ -18,7 +18,7 @@ categories:
 今回は、先日更新したこの記事↓  
 **</p> 
 
-<a href="http://192.168.11.200:8000/kokoro-tsurai-9789.html" target="_blank">心が折れた時の本当の対処法 | No:9789 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/kokoro-tsurai-9789.html" target="_blank">心が折れた時の本当の対処法 | No:9789 | 早乙女珈琲店</a>
 
 </b>  
 ここの次回予告通り、自分を構成する本の紹介をしていきたいと思います。  

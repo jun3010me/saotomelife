@@ -25,7 +25,7 @@ tags:
 こんにちは、[ジュン@jun3010me][1]です。
 
 先日、PFU社員の平井さんにお会いする機会がありました。  
-<a href="http://192.168.11.200:8000/hhkb-bt-hoshiiiiiii-11888.html" target="_blank" rel="noopener noreferrer">PFUの中の人に会ってから、HHKB BTへの物欲が止まらない – 早乙女珈琲店</a>
+<a href="http://jun3010.me/hhkb-bt-hoshiiiiiii-11888.html" target="_blank" rel="noopener noreferrer">PFUの中の人に会ってから、HHKB BTへの物欲が止まらない – 早乙女珈琲店</a>
 
 それからというもの、物欲が、止まらんかったのですよ。これはもう、どうしようかなっていうくらい。
 

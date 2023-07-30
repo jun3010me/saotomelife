@@ -35,7 +35,7 @@ tags:
 
 ## 粗悪HDMIケーブルでのトラブル
 
-以前、<a rel="nofollow" href="http://192.168.11.200:8000/sph-da99-connect-iphone5s-6069.html">HDMI入力対応のカーナビ(の形をしているもの)SPH-DA99</a>を購入した際に、iPhone5sを接続する為に、[Lightning Digital AVアダプタ][2]を購入しました。
+以前、<a rel="nofollow" href="http://jun3010.me/sph-da99-connect-iphone5s-6069.html">HDMI入力対応のカーナビ(の形をしているもの)SPH-DA99</a>を購入した際に、iPhone5sを接続する為に、[Lightning Digital AVアダプタ][2]を購入しました。
 
 しかし、その時に使用したHDMIケーブルが、**大須の電気街のワゴンで580円で売られている安いHDMIケーブル**だったんです。
 

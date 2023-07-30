@@ -47,7 +47,7 @@ categories:
         <p>
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -92,6 +92,6 @@ categories:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="K530WxGJtv">
-    <a href="http://192.168.11.200:8000/coffee-self-roast-14741.html">スタバやカルディのコーヒーが不味いと感じたら生豆をフライパンで焙煎してみよう</a>
+    <a href="http://jun3010.me/coffee-self-roast-14741.html">スタバやカルディのコーヒーが不味いと感じたら生豆をフライパンで焙煎してみよう</a>
   </blockquote>
 </div></figure>

@@ -44,7 +44,7 @@ categories:
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/Libra-%E3%80%9015W%E6%80%A5%E9%80%9F%E5%85%85%E9%9B%BB%E5%AF%BE%E5%BF%9C%EF%BC%81%E3%80%91%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E5%BC%8F%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89-%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E5%85%85%E9%9B%BB%E5%99%A8-Qi%E8%A6%8F%E6%A0%BC%E5%AF%BE%E5%BF%9C/dp/B07MQD7GMR?SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B07MQD7GMR" target="_blank"  rel="noopener noreferrer">【15W急速充電対応！】折りたたみ式スタンド ワイヤレス充電器 Qi規格対応</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -140,7 +140,7 @@ AppleのAirPodsもワイヤレス充電器に対応しているみたいです�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/Anker-PowerWave-%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E5%85%85%E9%9B%BB%E5%99%A8-iPhone-Samsung/dp/B07DJC28GS?psc=1&#038;SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B07DJC28GS" target="_blank"  rel="noopener noreferrer">Anker PowerWave 7.5 Stand, Qi認証 ワイヤレス充電器 iPhone 8 / 8Plus / X / XR / XS / XS Max / Samsung Galaxy / LG 対応 5W & 7.5W & 10W 出力 ブラック</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

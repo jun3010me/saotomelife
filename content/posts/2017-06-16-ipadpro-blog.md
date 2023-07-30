@@ -43,7 +43,7 @@ iPad Proを購入して、こいつでどうにかして、今Macでやってい
 keys-to-goというlogicool製のキーボードがあります。2014年に発売されたBluetooth接続のキーボードです。
 
 発売してからすぐ購入したので、過去の記事が残っていました。  
-<a href="http://192.168.11.200:8000/logicool-keys-to-go-review-10169.html" target="_blank">iPad・iPhone用キーボードの大本命が来た！logicoolのKeys-to-goは本当に買って良かった！ – 早乙女珈琲店</a>
+<a href="http://jun3010.me/logicool-keys-to-go-review-10169.html" target="_blank">iPad・iPhone用キーボードの大本命が来た！logicoolのKeys-to-goは本当に買って良かった！ – 早乙女珈琲店</a>
 
 過去の記事タイトルにも書いたように、僕はこのキーボード、最高だと思います。そりゃメインで使っているキーボードはHHKBだし、職場では自前のリアフォを使っているんですけど、それらをモバイルで持ち歩こうとは思わない。keys-to-goはこの薄さでありながら押し心地が本当に良いキーボードです。
 

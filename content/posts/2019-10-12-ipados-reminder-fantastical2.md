@@ -82,7 +82,7 @@ iOS13にも共通する話なんですが、リマインダーが進化しまし
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="HmDMdzwgsy">
-    <a href="http://192.168.11.200:8000/ios13ipados-reminder-17130.html">iOS13やiPadOSの新リマインダーで出来ること、出来ないこと</a>
+    <a href="http://jun3010.me/ios13ipados-reminder-17130.html">iOS13やiPadOSの新リマインダーで出来ること、出来ないこと</a>
   </blockquote>
 </div></figure> 
 

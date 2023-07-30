@@ -23,7 +23,7 @@ tags:
 
 先日、iPadminiRetinaを購入した際、Su-Penの反応が悪いなぁという記事を書きました。 ****
 
-・<a rel="nofollow" href="http://192.168.11.200:8000/ipad-mini-retina-point-6231.html" target="_blank">iPad mini Retinaを一晩使って気になったこと | 早乙女珈琲店</a>
+・<a rel="nofollow" href="http://jun3010.me/ipad-mini-retina-point-6231.html" target="_blank">iPad mini Retinaを一晩使って気になったこと | 早乙女珈琲店</a>
 
 &nbsp;
 
@@ -35,7 +35,7 @@ tags:
 
 この記事は少し古めの記事です。  
 iPadで使うタッチペンを探している方は、最新記事をご覧ください。  
-<a href="http://192.168.11.200:8000/ipad-iphone-styluspen-14768.html" target="_blank">7年かけて色々試し買い続けて分かった、iPhoneやiPadに最適なタッチペン3本を用途別に紹介します – さおとめらいふ</a>
+<a href="http://jun3010.me/ipad-iphone-styluspen-14768.html" target="_blank">7年かけて色々試し買い続けて分かった、iPhoneやiPadに最適なタッチペン3本を用途別に紹介します – さおとめらいふ</a>
 
 ## Su-Pen 交換用ミニペン先2個セット R201S-2
 

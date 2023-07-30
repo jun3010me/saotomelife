@@ -33,7 +33,7 @@ categories:
 それは、
 
 <div class="voice">
-  <figure class="voice-img-right"> <img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"> <img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -66,7 +66,7 @@ categories:
 
 僕は過去に、iPhone5を1年使い、下取りプログラムなどをうまく使うことで、次の年にiPhone5sに機種変更する方法をブログにて紹介した。
 
-<a href="http://192.168.11.200:8000/au-iphone5-iphone5s-how-to-kishuhenko-5555.html" target="_blank">現在auのiPhone5ユーザーの方必見！iPhone5の残金を相殺してiPhone5sに機種変更する方法 – さおとめらいふ</a>  
+<a href="http://jun3010.me/au-iphone5-iphone5s-how-to-kishuhenko-5555.html" target="_blank">現在auのiPhone5ユーザーの方必見！iPhone5の残金を相殺してiPhone5sに機種変更する方法 – さおとめらいふ</a>  
 あれ以来、この方法では若干の料金増加を招くことになってしまったので、本当の意味での相殺は不可能だった。
 
 でも今回は、このEX(a)に、乗っかってみようと思う。全ては来年発売されるであろうiPhoneのためだ。
@@ -105,7 +105,7 @@ goryugo.comのごりゅごさんだ。まじで羨ましい。
 ## お伺い
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -115,7 +115,7 @@ goryugo.comのごりゅごさんだ。まじで羨ましい。
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"> <img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"> <img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">

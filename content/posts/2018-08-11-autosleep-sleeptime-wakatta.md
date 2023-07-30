@@ -25,7 +25,7 @@ categories:
 ## 節電からの睡眠不足
 
 <div class="voice">
-  <figure class="voice-img-right"> <img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"> <img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -35,7 +35,7 @@ categories:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -50,14 +50,14 @@ categories:
 
 実際どんな部屋なのかはこちらの記事にまとめています。
 
-<a href="http://192.168.11.200:8000/pcspace2018-13424.html" target="_blank">iMac＋4kディスプレイ＋自作PC＋PS4で送る快適生活のすゝめ | さおとめらいふ</a>  
+<a href="http://jun3010.me/pcspace2018-13424.html" target="_blank">iMac＋4kディスプレイ＋自作PC＋PS4で送る快適生活のすゝめ | さおとめらいふ</a>  
 で、最近はこの部屋に、座椅子を持ってきています。どんな座椅子なのかはこちらに書きました。
 
-<a href="http://192.168.11.200:8000/zaisu-4000-13295.html" target="_blank">4000円でこの快適さ。楽天で一番売れている座椅子を購入した。 | さおとめらいふ</a>  
+<a href="http://jun3010.me/zaisu-4000-13295.html" target="_blank">4000円でこの快適さ。楽天で一番売れている座椅子を購入した。 | さおとめらいふ</a>  
 基本はパソコンデスクの椅子に座っていてネット見たり記事書いたりっていう生活ですが、ちょっと疲れたな〜と思ってきたら座椅子にごろん。というサイクルで生活していました。すると、生活スタイル自体が変化しました。
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -67,7 +67,7 @@ categories:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"> <img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"> <img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -139,7 +139,7 @@ categories:
 ただそれには、寝るまでにその日に実行するタスクを終えるか、翌日以降に繰り越す作業をして、なるべく早い時間に「今日はもうこれ以上実行するタスクがない」という状況を作り出さなければなりません。ここ最近はこの点に着目して、どうタスクを管理するのかを考えています。まとまったら書きたいと思います。
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">

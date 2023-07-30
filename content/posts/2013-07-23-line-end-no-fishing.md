@@ -28,7 +28,7 @@ tags:
 以前記事を書いた時は、スタンプが貰えるというデマでした。↓
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/line-stamp-dema-2662.html" target="_blank">有料スタンプを無料で差し上げるわけがない | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/line-stamp-dema-2662.html" target="_blank">有料スタンプを無料で差し上げるわけがない | BeginningNEWS</a>
 </p>
 
  

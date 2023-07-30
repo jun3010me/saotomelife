@@ -92,7 +92,7 @@ Nexus4の次はNexus5だろ的なノリから言ってみただけかもしれ�
 発表は7月24日らしいですよ！
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/new-nexus7-asus-7-24-photo-4159.html" target="_blank">7月24日に発表！？新Nexus7の写真や動画が流出している！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/new-nexus7-asus-7-24-photo-4159.html" target="_blank">7月24日に発表！？新Nexus7の写真や動画が流出している！ | BeginningNEWS</a>
 </p>
 
 
@@ -102,7 +102,7 @@ Nexus4の次はNexus5だろ的なノリから言ってみただけかもしれ�
 アメリカで7月20日に入荷するという資料が流出したらしいです！
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/new-nexus7-7-20-arrival-4166.html" target="_blank">新Nexus7が7月20日に入荷する資料が米で流出！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/new-nexus7-7-20-arrival-4166.html" target="_blank">新Nexus7が7月20日に入荷する資料が米で流出！ | BeginningNEWS</a>
 </p>
 
 

@@ -78,6 +78,6 @@ categories:
 (\*｀Д´\*)
 
 <span class="b">カスタマイズ記事はこちらです！↓</span>  
-<a href="http://192.168.11.200:8000/staba-201506-chocolate-crunch-customize-10826.html" target="_blank">スタバのチョコレートクランチフラペチーノをめっちゃ美味しくするカスタマイズ集 | No:10826 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/staba-201506-chocolate-crunch-customize-10826.html" target="_blank">スタバのチョコレートクランチフラペチーノをめっちゃ美味しくするカスタマイズ集 | No:10826 | 早乙女珈琲店</a>
 
  [1]: https://twitter.com/jun3010me

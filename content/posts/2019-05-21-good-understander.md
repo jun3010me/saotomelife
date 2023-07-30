@@ -58,7 +58,7 @@ A君は、「出かけていました」とだけ答えたんです。これだ�
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="35mdlEnktE">
-    <a href="http://192.168.11.200:8000/doryoku-muchu-katenai-16272.html">「努力は夢中に勝てない」から見る教師のあるべき考え方</a>
+    <a href="http://jun3010.me/doryoku-muchu-katenai-16272.html">「努力は夢中に勝てない」から見る教師のあるべき考え方</a>
   </blockquote>
 </div></figure> 
 

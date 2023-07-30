@@ -59,7 +59,7 @@ iPhone5sを購入した時も、当然、最初の保護ビニールを剥がし
 実際に貼ってみた記事をアップしたので、詳しくはそちらを参照してください。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/iphone5s-microsolution-film-pro-guard-5628.html" target="_blank">[指紋認証OK]iPhone5sにマイクロソリューションのPRO GUARDを貼った！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/iphone5s-microsolution-film-pro-guard-5628.html" target="_blank">[指紋認証OK]iPhone5sにマイクロソリューションのPRO GUARDを貼った！ | BeginningNEWS</a>
 </p>
 
 ## Retina対応のアンチグレアフィルムなんて聞いたことないぞ！

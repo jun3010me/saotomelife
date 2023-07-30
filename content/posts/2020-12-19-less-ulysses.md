@@ -85,7 +85,7 @@ Ulyssesがサブスクになってから1年ちょっと経ちました。物書
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="M8xcB6jyP3">
-    <a href="http://192.168.11.200:8000/noteplan3-is-good-20570.html">NotePlan3が、iPadに対応したカレンダー兼今時のMarkdownエディタとして非常に良さげだ</a>
+    <a href="http://jun3010.me/noteplan3-is-good-20570.html">NotePlan3が、iPadに対応したカレンダー兼今時のMarkdownエディタとして非常に良さげだ</a>
   </blockquote>
 </div></figure> 
 

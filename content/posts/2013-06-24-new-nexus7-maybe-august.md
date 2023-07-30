@@ -41,7 +41,7 @@ tags:
 <a rel="nofollow" href="/wp-content/uploads/2013/06/google072013-liveblog-0396-2.png"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-4405" alt="google072013-liveblog-0396-2" src="/wp-content/uploads/2013/06/google072013-liveblog-0396-2-300x178.png" width="300" height="178" /></a>
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/the-new-nexus7-google-breakfast-4386.html" target="_blank">ついに発表！The New Nexus7の詳細が明らかになった！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/the-new-nexus7-google-breakfast-4386.html" target="_blank">ついに発表！The New Nexus7の詳細が明らかになった！ | BeginningNEWS</a>
 </p>
 
 &nbsp;
@@ -51,7 +51,7 @@ tags:
 ひょっとしたら明日(7月12日)に発表があるかも！？と思いましたが
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/new-nexus7-asus-7-11-4051.html" target="_blank">え！？新型Nexus7の発表はあすーす？ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/new-nexus7-asus-7-11-4051.html" target="_blank">え！？新型Nexus7の発表はあすーす？ | BeginningNEWS</a>
 </p>
 
 やはり月末説が有力なようですね↓
@@ -67,7 +67,7 @@ tags:
 なんと、Nexus7ではなくNexus8かもしれないそうです！
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/new-nexus7-nexus8-asus-4128.html" target="_blank">新型Nexus7が「Nexus8」である可能性が浮上 | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/new-nexus7-nexus8-asus-4128.html" target="_blank">新型Nexus7が「Nexus8」である可能性が浮上 | BeginningNEWS</a>
 </p>
 
 &nbsp;
@@ -77,7 +77,7 @@ tags:
 7月24日に発表らしいですよ！
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/new-nexus7-asus-7-24-photo-4159.html" target="_blank">7月24日に発表！？新Nexus7の写真や動画が流出している！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/new-nexus7-asus-7-24-photo-4159.html" target="_blank">7月24日に発表！？新Nexus7の写真や動画が流出している！ | BeginningNEWS</a>
 </p>
 
 &nbsp;
@@ -87,7 +87,7 @@ tags:
 アメリカで7月20日に入荷するという資料が流出したらしいです！
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/new-nexus7-7-20-arrival-4166.html" target="_blank">新Nexus7が7月20日に入荷する資料が米で流出！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/new-nexus7-7-20-arrival-4166.html" target="_blank">新Nexus7が7月20日に入荷する資料が米で流出！ | BeginningNEWS</a>
 </p>
 
 &nbsp;
@@ -95,7 +95,7 @@ tags:
 ## 2013年7月20日更新
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/new-nexus7-7-31-android-4-3-4302.html" target="_blank">新型Nexus7はAndroid4.3搭載で、アメリカでは7月31日発売なのか | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/new-nexus7-7-31-android-4-3-4302.html" target="_blank">新型Nexus7はAndroid4.3搭載で、アメリカでは7月31日発売なのか | BeginningNEWS</a>
 </p>
 
 &nbsp;

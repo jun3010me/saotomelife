@@ -35,7 +35,7 @@ auWALLETというのは、auが始めた電子マネーサービスです。
 
 **</p> 
 
-・<a href="http://192.168.11.200:8000/au-wallet-8034.html" target="_blank">auの新電子マネーサービス！「au WALLET」に早速申し込んでみました！</a>
+・<a href="http://jun3010.me/au-wallet-8034.html" target="_blank">auの新電子マネーサービス！「au WALLET」に早速申し込んでみました！</a>
 
 </b>
 

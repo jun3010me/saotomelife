@@ -246,7 +246,7 @@ HHKBの打ち心地が変わったのでなんとかしたいと思う方の、�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B082TWHY76?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener">HHKB Professional HYBRID Type-S 無刻印／白（英語配列）</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

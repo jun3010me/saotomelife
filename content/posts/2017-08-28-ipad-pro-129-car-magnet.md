@@ -62,7 +62,7 @@ iPad Pro 12.9の第2世代を購入してからしばらく経つが、どうし
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B011QD7C28?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">(iSmile) スマホ 車載ホルダー マグネット式 360度回転 iPhone 7/XPERIA/AQUOS/GALAXY/ARROWS に最適</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -142,7 +142,7 @@ iPad Pro 12.9を車載って、意外とうまくいくもんだ。最初は「�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B011QD7C28?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">(iSmile) スマホ 車載ホルダー マグネット式 360度回転 iPhone 7/XPERIA/AQUOS/GALAXY/ARROWS に最適</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -178,7 +178,7 @@ iPad Pro 12.9を車載って、意外とうまくいくもんだ。最初は「�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/ESR-iPad-12-9-2018-Pencil%E3%83%9A%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A8%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E5%85%85%E9%9B%BB%E6%A9%9F%E8%83%BD%E5%AF%BE%E5%BF%9C/dp/B07HQJNGZQ?psc=1&#038;SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B07HQJNGZQ" target="_blank" rel="noopener noreferrer">ESR iPad Pro 12.9 2018 ケース 2018モデル Apple Pencilペアリングとワイヤレス充電機能対応 マグネットス吸着式 オートスリープ機能 スリム 軽量 シルク手触り 高級感 iPad Pro 12.9インチ 2018年版専用 スマートカバー(ブラック)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

@@ -24,7 +24,7 @@ categories:
 去年にJINSPCを買った時に、ユーザー登録した為かと思います。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/jins-pc%E3%82%92%E8%B2%B7%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F-550.html" target="_blank">JINS PCを買ってみた | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/jins-pc%E3%82%92%E8%B2%B7%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F-550.html" target="_blank">JINS PCを買ってみた | 俺の記事@レンタルサーバ</a>
 </p></p> 
 
 で、内容にはこんな記述が

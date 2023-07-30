@@ -26,7 +26,7 @@ tags:
 先日、Kindle日替わりセールで、『君がいる町』の第1巻がセールになっていました。↓
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/kindle-daily-sale-kimi-no-iru-machi-4208.html" target="_blank">[読了]君のいる町（１）がKindle日替わりセールで99円だった | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/kindle-daily-sale-kimi-no-iru-machi-4208.html" target="_blank">[読了]君のいる町（１）がKindle日替わりセールで99円だった | BeginningNEWS</a>
 </p>
 
  

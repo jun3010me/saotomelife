@@ -28,7 +28,7 @@ categories:
 
 **</p> 
 
-<a href="http://192.168.11.200:8000/interface-2008-67.html" target="_blank">インターフェイス環境 | No:67 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/interface-2008-67.html" target="_blank">インターフェイス環境 | No:67 | 早乙女珈琲店</a>
 
 </b>  
 良いマウス・キーボードは、資産です。  

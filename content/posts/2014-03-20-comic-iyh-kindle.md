@@ -179,7 +179,7 @@ Kindle本を読む以外にも色々と使える要素があるので、
 
 KindlePaperwhiteに関してはこちらにまとめページがあります↓ ****
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/kindlepw" target="_blank">KindlePWまとめ</a>**
+**・<a rel="nofollow" href="http://jun3010.me/kindlepw" target="_blank">KindlePWまとめ</a>**
 
 ## 最後に
 

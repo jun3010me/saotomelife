@@ -19,7 +19,7 @@ iPad Air 2用に、先日キーボードを購入したんです。
 
 **</p> 
 
-<a href="http://192.168.11.200:8000/ipadair2-keyboard-logicool-9909.html" target="_blank">これで解決！iPad Air 2用にlogicoolのBluetoothキーボードを買った！ | No:9909 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/ipadair2-keyboard-logicool-9909.html" target="_blank">これで解決！iPad Air 2用にlogicoolのBluetoothキーボードを買った！ | No:9909 | 早乙女珈琲店</a>
 
 </b>  
 でもこれ、打ちやすい代わりに、  

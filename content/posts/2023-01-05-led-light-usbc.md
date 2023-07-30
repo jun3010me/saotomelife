@@ -114,7 +114,7 @@ AmazonでLEDライトで検索してみると、この手の商品はかなり�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B089ZY2MZQ?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener">Ulanzi VL-81 LEDビデオライト 小型 充電式 3000mAh Type-C 3200k-5600k CRI95+ 色温度調整可能 スマート カメラライト 補助照明 撮影用ライト iPhone DJI Osmo Pocket Action Mobile 3 Gopro Hero 8/7/6/5 iPhone Samsung Canon Nikon Sony用</a></p> 
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -145,7 +145,7 @@ AmazonでLEDライトで検索してみると、この手の商品はかなり�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B09N749M42?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener">XSAJU カメラネジ 1/4 撮影用ネジ ダブルヘッドスタッド オス 2個セット 三脚 一脚 ネジアダプタ 多用途 ブラック</a></p> 
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -174,7 +174,7 @@ AmazonでLEDライトで検索してみると、この手の商品はかなり�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B087X4L5RT?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener">Velbon スマートフォン用三脚アダプター スマートフォンホルダー III 三脚取付可能 自立可能 プラスチック製 iPhone7/8 iPhoneX iPhone11 iPhone12 Android&iPhone 対応 302809</a></p> 
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

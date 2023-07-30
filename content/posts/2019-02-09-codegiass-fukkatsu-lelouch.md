@@ -90,7 +90,7 @@ categories:
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%AE%E3%82%A2%E3%82%B9-%E5%8F%8D%E9%80%86%E3%81%AE%E3%83%AB%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%A5-%E8%88%88%E9%81%93-%E7%89%B9%E8%A3%85%E9%99%90%E5%AE%9A%E7%89%88-Blu-ray/dp/B077X4SS1Q?SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B077X4SS1Q" target="_blank" >コードギアス 反逆のルルーシュ I 興道 (特装限定版) [Blu-ray]</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

@@ -24,7 +24,7 @@ categories:
 初日はフローチャートを用意して夢の国へ、  
 **</p> 
 
-<a href="http://192.168.11.200:8000/disney-chart-taskuma-10426.html" target="_blank">独自のアルゴリズムとたすくまを使ってディズニーランドを攻略してきた | No:10426 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/disney-chart-taskuma-10426.html" target="_blank">独自のアルゴリズムとたすくまを使ってディズニーランドを攻略してきた | No:10426 | 早乙女珈琲店</a>
 
 </b>  
 そして2日目はここ、お台場でございます。

@@ -40,7 +40,7 @@ tags:
 その記事がこちら↓
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow noopener noreferrer" href="http://192.168.11.200:8000/kindle-daily-sale-more-4496.html" target="_blank">本日のKindle日替わりセール品よりもこっちが気になった | BeginningNEWS</a>
+  ・<a rel="nofollow noopener noreferrer" href="http://jun3010.me/kindle-daily-sale-more-4496.html" target="_blank">本日のKindle日替わりセール品よりもこっちが気になった | BeginningNEWS</a>
 </p>
 
 ## 我妻は俺のヨメにハマった！

@@ -70,5 +70,5 @@ categories:
 具体的な攻略方法はこちらを御覧ください↓ 
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/linepop-koryaku-matome-1250.html" target="_blank">LINEPOPの攻略法をまとめてみた | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/linepop-koryaku-matome-1250.html" target="_blank">LINEPOPの攻略法をまとめてみた | 俺の記事@レンタルサーバ</a>
 </p>

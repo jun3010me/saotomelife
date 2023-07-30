@@ -101,7 +101,7 @@ categories:
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/18%E6%AD%B3%E3%81%AE%E8%91%97%E4%BD%9C%E6%A8%A9%E5%85%A5%E9%96%80-%E3%81%A1%E3%81%8F%E3%81%BE%E3%83%97%E3%83%AA%E3%83%9E%E3%83%BC%E6%96%B0%E6%9B%B8-%E7%A6%8F%E4%BA%95%E5%81%A5%E7%AD%96-ebook/dp/B00SM7G6SI?SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B00SM7G6SI" target="_blank" rel="noopener noreferrer">18歳の著作権入門 (ちくまプリマー新書)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/pochipochi.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

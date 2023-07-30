@@ -31,7 +31,7 @@ tags:
 
 この記事は少し古めの記事です。  
 iPadで使うタッチペンを探している方は、最新記事をご覧ください。  
-<a href="http://192.168.11.200:8000/ipad-iphone-styluspen-14768.html" target="_blank">7年かけて色々試し買い続けて分かった、iPhoneやiPadに最適なタッチペン3本を用途別に紹介します – さおとめらいふ</a>
+<a href="http://jun3010.me/ipad-iphone-styluspen-14768.html" target="_blank">7年かけて色々試し買い続けて分かった、iPhoneやiPadに最適なタッチペン3本を用途別に紹介します – さおとめらいふ</a>
 
 ## AccessNotebookが知的生産の中心
 
@@ -59,7 +59,7 @@ iPadで使うタッチペンを探している方は、最新記事をご覧く�
 
 **</p> 
 
-<a href="http://192.168.11.200:8000/tegaki-thinkingtool-mybest-9686.html" target="_blank">やっぱり自分にとっては手書きが最高の思考ツールだった | No:9686 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/tegaki-thinkingtool-mybest-9686.html" target="_blank">やっぱり自分にとっては手書きが最高の思考ツールだった | No:9686 | 早乙女珈琲店</a>
 
 </b>
 
@@ -165,7 +165,7 @@ Jot系もその1つで、現バージョンのSDKでも、
 Air2では満足に反応してくれないんです。  
 **</p> 
 
-<a href="http://192.168.11.200:8000/ipadair2-jottouch-jotscript-problem-9971.html" target="_blank">iPad Air 2にインストールしたGoodNotes4で、JotTouch/Scriptが使えないバグが発生中 | No:9971 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/ipadair2-jottouch-jotscript-problem-9971.html" target="_blank">iPad Air 2にインストールしたGoodNotes4で、JotTouch/Scriptが使えないバグが発生中 | No:9971 | 早乙女珈琲店</a>
 
 </b>
 
@@ -182,7 +182,7 @@ Air2では満足に反応してくれないんです。
 Logicoolのkeys-to-goというキーボードを愛用してます。  
 **</p> 
 
-<a href="http://192.168.11.200:8000/logicool-keys-to-go-review-10169.html" target="_blank">iPad・iPhone用キーボードの大本命が来た！logicoolのKeys-to-goは本当に買って良かった！ | No:10169 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/logicool-keys-to-go-review-10169.html" target="_blank">iPad・iPhone用キーボードの大本命が来た！logicoolのKeys-to-goは本当に買って良かった！ | No:10169 | 早乙女珈琲店</a>
 
 </b>  
 これは本当に買って良かったと思えたキーボード。

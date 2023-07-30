@@ -367,7 +367,7 @@ ChainLPというフリーソフトで自炊したデータを最適化なファ�
 Kindleに関しては、僕も試行錯誤を繰り返し、以前書いた記事の方法に落ちつきました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/comic-scan-jisui-to-read-kindle-paperwhite-4373.html" target="_blank">買った漫画を自炊してKindle Paper Whiteで快適に読めるようにしたった！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/comic-scan-jisui-to-read-kindle-paperwhite-4373.html" target="_blank">買った漫画を自炊してKindle Paper Whiteで快適に読めるようにしたった！ | BeginningNEWS</a>
 </p>
 
  

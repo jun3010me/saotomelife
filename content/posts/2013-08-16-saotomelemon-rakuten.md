@@ -72,7 +72,7 @@ categories:
 毎日食べないと気が済まないんですよ。 というか僕の活力源です(\`･ω･´)
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/tag/%E6%97%A9%E4%B9%99%E5%A5%B3%E6%AA%B8%E6%AA%AC%E3%81%AE%E6%8C%91%E6%88%A6%E7%8A%B6" target="_blank">早乙女檸檬の挑戦状 | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/tag/%E6%97%A9%E4%B9%99%E5%A5%B3%E6%AA%B8%E6%AA%AC%E3%81%AE%E6%8C%91%E6%88%A6%E7%8A%B6" target="_blank">早乙女檸檬の挑戦状 | BeginningNEWS</a>
 </p>
 
 一度食べたら病みつき必至！しかし製造元である愛知県でもあまり数が出回ってない！

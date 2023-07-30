@@ -26,7 +26,7 @@ tags:
 この記事はこちら↓の記事の続きです。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/the-new-nexus7-google-breakfast-4386.html" target="_blank">ついに発表！The New Nexus7の詳細が明らかになった！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/the-new-nexus7-google-breakfast-4386.html" target="_blank">ついに発表！The New Nexus7の詳細が明らかになった！ | BeginningNEWS</a>
 </p>
 
  

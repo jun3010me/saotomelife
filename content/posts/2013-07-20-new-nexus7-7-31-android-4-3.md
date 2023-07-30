@@ -74,7 +74,7 @@ Engadget Japanによると、発売は7月31日というタレコミ情報があ
 新型Nexus7の情報をこちらにまとめました！↓
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/the-new-nexus7-google-breakfast-4386.html" target="_blank">ついに発表！The New Nexus7の詳細が明らかになった！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/the-new-nexus7-google-breakfast-4386.html" target="_blank">ついに発表！The New Nexus7の詳細が明らかになった！ | BeginningNEWS</a>
 </p>
 
  [1]: https://twitter.com/jun3010me

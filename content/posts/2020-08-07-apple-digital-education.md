@@ -41,7 +41,7 @@ categories:
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B07PMR3DBD?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">Appleのデジタル教育</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -84,7 +84,7 @@ ICTの力は、そんなもんじゃない。もっと根本的な、学びに�
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="48wsYXyigy">
-    <a href="http://192.168.11.200:8000/school-non-ict-riyu-18666.html">学校のICT活用が全然進まない原因を文科省がズバリ言い当てた動画がすごい</a>
+    <a href="http://jun3010.me/school-non-ict-riyu-18666.html">学校のICT活用が全然進まない原因を文科省がズバリ言い当てた動画がすごい</a>
   </blockquote>
 </div></figure> 
 
@@ -223,7 +223,7 @@ GIGAスクール構想を、Society5.0を考えた時、「あれ、今の学校
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B07PMR3DBD?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">Appleのデジタル教育</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -249,7 +249,7 @@ GIGAスクール構想を、Society5.0を考えた時、「あれ、今の学校
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/4761926066?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">教師のiPad仕事術</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

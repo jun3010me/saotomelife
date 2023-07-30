@@ -31,7 +31,7 @@ categories:
 
 <!--more-->
 
-まず、<a rel="nofollow" href="http://192.168.11.200:8000/?p=79">以前の記事</a>を参考に、xbacklightをインストールしてください。
+まず、<a rel="nofollow" href="http://jun3010.me/?p=79">以前の記事</a>を参考に、xbacklightをインストールしてください。
 
 今回は複数のコマンドを一気に実行したいので、ファイルを作成します。
 

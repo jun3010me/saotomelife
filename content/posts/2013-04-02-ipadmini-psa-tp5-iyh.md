@@ -40,7 +40,7 @@ tags:
 
 この記事は少し古めの記事です。  
 iPadで使うタッチペンを探している方は、最新記事をご覧ください。  
-<a href="http://192.168.11.200:8000/ipad-iphone-styluspen-14768.html" target="_blank">7年かけて色々試し買い続けて分かった、iPhoneやiPadに最適なタッチペン3本を用途別に紹介します – さおとめらいふ</a>
+<a href="http://jun3010.me/ipad-iphone-styluspen-14768.html" target="_blank">7年かけて色々試し買い続けて分かった、iPhoneやiPadに最適なタッチペン3本を用途別に紹介します – さおとめらいふ</a>
 
 ## 開封！
 
@@ -157,7 +157,7 @@ iPad miniで使ってみると
 
 ## 2014年1月25日更新
 
-・<a rel="nofollow" href="http://192.168.11.200:8000/ipad-mini-retina-su-pen-osusume-touchpen-6338.html" target="_blank">iPad mini Retina に最適なおすすめタッチペンはやっぱり「Su-Pen」だった！ | フラペチーノ先生の頭のノート</a>
+・<a rel="nofollow" href="http://jun3010.me/ipad-mini-retina-su-pen-osusume-touchpen-6338.html" target="_blank">iPad mini Retina に最適なおすすめタッチペンはやっぱり「Su-Pen」だった！ | フラペチーノ先生の頭のノート</a>
 
 この記事では安いペンに浮気しておりましたが、やっぱりSu-Penがダントツでした！(｀･ω･´)ゞ  
 良かったらRetina記事をご覧くださいヽ(=´▽\`=)ﾉ

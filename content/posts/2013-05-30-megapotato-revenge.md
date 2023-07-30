@@ -22,7 +22,7 @@ categories:
 前回は、半分食べたところで冷めてしまいました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/megapotato-challenge-3169.html" target="_blank">マクドナルドのメガポテトに挑戦したら熱いうちに食べきれなかった | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/megapotato-challenge-3169.html" target="_blank">マクドナルドのメガポテトに挑戦したら熱いうちに食べきれなかった | 俺の記事@レンタルサーバ</a>
 </p>
 
  

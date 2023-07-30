@@ -57,7 +57,7 @@ categories:
 
 **</p> 
 
-<a href="http://192.168.11.200:8000/kindle-reed-steve-jobs-comic2-7769.html" target="_blank">[読了]漫画版スティーブ・ジョブズ（２）はApple誕生編でした！ | No:7769 | 早乙女珈琲店 |</a>
+<a href="http://jun3010.me/kindle-reed-steve-jobs-comic2-7769.html" target="_blank">[読了]漫画版スティーブ・ジョブズ（２）はApple誕生編でした！ | No:7769 | 早乙女珈琲店 |</a>
 
 </b>  
 今のところ、代表的な漫画が、この2つです。

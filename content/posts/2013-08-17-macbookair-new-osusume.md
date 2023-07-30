@@ -162,10 +162,10 @@ SSDの書き込み速度が遅いことが問題点としてあげられます�
 
 僕がMacBookAirを快適に使う為に何を購入したのかは、
 
-固定ページ「<a rel="nofollow" href="http://192.168.11.200:8000/iyh-page">これまでIYHしたもの</a>」をご覧くださいヽ(=´▽\`=)ﾉ 
+固定ページ「<a rel="nofollow" href="http://jun3010.me/iyh-page">これまでIYHしたもの</a>」をご覧くださいヽ(=´▽\`=)ﾉ 
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/iyh-page" target="_blank">これまでIYHしてきたもの | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/iyh-page" target="_blank">これまでIYHしてきたもの | BeginningNEWS</a>
 </p>
 
  [1]: https://twitter.com/jun3010me

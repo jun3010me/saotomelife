@@ -33,7 +33,7 @@ categories:
 
 ### 言語切り替えキー問題
 
-<a href="http://192.168.11.200:8000/ios9-ime-kirikae-11126.html" target="_blank">iOS9(9.0.2も同様)から言語切り替えが「Command+Space」から「Ctrl+Space」に変更されてる – 早乙女珈琲店</a>
+<a href="http://jun3010.me/ios9-ime-kirikae-11126.html" target="_blank">iOS9(9.0.2も同様)から言語切り替えが「Command+Space」から「Ctrl+Space」に変更されてる – 早乙女珈琲店</a>
 
 これだ。iOS9からのキーボードショートカットが変更された問題。
 

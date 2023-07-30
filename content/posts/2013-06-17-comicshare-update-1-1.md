@@ -22,7 +22,7 @@ categories:
 少し前に、NASのRARやZIPがiPhoneやiPadで読める！ということで、ComicShareを紹介しました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/nas-zip-rar-comic-read-ipad-iphone-3229.html" target="_blank">NASに保存したZIPやRARの漫画がiPhoneやiPad読めるぞ！ComicShareを試してみた | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/nas-zip-rar-comic-read-ipad-iphone-3229.html" target="_blank">NASに保存したZIPやRARの漫画がiPhoneやiPad読めるぞ！ComicShareを試してみた | 俺の記事@レンタルサーバ</a>
 </p>
 
  

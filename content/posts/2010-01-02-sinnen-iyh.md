@@ -45,6 +45,6 @@ categories:
 
 <span>これがなんと、</span><span style="color: #ff0000; font-size: large;">６９８０円でした！！</span>
 
-中古でしたが、本当に美品。ほぼ新品の状態でした。 今、自宅では<a rel="nofollow" href="http://192.168.11.200:8000/?p=24#more-24">HappyHackingProfessional2白無刻印</a>を使っているので、
+中古でしたが、本当に美品。ほぼ新品の状態でした。 今、自宅では<a rel="nofollow" href="http://jun3010.me/?p=24#more-24">HappyHackingProfessional2白無刻印</a>を使っているので、
 
 職場で使おうと思います。 もうこれで、自宅と職場でのギャップがほぼなくなります。

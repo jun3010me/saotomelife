@@ -35,7 +35,7 @@ androidpriceによる新Nexus7の開封動画がYoutubeにアップされてい�
 Googleによる発表は、今夜です！楽しみですね！ヽ(=´▽\`=)ﾉ
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/new-nexus7-maybe-august-3575.html" target="_blank">新型Nexus7はいつ発売されるんだろうか(2013年7月22日更新) | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/new-nexus7-maybe-august-3575.html" target="_blank">新型Nexus7はいつ発売されるんだろうか(2013年7月22日更新) | BeginningNEWS</a>
 </p>
 
  
@@ -45,7 +45,7 @@ Googleによる発表は、今夜です！楽しみですね！ヽ(=´▽\`=)ﾉ
 新型Nexus7の情報をこちらにまとめました！↓
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/the-new-nexus7-google-breakfast-4386.html" target="_blank">ついに発表！The New Nexus7の詳細が明らかになった！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/the-new-nexus7-google-breakfast-4386.html" target="_blank">ついに発表！The New Nexus7の詳細が明らかになった！ | BeginningNEWS</a>
 </p>
 
  [1]: https://twitter.com/jun3010me

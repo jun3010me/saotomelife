@@ -34,7 +34,7 @@ tags:
 先日、iPhone5sの発売より前に、マイクロソリューションのフィルムを買っておいたんですが、iPhone5sの指紋認証に干渉するのではないかという話題がありました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/iphone5s-film-microsolution-5569.html?csspreview=true" target="_blank">[追記]iPhone5s用に保護フィルム(マイクロソリューション「超高精細アンチグレア Super HDAG」)を買った | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/iphone5s-film-microsolution-5569.html?csspreview=true" target="_blank">[追記]iPhone5s用に保護フィルム(マイクロソリューション「超高精細アンチグレア Super HDAG」)を買った | BeginningNEWS</a>
 </p>
 
 ## 結論:指紋認証使えました！

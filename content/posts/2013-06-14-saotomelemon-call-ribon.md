@@ -22,7 +22,7 @@ categories:
 少し前に、こんな記事を書きました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/saotomelemon-candy-iyh-2694.html" target="_blank">早乙女檸檬の挑戦状というソフトキャンディーが集中力をガチで高めてくれた | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/saotomelemon-candy-iyh-2694.html" target="_blank">早乙女檸檬の挑戦状というソフトキャンディーが集中力をガチで高めてくれた | 俺の記事@レンタルサーバ</a>
 </p>
 
 もうね、**毎日食べてます。(\*´ω｀\*)** 

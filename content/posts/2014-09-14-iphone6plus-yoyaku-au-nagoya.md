@@ -51,7 +51,7 @@ categories:
 ※実は、去年のauNAGOYAのiPhone5s,5cのカウントダウンイベントにも参加していました。  
 **</p> 
 
-・<a href="http://192.168.11.200:8000/au-nagoya-iphone5s-gold-32gb-get-5611.html" target="_blank">au NAGOYAに並んでiPhone5sゴールド32GBをゲットした！ | No:5611 | 早乙女珈琲店</a>
+・<a href="http://jun3010.me/au-nagoya-iphone5s-gold-32gb-get-5611.html" target="_blank">au NAGOYAに並んでiPhone5sゴールド32GBをゲットした！ | No:5611 | 早乙女珈琲店</a>
 
 </b>
 

@@ -29,9 +29,9 @@ categories:
 
 今回は、こちらの画像を使わせていただきます。
 
-・<a rel="nofollow" href="http://192.168.11.200:8000/files/f1926729.jpg" target="_blank">f1926729.jpg (JPEG 画像, 768&#215;1024 px) &#8211; 表示倍率 (72%)</a>
+・<a rel="nofollow" href="http://jun3010.me/files/f1926729.jpg" target="_blank">f1926729.jpg (JPEG 画像, 768&#215;1024 px) &#8211; 表示倍率 (72%)</a>
 
-・<a rel="nofollow" href="http://192.168.11.200:8000/files/2d3e9536.jpg" target="_blank">2d3e9536.jpg (JPEG 画像, 768&#215;1024 px)</a>
+・<a rel="nofollow" href="http://jun3010.me/files/2d3e9536.jpg" target="_blank">2d3e9536.jpg (JPEG 画像, 768&#215;1024 px)</a>
 
  
 

@@ -107,7 +107,7 @@ Scratchのことを、ただの小学生向けビジュアルプログラミン�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%83%E3%82%BA-%E5%AD%90%E3%81%A9%E3%82%82%E3%81%A8%E5%AD%A6%E3%81%B6-Scratch-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%85%A5%E9%96%80-%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%83%E3%82%BA%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E7%AB%B9%E6%9E%97-%E6%9A%81-ebook/dp/B073PSH2LJ?SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B073PSH2LJ" target="_blank" rel="noopener noreferrer">できるキッズ　子どもと学ぶ　Scratch　プログラミング入門 できるキッズシリーズ</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/pochipochi.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

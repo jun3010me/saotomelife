@@ -78,7 +78,7 @@ categories:
         <p>
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/pochipochi.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -136,7 +136,7 @@ categories:
         <p>
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/pochipochi.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -166,7 +166,7 @@ categories:
         <p>
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -190,7 +190,7 @@ categories:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="83gVJy7cjj">
-    <a href="http://192.168.11.200:8000/scrapbox-goodtask3-15125.html">ScrapboxとGoodTask3で行う教師向けタスク管理フローチャート</a>
+    <a href="http://jun3010.me/scrapbox-goodtask3-15125.html">ScrapboxとGoodTask3で行う教師向けタスク管理フローチャート</a>
   </blockquote>
 </div></figure> 
 
@@ -291,7 +291,7 @@ iPhoneアプリだと「たすくま」というアプリが唯一タスクシ�
         <p>
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi.php" target="_blank" rel="nofollow noopener noreferrer">ポチポチ</a>
+          posted with <a href="http://jun3010.me/pochipochi.php" target="_blank" rel="nofollow noopener noreferrer">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -322,5 +322,5 @@ iPhoneアプリだと「たすくま」というアプリが唯一タスクシ�
 あ、ちなみに教師の仕事術に関しては、僕が実践していることはこちらのページにまとめているので、是非ご覧になってみてください。一般企業の方にも応用出来る方法も書いてあります。<figure class="wp-block-embed is-type-rich is-provider-wp-oembed-blog-card-handler">
 
 <div class="wp-block-embed__wrapper">
-  {{< blog-card "http://192.168.11.200:8000/category/teachers-hack">}}
+  {{< blog-card "http://jun3010.me/category/teachers-hack">}}
 </div></figure>

@@ -30,13 +30,13 @@ tags:
 
 この記事は少し古めの記事です。  
 iPadで使うタッチペンを探している方は、最新記事をご覧ください。  
-<a href="http://192.168.11.200:8000/ipad-iphone-styluspen-14768.html" target="_blank">7年かけて色々試し買い続けて分かった、iPhoneやiPadに最適なタッチペン3本を用途別に紹介します – さおとめらいふ</a>
+<a href="http://jun3010.me/ipad-iphone-styluspen-14768.html" target="_blank">7年かけて色々試し買い続けて分かった、iPhoneやiPadに最適なタッチペン3本を用途別に紹介します – さおとめらいふ</a>
 
 ### 2015年7月追記
 
 Adonit製のJotScript2を入手したので、現在メインで愛用中です。
 
-<a href="http://192.168.11.200:8000/jotscript2-evernote-10910.html" target="_blank">Evernoteと手書きを融合する為に生まれたスタイラスペン「JotScript2」が最高すぎる | No:10910 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/jotscript2-evernote-10910.html" target="_blank">Evernoteと手書きを融合する為に生まれたスタイラスペン「JotScript2」が最高すぎる | No:10910 | 早乙女珈琲店</a>
 
 ## 最近話題のBluetooth接続タッチペン！
 

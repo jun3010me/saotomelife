@@ -52,7 +52,7 @@ categories:
 
 それではどんな使い心地なのか、試していきましょう。
 
-今回は、<a rel="nofollow" href="http://192.168.11.200:8000/staba-vanana-matome-7839.html">このスタバ記事</a>内にあるフレッシュバナナフラペチーノの種類と中身をまとめてみます。
+今回は、<a rel="nofollow" href="http://jun3010.me/staba-vanana-matome-7839.html">このスタバ記事</a>内にあるフレッシュバナナフラペチーノの種類と中身をまとめてみます。
 
 <img decoding="async" loading="lazy" title="スクリーンショット 2014-04-23 18.46.33.png" src="/wp-content/uploads/2014/04/516210e14ff6f365de11016b32f37e12.png" alt="スクリーンショット 2014 04 23 18 46 33" width="600" height="398" border="0" /> 
 
@@ -174,7 +174,7 @@ iPhone版では、画面右上にアウトライン表示のボタンがあり�
 **  
 ** 
 
-僕の場合は、<a rel="nofollow" href="http://192.168.11.200:8000/accessnotebook-2nc-iyh-7127.html">AccessNoteBook</a>に手書きでメモした後、MindNodeに入力するようにしています。
+僕の場合は、<a rel="nofollow" href="http://jun3010.me/accessnotebook-2nc-iyh-7127.html">AccessNoteBook</a>に手書きでメモした後、MindNodeに入力するようにしています。
 
 僕はメモは手書き派なんですが、**手書きだと一度書いた内容を移動したりコピーしたりはできません**よね。
 

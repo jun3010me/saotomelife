@@ -37,7 +37,7 @@ Topre Cloneという言葉をご存知だだろうか。TopreとはRealforceと�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B07DXK9NP9?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">AKEEYO 【2020 アップバージョン】NiZ 静電容量無接点方式 パソコン用キーボード ワイヤレスキーボード　ゲーミングキーボード キーボード MINI 小型 英語配列 刻印 Type-c有線/ワイヤレス WINDOWS/MAC 両対応 35g荷重 左FN＋右FN プログラマブル 多機能 ゲームモード Wireless Keyboard 日本語マニュアル アイボリー 電源付き USBレシーバー付き_66EC(S)BLe/35g (66キー)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -203,7 +203,7 @@ Bluetooth機器を登録する時は、3つのアイコンのどれかをFnと�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B07DXK9NP9?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">AKEEYO 【2020 アップバージョン】NiZ 静電容量無接点方式 パソコン用キーボード ワイヤレスキーボード　ゲーミングキーボード キーボード MINI 小型 英語配列 刻印 Type-c有線/ワイヤレス WINDOWS/MAC 両対応 35g荷重 左FN＋右FN プログラマブル 多機能 ゲームモード Wireless Keyboard 日本語マニュアル アイボリー 電源付き USBレシーバー付き_66EC(S)BLe/35g (66キー)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

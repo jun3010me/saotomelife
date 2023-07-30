@@ -107,7 +107,7 @@ Yahoo!のナビアプリは、ナビとして優秀というか、初めてそ�
 ## おわりに
 
 <div class="voice">
-  <figure class="voice-img-left"> <img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
+  <figure class="voice-img-left"> <img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /><figcaption class="voice-img-description">じゅん</figcaption></figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -144,4 +144,4 @@ Yahoo!のナビアプリは、ナビとして優秀というか、初めてそ�
   </div>
 </div>
 
- [1]: http://192.168.11.200:8000/ipad-pro-129-car-magnet-13031.html
+ [1]: http://jun3010.me/ipad-pro-129-car-magnet-13031.html

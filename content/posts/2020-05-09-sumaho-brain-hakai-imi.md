@@ -35,7 +35,7 @@ twitterとかを見ているとね、たまにこの本を紹介する人がい�
         <p>
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -99,7 +99,7 @@ https://president.jp/articles/-/24764</figcaption></figure>
         <p>
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -151,7 +151,7 @@ Kindle版なので引用元が行数になっています。読み進めて14行
         <p>
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -188,7 +188,7 @@ Kindle版なので引用元が行数になっています。読み進めて14行
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="CZFDSM6cdJ">
-    <a href="http://192.168.11.200:8000/line-kidoku-through-17934.html">「既読スルーしないでね」と言われた時に自分の生活を優先する方法</a>
+    <a href="http://jun3010.me/line-kidoku-through-17934.html">「既読スルーしないでね」と言われた時に自分の生活を優先する方法</a>
   </blockquote>
 </div></figure> 
 
@@ -273,7 +273,7 @@ Kindle版なので引用元が行数になっています。読み進めて14行
         <p>
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

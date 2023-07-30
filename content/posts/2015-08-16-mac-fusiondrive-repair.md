@@ -18,7 +18,7 @@ categories:
 光学ドライブをSSDに換装してFusionDriveを組んでいました。  
 ****
 
-<a href="http://192.168.11.200:8000/imac-2010-fusiondrive-9268.html" target="_blank">iMac 2010にFusionDriveを導入する手順を書く | No:9268 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/imac-2010-fusiondrive-9268.html" target="_blank">iMac 2010にFusionDriveを導入する手順を書く | No:9268 | 早乙女珈琲店</a>
 
 &nbsp;
 
@@ -109,7 +109,7 @@ Oh!ちゃんと認識している！(\*´Д｀\*)
 あとは、去年書いた記事を参考にして、FusionDriveを作成していきます。  
 ****
 
-<a href="http://192.168.11.200:8000/imac-2010-fusiondrive-9268.html" target="_blank">iMac 2010にFusionDriveを導入する手順を書く | No:9268 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/imac-2010-fusiondrive-9268.html" target="_blank">iMac 2010にFusionDriveを導入する手順を書く | No:9268 | 早乙女珈琲店</a>
 
 &nbsp;
 
@@ -238,7 +238,7 @@ Mac使いのみなさん、タイムカプセルを買いましょう！
 (\`･ω･´)  
 ****
 
-<a href="http://192.168.11.200:8000/wd-my-passport-ultra-2tb-iyh-5755.html" target="_blank">TimeMachineに！写真のバックアップに！とにかくデータが沢山入る大容量ポータブルHDD！WD My Passport Ultra 2.0TB チタニウムを購入した！ | No:5755 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/wd-my-passport-ultra-2tb-iyh-5755.html" target="_blank">TimeMachineに！写真のバックアップに！とにかくデータが沢山入る大容量ポータブルHDD！WD My Passport Ultra 2.0TB チタニウムを購入した！ | No:5755 | 早乙女珈琲店</a>
 
 &nbsp;
 

@@ -33,7 +33,7 @@ categories:
 > ちなみにUSドルで決済すれば少々お安く済みますよ。あと、クーポンコードが使えるみたいです。「VMwBeta20」と入れると20％安くなります。結果として＄39.99で買えるはずですよ。
 > 
 > <p class="origin">
->   <a rel="nofollow" href="http://192.168.11.200:8000/vmware-fusion-6-5382.html" target="new">VMwareFusion6が発売された！5からのアップデートは6600円ほど | BeginningNEWS</a>
+>   <a rel="nofollow" href="http://jun3010.me/vmware-fusion-6-5382.html" target="new">VMwareFusion6が発売された！5からのアップデートは6600円ほど | BeginningNEWS</a>
 > </p>
 
 ## クーポン適用価格を確かめてみた

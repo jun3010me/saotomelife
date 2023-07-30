@@ -27,7 +27,7 @@ tags:
 先日、Nexus7(2013)用の保護フィルムでマイクロソリューションを選びました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/new-nexus7-2013-film-micro-solution-4986.html" target="_blank">Nexus7 2013用の保護フィルムはマイクロソリューションで決まり！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/new-nexus7-2013-film-micro-solution-4986.html" target="_blank">Nexus7 2013用の保護フィルムはマイクロソリューションで決まり！ | BeginningNEWS</a>
 </p>
 
 そのフィルムが、届いたので、早速貼ってみました(｀･ω･´)ゞ

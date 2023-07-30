@@ -55,7 +55,7 @@ categories:
 
 先日、カナル型イヤホンのイヤーピースをハサミで加工して、EarPodsに取り付けていました。
 
-・<a rel="nofollow" href="http://192.168.11.200:8000/iphone-earpods-kaizo-6482.html" target="_blank">[5分で完了！]iPhone付属のイヤホン「EarPods」を改造した！ | 早乙女珈琲店</a>
+・<a rel="nofollow" href="http://jun3010.me/iphone-earpods-kaizo-6482.html" target="_blank">[5分で完了！]iPhone付属のイヤホン「EarPods」を改造した！ | 早乙女珈琲店</a>
 
  
 

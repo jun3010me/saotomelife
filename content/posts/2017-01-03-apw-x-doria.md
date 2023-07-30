@@ -18,7 +18,7 @@ categories:
 今回もまたApple Watchの話。僕は元々、「Apple Watchでサッカーの審判をやるんじゃい！」と息巻いていた口なので、スポーツで使うことが前提なんですよ。  
 **</p> 
 
-<a href="http://192.168.11.200:8000/aw2-soccer-referee-12632.html" target="_blank">Apple Watch Series 2でサッカーの審判はし辛いぞ – 早乙女珈琲店</a>
+<a href="http://jun3010.me/aw2-soccer-referee-12632.html" target="_blank">Apple Watch Series 2でサッカーの審判はし辛いぞ – 早乙女珈琲店</a>
 
 </b>  
 ところがどっこい。Apple Watchは時計を見る動作をすると画面が表示されるので、あまり瞬時に試合の時間を把握するには向いてないのですよ。

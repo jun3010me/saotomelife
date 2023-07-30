@@ -95,7 +95,7 @@ tags:
 
 ## LINEの依存は別記事へ！↓
 
-・<a rel="nofollow" href="http://192.168.11.200:8000/student-line-dependence-6359.html" target="_blank">[今の中学生はLINEじゃないと告白できない!?]中高生のLINE依存の現状を考察しました</a>
+・<a rel="nofollow" href="http://jun3010.me/student-line-dependence-6359.html" target="_blank">[今の中学生はLINEじゃないと告白できない!?]中高生のLINE依存の現状を考察しました</a>
 
 LINEというアプリの仕組みや、危険性について、
 

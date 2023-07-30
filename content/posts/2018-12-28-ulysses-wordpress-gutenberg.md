@@ -54,8 +54,8 @@ WordPressのバージョンが5.0になってから、投稿エディタがGuten
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="Esg3zHiytK">
-    <a href="http://192.168.11.200:8000/gifu-wordpress-meetup-4-15236.html">Gifu WordPress Meetup 4に参加したら本当に楽しかった</a>
+    <a href="http://jun3010.me/gifu-wordpress-meetup-4-15236.html">Gifu WordPress Meetup 4に参加したら本当に楽しかった</a>
   </blockquote>
 </div></figure> 
 
-<a href="http://192.168.11.200:8000/gifu-wordpress-meetup-4-15236.html" target="_blank" rel="noopener">Gifu WordPress Meetup 4に参加したら本当に楽しかった – さおとめらいふ</a>
+<a href="http://jun3010.me/gifu-wordpress-meetup-4-15236.html" target="_blank" rel="noopener">Gifu WordPress Meetup 4に参加したら本当に楽しかった – さおとめらいふ</a>

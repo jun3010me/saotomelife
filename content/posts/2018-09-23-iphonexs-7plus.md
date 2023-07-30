@@ -67,7 +67,7 @@ iPhoneXSを見てまず思ったのは、「ちっちゃい」ということ。
 いやいやまてまて、落ち着け。XSにすると心に決めていたんだ。今更Maxにしたいなんて、言いたいけど、言いたいけど！！！
 
 <div class="voice">
-  <figure class="voice-img-right"> <img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"> <img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">

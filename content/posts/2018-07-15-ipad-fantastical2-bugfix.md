@@ -34,7 +34,7 @@ tags:
 
 少し前に書いた記事で、Fantastical2とリマインダーの連携バグについて触れていました。
 
-<a href="http://192.168.11.200:8000/ipad-taskmanagement-fantastical-13486.html" target="_blank" rel="noopener noreferrer">iPadで実践する「そのタスクをいつやるのか」を効率良く決める為のタスク管理システム | さおとめらいふ</a>  
+<a href="http://jun3010.me/ipad-taskmanagement-fantastical-13486.html" target="_blank" rel="noopener noreferrer">iPadで実践する「そのタスクをいつやるのか」を効率良く決める為のタスク管理システム | さおとめらいふ</a>  
 遂にそのバグが修正されることになりました。
 
 どういうことかというと、iPadのSplitViewでFantastical2とリマインダーを表示した時に、リマインダーに登録したタスクをFantastical2に向かってドラッグ&ドロップすることができるんですが、

@@ -43,7 +43,7 @@ categories:
 僕ね、「これ欲しい！」って思った瞬間から、実際に購入に至るまで、ずっとその欲しい物の話をしてしまうんですよ。
 
 <div class="voice">
-  <figure class="voice-img-left"><figure><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /></figure> <figcaption class="voice-img-description">じゅん</figcaption> </figure> 
+  <figure class="voice-img-left"><figure><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /></figure> <figcaption class="voice-img-description">じゅん</figcaption> </figure> 
   
   <div class="voice-text-right">
     <p class="voice-text">
@@ -53,7 +53,7 @@ categories:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"><figure><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /></figure><br /> <figcaption class="voice-img-description">嫁</figcaption> </figure> 
+  <figure class="voice-img-right"><figure><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /></figure><br /> <figcaption class="voice-img-description">嫁</figcaption> </figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -78,7 +78,7 @@ categories:
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/%E3%83%AA%E3%83%92%E3%83%88%E3%83%A9%E3%83%96-%E3%82%AB%E3%83%90%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%88-N1627-11-%E3%82%BB%E3%83%9FB5-%E3%83%8D%E3%82%A4%E3%83%93%E3%83%BC/dp/B00BBNO09C?psc=1&#038;SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B00BBNO09C" target="_blank"  rel="noopener noreferrer">リヒトラブ カバーノート N1627-11 セミB5 ネイビー</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -191,7 +191,7 @@ Youtubeにも動画が上げられています。<figure></figure>
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/%E3%83%AA%E3%83%92%E3%83%88%E3%83%A9%E3%83%96-%E3%82%AB%E3%83%90%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%88-N1627-11-%E3%82%BB%E3%83%9FB5-%E3%83%8D%E3%82%A4%E3%83%93%E3%83%BC/dp/B00BBNO09C?psc=1&#038;SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B00BBNO09C" target="_blank"  rel="noopener noreferrer">リヒトラブ カバーノート N1627-11 セミB5 ネイビー</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

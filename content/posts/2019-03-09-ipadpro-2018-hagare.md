@@ -51,7 +51,7 @@ tags:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="KWVbMACgXw">
-    <a href="http://192.168.11.200:8000/apple-pencil-pilot-clip-15315.html">Apple PencilにPILOT製シャーペンのクリップを付けたらピッタリだった</a>
+    <a href="http://jun3010.me/apple-pencil-pilot-clip-15315.html">Apple PencilにPILOT製シャーペンのクリップを付けたらピッタリだった</a>
   </blockquote>
 </div></figure> 
 

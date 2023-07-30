@@ -16,7 +16,7 @@ categories:
   
 **</p> 
 
-<a href="http://192.168.11.200:8000/sony-alpha7m2-12826.html" target="_blank">SONYが本気で作ったミラーレス一眼「α7Ⅱ」を購入した – 早乙女珈琲店</a>
+<a href="http://jun3010.me/sony-alpha7m2-12826.html" target="_blank">SONYが本気で作ったミラーレス一眼「α7Ⅱ」を購入した – 早乙女珈琲店</a>
 
 </b>  
 が、NEXで使っていたSDカードをそのまま流用していたら、<span class="b">どうも連射後の保存が遅いなぁ</span>と感じていました。

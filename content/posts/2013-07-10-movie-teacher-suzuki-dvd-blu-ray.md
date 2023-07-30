@@ -56,7 +56,7 @@ categories:
 映画は、以前、見に行ったことがあるんです↓
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/eiga-suzukisensei-1760.html" target="_blank">映画 鈴木先生 を鑑賞した | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/eiga-suzukisensei-1760.html" target="_blank">映画 鈴木先生 を鑑賞した | BeginningNEWS</a>
 </p>
 
  

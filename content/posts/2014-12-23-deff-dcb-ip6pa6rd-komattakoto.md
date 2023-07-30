@@ -22,7 +22,7 @@ tags:
 
 **</p> 
 
-<a href="http://192.168.11.200:8000/dcb-ip6pa6rd-10205.html" target="_blank">薄いけどでかい！CLEAVE Aluminum Bumper for iPhone6 Plusの赤が届いたよ！ | No:10205 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/dcb-ip6pa6rd-10205.html" target="_blank">薄いけどでかい！CLEAVE Aluminum Bumper for iPhone6 Plusの赤が届いたよ！ | No:10205 | 早乙女珈琲店</a>
 
 </b>
 
@@ -91,7 +91,7 @@ iPhoneの画面がそのままナビ画面に映るものを使っています�
 
 **</p> 
 
-<a href="http://192.168.11.200:8000/sph-da99-connect-iphone5s-6069.html" target="_blank">iPhoneの画面がナビに映る！アプリユニット「SPH-DA99」にiPhone5sを繋いで使ってみた[操作編] | No:6069 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/sph-da99-connect-iphone5s-6069.html" target="_blank">iPhoneの画面がナビに映る！アプリユニット「SPH-DA99」にiPhone5sを繋いで使ってみた[操作編] | No:6069 | 早乙女珈琲店</a>
 
 </b>  
 が、この時に使っている純正Lightning-HDMIケーブルが、  

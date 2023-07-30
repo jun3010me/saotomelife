@@ -257,7 +257,7 @@ PFUさん、本当に良い製品を作ってくださいました。このキ�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/Professional-HYBRID-Type-S-%E7%84%A1%E5%88%BB%E5%8D%B0%EF%BC%8F%E7%99%BD%EF%BC%88%E8%8B%B1%E8%AA%9E%E9%85%8D%E5%88%97%EF%BC%89%E3%80%81%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%83%AB%E3%83%BC%E3%83%95%EF%BC%88%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AF%EF%BC%89%E4%BB%98-PD-KB800WNS-KBRFHHB/dp/B081JQPN5X?SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B081JQPN5X" target="_blank" rel="noopener noreferrer">PFU HHKB Professional HYBRID Type-S 無刻印／白（英語配列）、キーボードルーフ（スモーク）付 PD-KB800WNS-KBRFHHB</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -288,7 +288,7 @@ PFUさん、本当に良い製品を作ってくださいました。このキ�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/Professional-HYBRID-Type-S-%E8%8B%B1%E8%AA%9E%E9%85%8D%E5%88%97%EF%BC%8F%E5%A2%A8%E3%80%81%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%83%AB%E3%83%BC%E3%83%95%EF%BC%88%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AF%EF%BC%89%E4%BB%98-PD-KB800BS-KBRFHHB/dp/B081JLGF7D?SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B081JLGF7D" target="_blank" rel="noopener noreferrer">PFU HHKB Professional HYBRID Type-S 英語配列／墨、キーボードルーフ（スモーク）付 PD-KB800BS-KBRFHHB</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

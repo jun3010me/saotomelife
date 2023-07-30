@@ -27,7 +27,7 @@ tags:
 先日、Nexus7 2013用の保護フィルムでいろいろと迷っていました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/new-nexus7-2013-film-osusume-4964.html" target="_blank">Nexus7 2013 の保護フィルムのおすすめはどれだろうか | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/new-nexus7-2013-film-osusume-4964.html" target="_blank">Nexus7 2013 の保護フィルムのおすすめはどれだろうか | BeginningNEWS</a>
 </p>
 
 が、これと言って良いものが見当たらず、どうしようか迷っていました。
@@ -43,7 +43,7 @@ Nexus7 2013用保護フィルムが発売されたので、すぐにAmazonでポ
 注文した保護フィルムが届いたので、早速貼ってみました！
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/nexus7-2013-film-arrived-5263.html" target="_blank">PRO GUARD Google nexus 7 (2013）ASUS F2AF-Fussoが届いた！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/nexus7-2013-film-arrived-5263.html" target="_blank">PRO GUARD Google nexus 7 (2013）ASUS F2AF-Fussoが届いた！ | BeginningNEWS</a>
 </p>
 
 ## PRO GUARD Google nexus 7 (2013）ASUS F2AF-Fusso 防指紋撥水撥油高光沢フッ素フィルム)

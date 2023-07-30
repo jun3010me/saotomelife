@@ -60,7 +60,7 @@ iPad Air 2とiPad mini 3
 
 **</p> 
 
-<a href="http://192.168.11.200:8000/iphone6plus-keikaku-9582.html" target="_blank">iPhone6Plusを買ったら、iPadminiが不要になるんじゃない？ | No:9582 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/iphone6plus-keikaku-9582.html" target="_blank">iPhone6Plusを買ったら、iPadminiが不要になるんじゃない？ | No:9582 | 早乙女珈琲店</a>
 
 </b>
 
@@ -235,7 +235,7 @@ SIMフリー版やWIFI版も、
 10月22日より、ビックカメラを中心に販売を開始してます！！  
 **</p> 
 
-<a href="http://192.168.11.200:8000/ipadair2-kaden-start-9809.html" target="_blank">iPad Air 2が家電量販店で販売を開始している | No:9809 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/ipadair2-kaden-start-9809.html" target="_blank">iPad Air 2が家電量販店で販売を開始している | No:9809 | 早乙女珈琲店</a>
 
 </b>
 

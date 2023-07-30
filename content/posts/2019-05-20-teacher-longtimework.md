@@ -68,7 +68,7 @@ categories:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="vMDeFFYXx5">
-    <a href="http://192.168.11.200:8000/hirameki-bo-onaji-16508.html">アイディアがひらめく時はぼーっと生きてる時だった</a>
+    <a href="http://jun3010.me/hirameki-bo-onaji-16508.html">アイディアがひらめく時はぼーっと生きてる時だった</a>
   </blockquote>
 </div></figure> 
 

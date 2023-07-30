@@ -103,7 +103,7 @@ Tak.さんがよく言っていた単語「ピース」。断片とか部分と�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%97%E3%83%AD%E3%82%BB%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0%E5%85%A5%E9%96%80-%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%A7%E6%96%87%E7%AB%A0%E3%82%92%E6%9B%B8%E3%81%8D%E3%80%81%E8%80%83%E3%81%88%E3%82%8B%E6%8A%80%E8%A1%93-Tak-ebook/dp/B00XCIETIG?SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B00XCIETIG" target="_blank"  rel="noopener noreferrer">アウトライン・プロセッシング入門: アウトライナーで文章を書き、考える技術</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/pochipochi.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -129,7 +129,7 @@ Tak.さんがよく言っていた単語「ピース」。断片とか部分と�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%97%E3%83%AD%E3%82%BB%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0LIFE-%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%A7%E6%9B%B8%E3%81%8F%E3%80%8C%E7%94%9F%E6%B4%BB%E3%80%8D%E3%81%A8%E3%80%8C%E4%BA%BA%E7%94%9F%E3%80%8D-Tak-ebook/dp/B07F3KN42K?SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B07F3KN42K" target="_blank"  rel="noopener noreferrer">アウトライン・プロセッシングLIFE: アウトライナーで書く「生活」と「人生」</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/pochipochi.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

@@ -27,7 +27,7 @@ tags:
 先日、無事にiPhone5sのゴールド32GBをゲットした僕ですが、 AppleStoreには並ばず、au NAGOYAに並んで買いました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/au-nagoya-iphone5s-gold-32gb-get-5611.html" target="_blank">au NAGOYAに並んでiPhone5sゴールド32GBをゲットした！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/au-nagoya-iphone5s-gold-32gb-get-5611.html" target="_blank">au NAGOYAに並んでiPhone5sゴールド32GBをゲットした！ | BeginningNEWS</a>
 </p>
 
  
@@ -35,7 +35,7 @@ tags:
 理由は、auの下取りプログラムで、今まで使っていたiPhone5をポイントに変える為です。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/au-iphone5-iphone5s-how-to-kishuhenko-5555.html" target="_blank">現在auのiPhone5ユーザーの方必見！iPhone5の残金を相殺してiPhone5sに機種変更する方法 | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/au-iphone5-iphone5s-how-to-kishuhenko-5555.html" target="_blank">現在auのiPhone5ユーザーの方必見！iPhone5の残金を相殺してiPhone5sに機種変更する方法 | BeginningNEWS</a>
 </p>
 
  

@@ -96,7 +96,7 @@ telnetで入れるとか、もういろいろいじってみたい人にとっ�
 今買うなら、11.acという新しいWIFIの規格に対応したものをおすすめします！↓
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/20130603-wifi-router-3273.html" target="_blank">今一番欲しい無線LANルータ(2013年7月14日更新) | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/20130603-wifi-router-3273.html" target="_blank">今一番欲しい無線LANルータ(2013年7月14日更新) | BeginningNEWS</a>
 </p>
 
 &nbsp;

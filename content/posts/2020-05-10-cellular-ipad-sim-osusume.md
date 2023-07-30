@@ -60,7 +60,7 @@ iPadのロックを解除した途端に使える。Safariを開いたらWebが�
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="6n98blpoeF">
-    <a href="http://192.168.11.200:8000/ipad6gen-128gb-13389.html">第6世代iPad Wi-Fi+Cellularモデル 128GBを実質7920円で購入しました</a>
+    <a href="http://jun3010.me/ipad6gen-128gb-13389.html">第6世代iPad Wi-Fi+Cellularモデル 128GBを実質7920円で購入しました</a>
   </blockquote>
 </div></figure> 
 
@@ -149,7 +149,7 @@ SIMカードプランだとこんな感じ<figure class="wp-block-image size-lar
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="8FPJRZWIM8">
-    <a href="http://192.168.11.200:8000/ivideo-900gb-3300yen-17305.html">月額3300円でSoftBank本回線を900GBも使えるiVideoのレンタルSIM</a>
+    <a href="http://jun3010.me/ivideo-900gb-3300yen-17305.html">月額3300円でSoftBank本回線を900GBも使えるiVideoのレンタルSIM</a>
   </blockquote>
 </div></figure> 
 
@@ -192,7 +192,7 @@ SIMカードプランだとこんな感じ<figure class="wp-block-image size-lar
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="ekrgBxY4BO">
-    <a href="http://192.168.11.200:8000/w04-900gb-sim-17464.html">2000円で買ったW04に月900GBのSIMを挿して快適モバイルルーター生活</a>
+    <a href="http://jun3010.me/w04-900gb-sim-17464.html">2000円で買ったW04に月900GBのSIMを挿して快適モバイルルーター生活</a>
   </blockquote>
 </div></figure> 
 
@@ -207,7 +207,7 @@ SIMカードプランだとこんな感じ<figure class="wp-block-image size-lar
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B01MQVDV3X?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">富士ソフト +F FS030W FS030WMB1</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -248,7 +248,7 @@ SIMカードプランだとこんな感じ<figure class="wp-block-image size-lar
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/4761926066?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">教師のiPad仕事術</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

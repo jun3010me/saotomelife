@@ -71,7 +71,7 @@ VMwareFusionの最新版「6」が発売されました！ 公式サイトリン
 また、実際の購入価格の検証を別記事にて更新しました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/vmwarefusion6-upgrade-39-99-coupon-code-5454.html" target="_blank">VMwareFusion6へのアップグレードはクーポンを使うと$39.99になる | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/vmwarefusion6-upgrade-39-99-coupon-code-5454.html" target="_blank">VMwareFusion6へのアップグレードはクーポンを使うと$39.99になる | BeginningNEWS</a>
 </p>
 
  [1]: https://twitter.com/jun3010me

@@ -18,7 +18,7 @@ categories:
 前回の更新では、ひらくPCバッグ週アス版を紹介しました  
 **</p> 
 
-<a href="http://192.168.11.200:8000/hiraku-pc-bag-shuasu-10108.html" target="_blank">5ヶ月待った！ひらくPCバッグ週アス版がようやく届いたよ！ | No:10108 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/hiraku-pc-bag-shuasu-10108.html" target="_blank">5ヶ月待った！ひらくPCバッグ週アス版がようやく届いたよ！ | No:10108 | 早乙女珈琲店</a>
 
 </b>
 

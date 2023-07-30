@@ -73,7 +73,7 @@ categories:
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/KISS-YOU-%E6%AD%AF%E3%83%96%E3%83%A9%E3%82%B7-%E6%A5%B5%E7%B4%B0%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88-4%E6%9C%AC%E5%85%A5%E3%82%8A/dp/B06XBKF4CJ?psc=1&#038;SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B06XBKF4CJ" target="_blank"  rel="noopener noreferrer">KISS YOU 歯ブラシ 極細コンパクト 替え (4本入り)</a></p> 
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

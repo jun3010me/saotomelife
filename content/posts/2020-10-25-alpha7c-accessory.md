@@ -45,7 +45,7 @@ categories:
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B0858F5XKV?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">キングストン SDXCカード 64GB 最大300MB/s UHS-II V90 4K 8K UHS-IIカードリーダー付属 Canvas React Plus MLPR2/64GB 永久保証</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -92,7 +92,7 @@ Kingstonというメーカー、実際どうなの？と思ったりもします
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B071NHTQMJ?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">ソニー リチャージャブルバッテリーパック NP-FZ100</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -157,7 +157,7 @@ NEEWERというメーカーです。α7Ⅱ時代からこのメーカーのチ�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B087JL4NHV?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">ENEGON NP-FZ100 LEDデュアル充電器 Sony NP-FZ100バッテリー用 Sony Alpha 9,Sony A9,Sony Alpha 9R,Sony A9R,Sony Alpha 9S,Sony A9S,Sony A7RIII A7R3,Sony a7 IIIなどのデジタルカメラバッテリーに対応</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -196,7 +196,7 @@ LED表示の部分で、今どれくらい充電が完了したのか把握で�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B07PLNHGT4?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">ソニー ワイヤレスリモートコマンダー RMT-P1BT</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -233,7 +233,7 @@ LED表示の部分で、今どれくらい充電が完了したのか把握で�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B08KRWK1BZ?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener noreferrer">HAKUBA デジタルカメラ液晶保護フィルムMarkII SONY α7C/α7S III/II/α9 II/α9 II/α9/α7R IV/III/II/α7R III/II 専用 DGF2-SA7C</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener noreferrer" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

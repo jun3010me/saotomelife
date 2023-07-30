@@ -44,7 +44,7 @@ categories:
 
 過去に注文した記事があるのでそちらをみてくださいな。
 
-<a href="http://192.168.11.200:8000/staba-bitter-chocolate-frappetino-7731.html" target="_blank">[メニューに載ってない！]スタバでビターチョコレートなフラペチーノを飲みたい！って注文したら作ってくれた！ | No:7731 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/staba-bitter-chocolate-frappetino-7731.html" target="_blank">[メニューに載ってない！]スタバでビターチョコレートなフラペチーノを飲みたい！って注文したら作ってくれた！ | No:7731 | 早乙女珈琲店</a>
 
 ちなみにこの時はビターとか言ってますが、十分甘いのでご安心を。
 

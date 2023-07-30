@@ -85,7 +85,7 @@ categories:
 ネジが見えます。全部で4カ所。
 
 <div class="voice">
-  <figure class="voice-img-right"> <img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"> <img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -98,7 +98,7 @@ categories:
 
 Anker製のスタンドは、こちらの記事をご覧ください。
 
-<a href="http://192.168.11.200:8000/anker-powerwave-stand-14934.html" target="_blank">Ankerのワイヤレス充電スタンドが本当に無難で便利 – さおとめらいふ</a>
+<a href="http://jun3010.me/anker-powerwave-stand-14934.html" target="_blank">Ankerのワイヤレス充電スタンドが本当に無難で便利 – さおとめらいふ</a>
 
 ## 並べてみた
 

@@ -183,7 +183,7 @@ iPhone XSが発売されてからというもの、中古スマホ市場では1�
 もう、ほとんど分からなくなったと思います。
 
 <div class="voice">
-  <figure class="voice-img-right"><figure><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /></figure> <figcaption class="voice-img-description">嫁</figcaption> </figure> 
+  <figure class="voice-img-right"><figure><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /></figure> <figcaption class="voice-img-description">嫁</figcaption> </figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">

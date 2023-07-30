@@ -18,7 +18,7 @@ categories:
 
 当時の記録がこちら。
 
- [http://192.168.11.200:8000/saotomelemon][1] 
+ [http://jun3010.me/saotomelemon][1] 
 
 あれから5年経ったのだ・・・。
 

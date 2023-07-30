@@ -27,11 +27,11 @@ categories:
 関連する記事はこちらです。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e6%95%b0%e3%81%8c%ef%bc%94%e5%88%86%e3%81%ae%ef%bc%91%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e4%bb%b6-831.html" target="_blank">アクセス数が４分の１になった件 | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e6%95%b0%e3%81%8c%ef%bc%94%e5%88%86%e3%81%ae%ef%bc%91%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e4%bb%b6-831.html" target="_blank">アクセス数が４分の１になった件 | 俺の記事@レンタルサーバ</a>
 </p>
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/%e4%bd%95%e6%95%85google%e6%a7%98%e3%81%ab%e5%ab%8c%e3%82%8f%e3%82%8c%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%a0%e3%82%8d%e3%81%86%e3%81%8b-1111.html" target="_blank">何故Google様に嫌われてしまったのだろうか | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/%e4%bd%95%e6%95%85google%e6%a7%98%e3%81%ab%e5%ab%8c%e3%82%8f%e3%82%8c%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%a0%e3%82%8d%e3%81%86%e3%81%8b-1111.html" target="_blank">何故Google様に嫌われてしまったのだろうか | 俺の記事@レンタルサーバ</a>
 </p></p> 
 
 で、さくらインターネットなら老舗で定評があるし、ひょっとしたらドメインではなく、IPアドレスで判断しているんじゃ？と思ったので、移行したわけです。

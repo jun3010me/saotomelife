@@ -174,7 +174,7 @@ G-SHOCKで振動する機能があるモデルとなると、
 
 ****
 
-**<a href="http://192.168.11.200:8000/pebbletime-soccer-referee-11120.html" target="_blank" rel="noopener noreferrer">Pebble Timeを使って、サッカーのレフェリー（審判）にチャレンジした – 早乙女珈琲店</a></p> 
+**<a href="http://jun3010.me/pebbletime-soccer-referee-11120.html" target="_blank" rel="noopener noreferrer">Pebble Timeを使って、サッカーのレフェリー（審判）にチャレンジした – 早乙女珈琲店</a></p> 
 
 </b>****  
 こっちは、タイマーアプリを使ってカウントダウンに使って、  

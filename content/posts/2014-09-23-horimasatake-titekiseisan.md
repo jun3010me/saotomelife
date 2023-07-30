@@ -290,7 +290,7 @@ Evernoteで使える検索機能で、
 どのノートを使っているのかという話は、こちらの記事をご覧ください。  
 **</p> 
 
-・<a href="http://192.168.11.200:8000/accessnotebook-2nc-iyh-7127.html" target="_blank">AccessNoteBookが最高過ぎたので2冊目購入！使い切った感想も書いてみた | No:7127 | 早乙女珈琲店</a>
+・<a href="http://jun3010.me/accessnotebook-2nc-iyh-7127.html" target="_blank">AccessNoteBookが最高過ぎたので2冊目購入！使い切った感想も書いてみた | No:7127 | 早乙女珈琲店</a>
 
 </b>
 

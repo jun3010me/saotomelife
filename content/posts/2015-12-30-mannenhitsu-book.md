@@ -19,7 +19,7 @@ tags:
 
 **</p> 
 
-<a href="http://192.168.11.200:8000/mannenhitsu-boshu-11376.html" target="_blank" rel="noopener noreferrer">[募集][追加候補が来た]私に最適な万年筆を選んでください – 早乙女珈琲店</a>
+<a href="http://jun3010.me/mannenhitsu-boshu-11376.html" target="_blank" rel="noopener noreferrer">[募集][追加候補が来た]私に最適な万年筆を選んでください – 早乙女珈琲店</a>
 
 </b>  
   

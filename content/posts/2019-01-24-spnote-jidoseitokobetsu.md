@@ -139,7 +139,7 @@ categories:
           &nbsp;
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" target="_blank" rel="nofollow noopener noreferrer">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" target="_blank" rel="nofollow noopener noreferrer">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -181,7 +181,7 @@ Amazonで在庫が不足している際は、是非学事出版のサイトよ�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/4761928662?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener">スクールプランニングノート2023A (小学校教師向け)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -210,7 +210,7 @@ Amazonで在庫が不足している際は、是非学事出版のサイトよ�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/4761928727?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener">スクールプランニングノート2023 A 限定色 (小学校教師向け)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -243,7 +243,7 @@ Amazonで在庫が不足している際は、是非学事出版のサイトよ�
         <p>
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -274,7 +274,7 @@ Amazonで在庫が不足している際は、是非学事出版のサイトよ�
         <p>
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -305,7 +305,7 @@ Amazonで在庫が不足している際は、是非学事出版のサイトよ�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/4761928689?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener">スクールプランニングノート2023 M (教頭・副校長・教務主任向け)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -334,7 +334,7 @@ Amazonで在庫が不足している際は、是非学事出版のサイトよ�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/4761928700?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener">スクールプランニングノート2023 U (ユニバーサル)</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

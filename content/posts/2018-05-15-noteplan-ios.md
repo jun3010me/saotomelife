@@ -87,7 +87,7 @@ PC版ではカーソルキーで普通に他の項目に移動すると思うん
 
 僕はもうかれこれ5年ほどAccessNoteBookというノートを使っています。
 
-<a href="http://192.168.11.200:8000/tag/accessnotebook" target="_blank">AccessNotebook – </a><a href="http://192.168.11.200:8000/tag/accessnotebook" target="_blank">早乙女珈琲店</a>  
+<a href="http://jun3010.me/tag/accessnotebook" target="_blank">AccessNotebook – </a><a href="http://jun3010.me/tag/accessnotebook" target="_blank">早乙女珈琲店</a>  
 このノート、白紙のページが始まる前に、インデックスを書く部分が出てくるんです。バレットジャーナルでは、まずはこのインデックスのページを作成し、何ページ目に何を書いたのかを記録するようになっています。
 
 ね？ピッタリでしょ。タスクをどんどん書いたページを作りながら、同時にインデックスのページにも追加していく。僕は面倒だと思って、実際はやっていないんですけどね。僕が長年使っていたノートって、実はバレットジャーナルにぴったりだったんだーと、バレットジャーナルの概念を勉強して初めて気づきました。

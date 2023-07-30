@@ -31,7 +31,7 @@ iPhone5sが発売を開始し、iOS7が公開された当時、
 
 当ブログでも、所持している非公式ケーブルを調査したところ、ほぼ全滅だったんです。
 
-・<a rel="nofollow" href="http://192.168.11.200:8000/lightning-cable-for-iphone5s-osusume-5686.html" target="_blank">iPhone5s用LightningケーブルはMFiロゴ付きがおすすめ！激安ケーブルはほぼ使えません！ | 早乙女珈琲店</a>
+・<a rel="nofollow" href="http://jun3010.me/lightning-cable-for-iphone5s-osusume-5686.html" target="_blank">iPhone5s用LightningケーブルはMFiロゴ付きがおすすめ！激安ケーブルはほぼ使えません！ | 早乙女珈琲店</a>
 
  
 

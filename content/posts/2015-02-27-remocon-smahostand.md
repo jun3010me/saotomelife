@@ -19,7 +19,7 @@ categories:
 特に困ったのは、UNiCASEの福袋に入っていたスマホスタンド。  
 **</p> 
 
-<a href="http://192.168.11.200:8000/unicase-fukubukuro-2015-10282.html" target="_blank">2015年の運試し！UNiCASEの5400円福袋を買った！ | No:10282 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/unicase-fukubukuro-2015-10282.html" target="_blank">2015年の運試し！UNiCASEの5400円福袋を買った！ | No:10282 | 早乙女珈琲店</a>
 
 </b>  
 僕はスマホスタンドを使う派ではないし、  

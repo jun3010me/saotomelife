@@ -26,7 +26,7 @@ categories:
 先日は、1.5TBのポータブルHDDが1万円だぁ！とはしゃいでおりました。
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/macbookair-hdd-portable-osusume-5386.html" target="_blank">MacBookAirの空き容量に困ったらこのポータブルHDDがおすすめ！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/macbookair-hdd-portable-osusume-5386.html" target="_blank">MacBookAirの空き容量に困ったらこのポータブルHDDがおすすめ！ | BeginningNEWS</a>
 </p>
 
 しかし、あのWESTERNDIGITALが、なんと2TBのポータブルHDDを発売したらしいんです！！ヽ(=´▽\`=)ﾉ
@@ -128,7 +128,7 @@ categories:
 実際に購入しました！(｀･ω･´)ゞ  
 **</p> 
 
-・<a rel="nofollow" href="http://192.168.11.200:8000/wd-my-passport-ultra-2tb-iyh-5755.html" target="_blank">TimeMachineに！写真のバックアップに！とにかくデータが沢山入る大容量ポータブルHDD！WD My Passport Ultra 2.0TB チタニウムを購入した！ | 早乙女珈琲店</a>
+・<a rel="nofollow" href="http://jun3010.me/wd-my-passport-ultra-2tb-iyh-5755.html" target="_blank">TimeMachineに！写真のバックアップに！とにかくデータが沢山入る大容量ポータブルHDD！WD My Passport Ultra 2.0TB チタニウムを購入した！ | 早乙女珈琲店</a>
 
 </b>
 

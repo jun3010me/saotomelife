@@ -139,7 +139,7 @@ tags:
 
 **※Su-Penの詳しいレビューに関しては過去記事をご覧ください。**
 
-**・<a rel="nofollow" href="http://192.168.11.200:8000/ipad-mini-retina-su-pen-osusume-touchpen-6338.html" target="_blank">iPad mini Retina に最適なおすすめタッチペンはやっぱり「Su-Pen」だった！ | フラペチーノ先生の頭のノート</a>**
+**・<a rel="nofollow" href="http://jun3010.me/ipad-mini-retina-su-pen-osusume-touchpen-6338.html" target="_blank">iPad mini Retina に最適なおすすめタッチペンはやっぱり「Su-Pen」だった！ | フラペチーノ先生の頭のノート</a>**
 
 ** **
 

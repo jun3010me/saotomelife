@@ -22,7 +22,7 @@ AccessNoteBookの5冊目の使用を開始しました。
 このノートがどんなノートなのかは、以前書いた記事をご覧くださいな。  
 **</p> 
 
-<a href="http://192.168.11.200:8000/accessnotebook-4-10588.html" target="_blank">AccessNotebookが4冊目に突入しました | No:10588 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/accessnotebook-4-10588.html" target="_blank">AccessNotebookが4冊目に突入しました | No:10588 | 早乙女珈琲店</a>
 
 </b>  
   
@@ -57,7 +57,7 @@ AccessNoteBookの5冊目の使用を開始しました。
 
 **</p> 
 
-<a href="http://192.168.11.200:8000/think-with-outline-10780.html" target="_blank">アウトラインで考えるってこんなに素晴らしいのか | No:10780 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/think-with-outline-10780.html" target="_blank">アウトラインで考えるってこんなに素晴らしいのか | No:10780 | 早乙女珈琲店</a>
 
 </b>  
 この時期はね、WorkFlowyにはまってたんですよ。
@@ -82,7 +82,7 @@ AccessNoteBookの5冊目の使用を開始しました。
 まぁ、去年の9月にこういう記事を書いている時点で、気づけ！っていう話ですよね。  
 **</p> 
 
-<a href="http://192.168.11.200:8000/tegaki-thinkingtool-mybest-9686.html" target="_blank">やっぱり自分にとっては手書きが最高の思考ツールだった | No:9686 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/tegaki-thinkingtool-mybest-9686.html" target="_blank">やっぱり自分にとっては手書きが最高の思考ツールだった | No:9686 | 早乙女珈琲店</a>
 
 </b>  
 

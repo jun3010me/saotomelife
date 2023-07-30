@@ -24,8 +24,8 @@ MAMORIOが手放せない生活を送るようになって8ヶ月くらい経ち
 
 その時に書いた記事はこちら
 
-<a href="http://192.168.11.200:8000/applepay-mamorio-12642.html" target="_blank" rel="noopener noreferrer">Apple Payのせいで財布を忘れることが多くなったのでMAMORIOを買ったぞ – 早乙女珈琲店</a>  
-<a href="http://192.168.11.200:8000/mamorio-no3-12844.html" target="_blank" rel="noopener noreferrer">我がMAMORIO、これで3つ目 – 早乙女珈琲店</a>  
+<a href="http://jun3010.me/applepay-mamorio-12642.html" target="_blank" rel="noopener noreferrer">Apple Payのせいで財布を忘れることが多くなったのでMAMORIOを買ったぞ – 早乙女珈琲店</a>  
+<a href="http://jun3010.me/mamorio-no3-12844.html" target="_blank" rel="noopener noreferrer">我がMAMORIO、これで3つ目 – 早乙女珈琲店</a>  
 でもね、1月に購入した1つ目のMAMORIOの電池が切れてしまったようなんです。
 
 本来ならば、OTAKIAGEというサービスを利用し、郵送を使って電池交換をしてもらうのが順序というもの。

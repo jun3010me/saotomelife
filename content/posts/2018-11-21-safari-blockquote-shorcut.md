@@ -56,4 +56,4 @@ tags:
  [1]: https://japanese.engadget.com/2018/11/16/web-iphone-tips/
  [2]: https://www.icloud.com/shortcuts/3fe07c1e862d4e309e7fde4195802f52
  [3]: https://www.icloud.com/shortcuts/c01b724094c54492a2fc6aadf9b091af
- [4]: http://192.168.11.200:8000/sony-rx100m5a-15205.html
+ [4]: http://jun3010.me/sony-rx100m5a-15205.html

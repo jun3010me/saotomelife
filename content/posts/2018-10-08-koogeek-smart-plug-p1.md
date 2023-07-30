@@ -24,7 +24,7 @@ categories:
 結論から言うと、こういう機能があるからスマートスピーカーたちが便利になるので、どんどん導入すべき。
 
 <div class="voice">
-  <figure class="voice-img-right"> <figure><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /></figure><figcaption class="voice-img-description">嫁</figcaption></figure> 
+  <figure class="voice-img-right"> <figure><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /></figure><figcaption class="voice-img-description">嫁</figcaption></figure> 
   
   <div class="voice-text-left">
     <p class="voice-text">
@@ -34,7 +34,7 @@ categories:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"> <figure><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /></figure>
+  <figure class="voice-img-left"> <figure><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /></figure>
   
   <p>
   </p><figcaption class="voice-img-description">じゅん</figcaption> </figure> 
@@ -47,7 +47,7 @@ categories:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"> <figure><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /></figure>
+  <figure class="voice-img-right"> <figure><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /></figure>
   
   <p>
   </p><figcaption class="voice-img-description">嫁</figcaption> </figure> 
@@ -60,7 +60,7 @@ categories:
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"> <figure><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /></figure>
+  <figure class="voice-img-left"> <figure><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /></figure>
   
   <p>
   </p><figcaption class="voice-img-description">じゅん</figcaption> </figure> 
@@ -80,7 +80,7 @@ categories:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="UqpxbHWt8d">
-    <a href="http://192.168.11.200:8000/tp-link-hs105-17010.html">「アレクサ、ライトつけて」が日常の生活</a>
+    <a href="http://jun3010.me/tp-link-hs105-17010.html">「アレクサ、ライトつけて」が日常の生活</a>
   </blockquote>
 </div></figure> 
 
@@ -93,7 +93,7 @@ categories:
 
 ちなみに僕は2016年8月に、似た様な商品を購入しました。eplug miniという商品です。このスマートプラグは、アプリからは電源のオンオフが操作できるものの、スマートスピーカーには対応していませんでした。
 
-<a href="http://192.168.11.200:8000/eplugmini-11981.html" target="_blank" rel="noopener noreferrer">コンセントのスイッチをスマホで操作！ePlug miniを購入したよ – さおとめらいふ</a>  
+<a href="http://jun3010.me/eplugmini-11981.html" target="_blank" rel="noopener noreferrer">コンセントのスイッチをスマホで操作！ePlug miniを購入したよ – さおとめらいふ</a>  
 それじゃあスマートスピーカーに対応しているものを買わんと、声で操作できんじゃん！と思ったので、今回は新しいスマートプラグを購入することを決めました。
 
 ちなみに最近、スマートコンセントと呼ばれる似た様な製品がAmazonを見ていると大量に出てきます。
@@ -337,7 +337,7 @@ iPhoneの「ホーム」という家のアイコンのアプリを起動する�
 ## SiriからもAlexaちゃんからも操作できる！
 
 <div class="voice">
-  <figure class="voice-img-left"> <figure><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /></figure>
+  <figure class="voice-img-left"> <figure><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /></figure>
   
   <p>
   </p><figcaption class="voice-img-description">じゅん</figcaption> </figure> 
@@ -350,7 +350,7 @@ iPhoneの「ホーム」という家のアイコンのアプリを起動する�
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"> <figure><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /></figure>
+  <figure class="voice-img-left"> <figure><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /></figure>
   
   <p>
   </p><figcaption class="voice-img-description">じゅん</figcaption> </figure> 
@@ -363,7 +363,7 @@ iPhoneの「ホーム」という家のアイコンのアプリを起動する�
 </div>
 
 <div class="voice">
-  <figure class="voice-img-left"> <figure><img decoding="async" src="http://192.168.11.200:8000/files/juns.jpg" alt="じゅん" /></figure>
+  <figure class="voice-img-left"> <figure><img decoding="async" src="http://jun3010.me/files/juns.jpg" alt="じゅん" /></figure>
   
   <p>
   </p><figcaption class="voice-img-description">じゅん</figcaption> </figure> 
@@ -376,7 +376,7 @@ iPhoneの「ホーム」という家のアイコンのアプリを起動する�
 </div>
 
 <div class="voice">
-  <figure class="voice-img-right"> <figure><img decoding="async" src="http://192.168.11.200:8000/files/yomes.jpg" alt="嫁" /></figure>
+  <figure class="voice-img-right"> <figure><img decoding="async" src="http://jun3010.me/files/yomes.jpg" alt="嫁" /></figure>
   
   <p>
   </p><figcaption class="voice-img-description">嫁</figcaption> </figure> 

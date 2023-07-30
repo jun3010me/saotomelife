@@ -23,7 +23,7 @@ tags:
 
 CLが出た頃にはペン先を購入し、
 
-<a rel="nofollow" href="http://192.168.11.200:8000/su-pen-staedtler-1679.html">STAEDTLERのペンシルホルダー</a>に惚れ込んでいました。
+<a rel="nofollow" href="http://jun3010.me/su-pen-staedtler-1679.html">STAEDTLERのペンシルホルダー</a>に惚れ込んでいました。
 
 &nbsp;
 

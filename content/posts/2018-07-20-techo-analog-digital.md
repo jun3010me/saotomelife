@@ -37,7 +37,7 @@ tags:
 僕の場合は教師として働く上で、全てをただの時間軸で表現したデジタルカレンダーよりも、1限2限3限とブロックに分かれている方が授業や予定を管理し易いので、スクールプランニングノートを愛用しています。この手帳の使い方については、こちらのページにまとめてあります。<figure class="wp-block-embed is-type-rich is-provider-wp-oembed-blog-card">
 
 <div class="wp-block-embed__wrapper">
-  {{< blog-card "http://192.168.11.200:8000/category/teachers-hack/spn">}}
+  {{< blog-card "http://jun3010.me/category/teachers-hack/spn">}}
 </div></figure> 
 
 ## 両方うまく使えば最高
@@ -102,7 +102,7 @@ tags:
         <p>
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">
@@ -133,7 +133,7 @@ tags:
         <p>
         </p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

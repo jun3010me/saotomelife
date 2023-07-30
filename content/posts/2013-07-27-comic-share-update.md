@@ -24,11 +24,11 @@ categories:
 以前、こちらの記事でもComicShare紹介しました↓
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/nas-zip-rar-comic-read-ipad-iphone-3229.html" target="_blank">NASに保存したZIPやRARの漫画がiPhoneやiPad読めるぞ！ComicShareを試してみた | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/nas-zip-rar-comic-read-ipad-iphone-3229.html" target="_blank">NASに保存したZIPやRARの漫画がiPhoneやiPad読めるぞ！ComicShareを試してみた | BeginningNEWS</a>
 </p>
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/comicshare-update-1-1-3427.html" target="_blank">ComicShareが1.1にアップデート！動作も安定して見開き表示に対応！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/comicshare-update-1-1-3427.html" target="_blank">ComicShareが1.1にアップデート！動作も安定して見開き表示に対応！ | BeginningNEWS</a>
 </p>
 
 今回は、ComicShareのアップデート内容が神がかっていたので紹介したいと思います。
@@ -98,7 +98,7 @@ iPhoneの写真をバックアップすることにも大変有効です。
 例えば、僕なんかは『君のいる町』の23巻を裁断してスキャンしました↓
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/comic-scan-jisui-to-read-kindle-paperwhite-4373.html" target="_blank">買った漫画を自炊してKindle Paper Whiteで快適に読めるようにしたった！ | BeginningNEWS</a>
+  ・<a rel="nofollow" href="http://jun3010.me/comic-scan-jisui-to-read-kindle-paperwhite-4373.html" target="_blank">買った漫画を自炊してKindle Paper Whiteで快適に読めるようにしたった！ | BeginningNEWS</a>
 </p>
 
 こうして出来た画像ファイルをZIPで圧縮して保存しておくことで、

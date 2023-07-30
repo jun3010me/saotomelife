@@ -135,7 +135,7 @@ TT2はカードが13枚入りますが、このTT6は8枚に限られていま�
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/%E3%83%A1%E3%82%BE%E3%83%B3%E3%82%BF%E3%82%AF%E3%83%A4-MAISON-TAKUYA-%EF%BC%92%E3%81%A4%E6%8A%98%E3%82%8A%E3%82%A6%E3%82%A9%E3%83%AC%E3%83%83%E3%83%88-%E3%83%9F%E3%82%B7%E3%82%B7%E3%83%83%E3%83%94%E3%82%A2%E3%83%AA%E3%82%B2%E3%83%BC%E3%82%BF%E3%83%BC%C3%97%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A5%E3%83%A9%E3%83%B3%E3%82%B1%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%95%C3%97%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A5%E3%83%A9%E3%83%B3%E3%82%B1%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%95/dp/B07M5N9ZBM?SubscriptionId=AKIAIGGQ4QGQY6L2RH4A&#038;tag=jun3010me-22&#038;linkCode=xm2&#038;camp=2025&#038;creative=165953&#038;creativeASIN=B07M5N9ZBM" target="_blank" rel="noopener noreferrer">(メゾンタクヤ) MAISON TAKUYA メンズ 革財布 本革財布 ２つ折り財布 ２つ折りウォレット ブロックシリーズ ミシシッピアリゲーター×ジャーマンシュランケンカーフ×ジャーマンシュランケンカーフ ワニ革 クロコ T5 Wallet</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
+          posted with <a href="http://jun3010.me/" rel="nofollow noopener noreferrer" target="_blank">ポチポチ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

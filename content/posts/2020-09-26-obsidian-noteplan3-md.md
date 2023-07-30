@@ -61,7 +61,7 @@ Obsidianを見た時に、「<span data-color="#fffd6b" style="background: linea
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="AqqgJT5M0t">
-    <a href="http://192.168.11.200:8000/noteplan-ios-13442.html">NotePlan＋バレットジャーナルで自分のやりたいタスク＆予定管理が実現しつつある</a>
+    <a href="http://jun3010.me/noteplan-ios-13442.html">NotePlan＋バレットジャーナルで自分のやりたいタスク＆予定管理が実現しつつある</a>
   </blockquote>
 </div></figure> 
 

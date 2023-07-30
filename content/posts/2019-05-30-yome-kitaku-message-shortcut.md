@@ -41,7 +41,7 @@ tags:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="EF0ICZxmES">
-    <a href="http://192.168.11.200:8000/ios12-shortcutapp-gohome-14895.html">iOS12のショートカットアプリで帰宅時にやることを自動化する</a>
+    <a href="http://jun3010.me/ios12-shortcutapp-gohome-14895.html">iOS12のショートカットアプリで帰宅時にやることを自動化する</a>
   </blockquote>
 </div></figure> 
 

@@ -29,7 +29,7 @@ tags:
 
 その辺りについては先日記事にまとめました。
 
-<a href="http://192.168.11.200:8000/ipad-school-goodnotes4-14720.html" target="_blank" rel="noopener noreferrer">授業でiPadを手っ取り早く活用したいならGoodNotes4とApplePencilがおすすめ – さおとめらいふ</a>  
+<a href="http://jun3010.me/ipad-school-goodnotes4-14720.html" target="_blank" rel="noopener noreferrer">授業でiPadを手っ取り早く活用したいならGoodNotes4とApplePencilがおすすめ – さおとめらいふ</a>  
 今回話したいのは、そのGoodNotesのMac版の話です。iPad版とほぼ同じように使う事ができて、Mac版の方が有利な点もあるんです。
 
 ## iPad版GoodNotes5発売！Mac版は？
@@ -38,7 +38,7 @@ tags:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="IM8ePIuGuE">
-    <a href="http://192.168.11.200:8000/goodnotes5-4-hikaku-15549.html">GoodNotes 5を前バージョンの4と比較して気になったポイント</a>
+    <a href="http://jun3010.me/goodnotes5-4-hikaku-15549.html">GoodNotes 5を前バージョンの4と比較して気になったポイント</a>
   </blockquote>
 </div></figure> 
 

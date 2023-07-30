@@ -31,7 +31,7 @@ categories:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="3RLcSj49ZS">
-    <a href="http://192.168.11.200:8000/ios9-ime-kirikae-11126.html">iOS9(9.0.2も同様)から言語切り替えが「Command+Space」から「Ctrl+Space」に変更されてる</a>
+    <a href="http://jun3010.me/ios9-ime-kirikae-11126.html">iOS9(9.0.2も同様)から言語切り替えが「Command+Space」から「Ctrl+Space」に変更されてる</a>
   </blockquote>
 </div><figcaption>当時は苦しめられたものの、もう慣れました。今思えば良い変更だった。</figcaption></figure> 
 
@@ -257,7 +257,7 @@ categories:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="UGV8379WBt">
-    <a href="http://192.168.11.200:8000/ios13-ipados-jpime-bug-17368.html">iOS13(iPadOS)でライブ変換オフ時に発生する外部キーボード入力における日本語入力バグ</a>
+    <a href="http://jun3010.me/ios13-ipados-jpime-bug-17368.html">iOS13(iPadOS)でライブ変換オフ時に発生する外部キーボード入力における日本語入力バグ</a>
   </blockquote>
 </div></figure> 
 

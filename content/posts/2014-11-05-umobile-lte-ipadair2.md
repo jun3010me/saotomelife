@@ -37,7 +37,7 @@ MVNOを色々と試してみて何年経ったことか。そこで気づいた�
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="3dhrc08QRH">
-    <a href="http://192.168.11.200:8000/i-like-au-15847.html">僕が現在契約しているキャリアは結局・・・</a>
+    <a href="http://jun3010.me/i-like-au-15847.html">僕が現在契約しているキャリアは結局・・・</a>
   </blockquote>
 </div></figure> 
 
@@ -337,7 +337,7 @@ Twitterに写真をアップするのがくそはええぇｗｗ
 U-mbileなんてもう知らないんじゃぁ  
 (\*´ω｀\*)
 
-<a href="http://192.168.11.200:8000/umobile-purara-10043.html" target="_blank" rel="noopener noreferrer">両方契約してわかった。U-mobileよりもNTTぷららのSIMの方が超ド安定してるぞ！ | No:10043 | 早乙女珈琲店</a>
+<a href="http://jun3010.me/umobile-purara-10043.html" target="_blank" rel="noopener noreferrer">両方契約してわかった。U-mobileよりもNTTぷららのSIMの方が超ド安定してるぞ！ | No:10043 | 早乙女珈琲店</a>
 
  [1]: https://twitter.com/jun3010me
  [2]: http://umobile.jp/i6

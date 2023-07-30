@@ -34,7 +34,7 @@ AccessNoteBookとは、かつてTVチャンピオンで活躍し、
 
 現在も様々な場所で大活躍中の文具王さんが考案したノートです。
 
-・<a rel="nofollow" href="http://192.168.11.200:8000/accessnotebook-iyh-4565.html" target="_blank">AccessNoteBook @bungu_oを購入できた！ | フラペチーノ先生の頭のノート</a>
+・<a rel="nofollow" href="http://jun3010.me/accessnotebook-iyh-4565.html" target="_blank">AccessNoteBook @bungu_oを購入できた！ | フラペチーノ先生の頭のノート</a>
 
 以前、購入した記事の日付から計算すると、僕の場合は半年で1冊使い切ったことになりますね。
 

@@ -48,7 +48,7 @@ GoodNotes 5アップデートバンドルという形式で、バンドルとし
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="QklZwC2Qka">
-    <a href="http://192.168.11.200:8000/goodnotes-ios-app-iyh-6541.html">[iCloud同期&バックアップ対応！]PDFに手書きで注釈を付けられるノートアプリ「GoodNotes4」を買いました！</a>
+    <a href="http://jun3010.me/goodnotes-ios-app-iyh-6541.html">[iCloud同期&バックアップ対応！]PDFに手書きで注釈を付けられるノートアプリ「GoodNotes4」を買いました！</a>
   </blockquote>
 </div></figure> 
 

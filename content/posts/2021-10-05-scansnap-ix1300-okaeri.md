@@ -107,7 +107,7 @@ iX1300は、少しでも使う人が面倒に思う部分をS1300より軽減し
 ### 上からスキャンしたら上に返っていく
 
 <div class="wp-block-image">
-  <figure class="aligncenter"><img decoding="async" src="blob:http://192.168.11.200:8000/761d53cc-0659-4290-8cbb-79b4e4f767ed" alt="上からスキャンした時の様子のGIF画像" /></figure>
+  <figure class="aligncenter"><img decoding="async" src="blob:http://jun3010.me/761d53cc-0659-4290-8cbb-79b4e4f767ed" alt="上からスキャンした時の様子のGIF画像" /></figure>
 </div>
 
 <div class="wp-block-image">
@@ -173,7 +173,7 @@ iX1600やiX1400と、iX100の間が長い間欠けていましたが、見た目
       <div class="kaerebalink-name">
         <a href="https://www.amazon.co.jp/dp/B09G6MX4ZN?tag=jun3010me-22&#038;linkCode=ogi&#038;th=1&#038;psc=1" target="_blank" rel="noopener">富士通 PFU ScanSnap iX1300(毎分30枚／両面読取・Uターンスキャン／リターンスキャン対応／Wi-fi搭載）…</a></p>
         <div class="kaerebalink-powered-date">
-          posted with <a href="http://192.168.11.200:8000/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
+          posted with <a href="http://jun3010.me/pochipochi5.php" rel="nofollow noopener" target="_blank">ポチポチファイブ</a>
         </div>
       </div>
       <div class="kaerebalink-link1">

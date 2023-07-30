@@ -38,7 +38,7 @@ categories:
 Staccalを購入した時の記事はこちらです↓
 
 <p style="font-size: 18px;">
-  ・<a rel="nofollow" href="http://192.168.11.200:8000/iphone-ipad-staccal-iyh-3254.html" target="_blank">AppStoreのアプリ価格が上がる前に、Staccalを買った | 俺の記事@レンタルサーバ</a>
+  ・<a rel="nofollow" href="http://jun3010.me/iphone-ipad-staccal-iyh-3254.html" target="_blank">AppStoreのアプリ価格が上がる前に、Staccalを買った | 俺の記事@レンタルサーバ</a>
 </p>
 
  

@@ -57,7 +57,7 @@ iPhoneなら最初から入っているし、ファミリーで共有できる�
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="hb8Gbf7gdE">
-    <a href="http://192.168.11.200:8000/ipad-fantastical2-bugfix-14110.html">iPadのリマインダーとFantastical2の連携バグが修正されてる</a>
+    <a href="http://jun3010.me/ipad-fantastical2-bugfix-14110.html">iPadのリマインダーとFantastical2の連携バグが修正されてる</a>
   </blockquote>
 </div></figure> 
 
@@ -133,13 +133,13 @@ Fantastical2なら、ドラッグ&ドロップでもってきたものを、予�
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="3QXRLguiT7">
-    <a href="http://192.168.11.200:8000/goodtask3-14941.html">実行日をカレンダーから選んで項目を追加するリマインダーアプリ「GoodTask3」</a>
+    <a href="http://jun3010.me/goodtask3-14941.html">実行日をカレンダーから選んで項目を追加するリマインダーアプリ「GoodTask3」</a>
   </blockquote>
 </div></figure> <figure class="wp-block-embed is-type-rich is-provider-wp-oembed-blog-card-handler">
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="wp-embedded-content" data-secret="20EignZtYF">
-    <a href="http://192.168.11.200:8000/scrapbox-goodtask3-15125.html">ScrapboxとGoodTask3で行う教師向けタスク管理フローチャート</a>
+    <a href="http://jun3010.me/scrapbox-goodtask3-15125.html">ScrapboxとGoodTask3で行う教師向けタスク管理フローチャート</a>
   </blockquote>
 </div></figure> 
 

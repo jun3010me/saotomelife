@@ -40,7 +40,7 @@ ifunboxでipaのバックアップをして、恐る恐る起動してみると�
 
 &nbsp;
 
-いやー良かったー！1.4.0は脱獄環境でも<a rel="nofollow" href="http://192.168.11.200:8000/line-no-detect-update-2472.html">現状のLINE No Detectで起動可能</a>です！
+いやー良かったー！1.4.0は脱獄環境でも<a rel="nofollow" href="http://jun3010.me/line-no-detect-update-2472.html">現状のLINE No Detectで起動可能</a>です！
 
 &nbsp;
 

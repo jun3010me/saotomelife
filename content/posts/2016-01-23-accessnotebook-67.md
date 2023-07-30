@@ -23,7 +23,7 @@ tags:
 先日、万年筆を買いました。  
 3万円ほどするドイツ製の万年筆です。
 
-<a href="http://192.168.11.200:8000/pelikan-m400-11451.html" target="_blank" rel="noopener noreferrer">万年筆の世界に入り、あの鳥の虜となった – 早乙女珈琲店</a>
+<a href="http://jun3010.me/pelikan-m400-11451.html" target="_blank" rel="noopener noreferrer">万年筆の世界に入り、あの鳥の虜となった – 早乙女珈琲店</a>
 
 アソシエっていう雑誌の付録の万年筆が気になり購入、  
 それが書きづらくて初心者向け万年筆カクノを購入。  
@@ -64,7 +64,7 @@ tags:
 文具王さんが開発したアクセスノートブックというノートなんですが、
 
 去年の10月に、5冊目を購入していました。  
-<a href="http://192.168.11.200:8000/accessnotebook-no5-11173.html" target="_blank" rel="noopener noreferrer">AccessNotebook5冊目を購入しました – 早乙女珈琲店</a>
+<a href="http://jun3010.me/accessnotebook-no5-11173.html" target="_blank" rel="noopener noreferrer">AccessNotebook5冊目を購入しました – 早乙女珈琲店</a>
 
 それまでは半年に1冊のペースで使っていて、  
 万年筆を買う前が、ちょうど160ページくらいでした。  

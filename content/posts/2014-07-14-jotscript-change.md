@@ -24,7 +24,7 @@ tags:
 
 この記事は少し古めの記事です。  
 iPadで使うタッチペンを探している方は、最新記事をご覧ください。  
-<a href="http://192.168.11.200:8000/ipad-iphone-styluspen-14768.html" target="_blank">7年かけて色々試し買い続けて分かった、iPhoneやiPadに最適なタッチペン3本を用途別に紹介します – さおとめらいふ</a>
+<a href="http://jun3010.me/ipad-iphone-styluspen-14768.html" target="_blank">7年かけて色々試し買い続けて分かった、iPhoneやiPadに最適なタッチペン3本を用途別に紹介します – さおとめらいふ</a>
 
 ## JotScriptの不調
 
@@ -32,7 +32,7 @@ iPadで使うタッチペンを探している方は、最新記事をご覧く�
 
 **</p> 
 
-・<a href="http://192.168.11.200:8000/adonit-jot-script-evernote-iyh-7676.html" target="_blank">Bluetoothで繋がるタッチペンを買ったからには本気で使わなきゃね！ | No:7676 | 早乙女珈琲店</a>
+・<a href="http://jun3010.me/adonit-jot-script-evernote-iyh-7676.html" target="_blank">Bluetoothで繋がるタッチペンを買ったからには本気で使わなきゃね！ | No:7676 | 早乙女珈琲店</a>
 
 </strong>
 
@@ -41,7 +41,7 @@ iPadで使うタッチペンを探している方は、最新記事をご覧く�
 > Bluetooth接続なタッチペンが結構出揃ってきたなぁという印象もありますが、完成度がまだまだな部分がありました。
 > 
 > <p class="origin">
->   <a href="http://192.168.11.200:8000/adonit-jot-script-evernote-iyh-7676.html" target="new">Bluetoothで繋がるタッチペンを買ったからには本気で使わなきゃね！ | No:7676 | 早乙女珈琲店</a>
+>   <a href="http://jun3010.me/adonit-jot-script-evernote-iyh-7676.html" target="new">Bluetoothで繋がるタッチペンを買ったからには本気で使わなきゃね！ | No:7676 | 早乙女珈琲店</a>
 > </p>
 
 でも思ったんです。8000円のペンにしては、あまりにも酷い出来じゃないか？と。
