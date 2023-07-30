@@ -64,4 +64,5 @@ jobs:
          username: ${{ secrets.FTP_USERNAME }}
          password: ${{ secrets.FTP_PASSWORD }}
          local-dir: ./public/
-         server-dir: /path/to/www/
+         server-dir: /home/jun3010me/www/
+         passive : true
