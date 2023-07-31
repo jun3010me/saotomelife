@@ -42,6 +42,11 @@ page = [ "HTML" ] # if you want AMP enable.
   categories = "categories"
   archive = "archives"
 
+[module]
+[[module.mounts]]
+  source = 'content/posts/attachments'
+  target = 'static'
+
 [markup]
   defaultMarkdownHandler = 'goldmark'
   [markup.asciidocExt]
