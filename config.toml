@@ -35,7 +35,7 @@ mail = "mailto:jun3010me-at-gmail.com"
 github = "https://github.com/jun3010me"
 
 [outputs]
-page = [ "HTML", "AMP" ] # if you want AMP enable.
+page = [ "HTML" ] # if you want AMP enable.
 
 [taxonomies]
   tag = "tags"
