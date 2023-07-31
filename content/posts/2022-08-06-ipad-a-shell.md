@@ -5,7 +5,7 @@ type: post
 date: 2022-08-06T04:40:35+00:00
 excerpt: iPadのローカル環境でターミナルが使えるアプリ「a-Shell」の紹介です。
 url: /ipad-a-shell-23009.html
-thumbnail: /wp-content/uploads/2022/08/E330AE90-FB92-496C-A789-8DA7E959EB3E_1_102_o_ipadpro11_spacegrey_landscape.png
+thumbnail: /wp-content/uploads/2022/08/E330AE90-FB92-496C-A789-8DA7E959EB3E_1_102_o_ipadpro11_spacegrey_landscape-min.png
 wp-seo-meta-robots:
   - 'a:0:{}'
 categories:
